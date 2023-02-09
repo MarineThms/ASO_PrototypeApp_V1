@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Debit Langsung BECS AU";
+"%1$@ account ending in %2$@" = "%1$@ rekening berakhiran dengan %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ berakhiran %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Baris alamat ke-2 (opsional)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Rekening bank";
 
-"Bank" = "Bank";
+"Billing Address" = "Alamat Tagihan";
 
-"Boleto" = "Boleto";
+"Billing address" = "Alamat tagihan";
 
-"Card" = "Kartu";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Informasi kartu";
 
-"FPX" = "FPX";
+"Card number" = "Nomor kartu";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Data tidak valid.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "BB / TT";
 
-"Link" = "Link";
+"MM/YY" = "BB/TT";
 
-"NetBanking" = "Internet Banking";
+"Postal Code" = "Kode Pos";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Alamat Pengiriman";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Negara Bagian / Provinsi / Wilayah";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "BSB yang Anda masukkan tidak valid.";
 
-"SEPA Debit" = "SEPA Debit";
+"To scan your card, allow camera access in Settings." = "Untuk memindai kartu Anda, izinkan akses kamera di Pengaturan.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "ZIP Anda tidak valid.";
 
-"Timed out authenticating your payment method -- try again" = "Waktu autentikasi metode pembayaran Anda habis -- coba lagi";
+"Your card number is incomplete." = "Nomor kartu Anda tidak lengkap.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Nomor kartu Anda tidak valid.";
 
-"US Bank Account" = "Rekening Bank AS";
+"Your card's expiration date is incomplete." = "Tanggal kedaluwarsa kartu Anda tidak lengkap.";
 
-"Unknown" = "Tak dikenal";
+"Your card's expiration date is invalid." = "Tanggal kedaluwarsa kartu Anda tidak valid.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Kami tidak dapat mengautentikasi metode pembayaran Anda. Pilih metode pembayaran yang berbeda dan coba lagi.";
+"Your card's expiration month is invalid." = "Bulan kedaluwarsa kartu Anda tidak valid.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Tahun kedaluwarsa kartu Anda tidak valid.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Kode keamanan kartu Anda tidak lengkap.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kode keamanan kartu Anda tidak valid.";
+
+"Your postal code is invalid." = "Kode pos Anda tidak valid.";
+
+"card number" = "nomor kartu";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "Tanggal kedaluwarsa";

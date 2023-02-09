@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Débito automático AU BECS";
+"%1$@ account ending in %2$@" = "Conta %1$@ de final %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ com final %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Endereço – Linha 2 (opcional)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Conta bancária";
 
-"Bank" = "Banco";
+"Billing Address" = "Endereço de cobrança";
 
-"Boleto" = "Boleto";
+"Billing address" = "Endereço de cobrança";
 
-"Card" = "Cartão";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Dados do cartão";
 
-"FPX" = "FPX";
+"Card number" = "Número do cartão";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Dados inválidos.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / AA";
 
-"Link" = "Link";
+"MM/YY" = "MM/AA";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Código postal";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Endereço de envio";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Estado/Província/Região";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "O BSB inserido é inválido.";
 
-"SEPA Debit" = "Débito SEPA";
+"To scan your card, allow camera access in Settings." = "Para escanear seu cartão, autorize o acesso à câmera nos Ajustes.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Código postal inválido.";
 
-"Timed out authenticating your payment method -- try again" = "Tempo limite esgotado para autenticar sua forma de pagamento – tente novamente";
+"Your card number is incomplete." = "Número do cartão incompleto.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Número do cartão inválido.";
 
-"US Bank Account" = "Conta bancária dos EUA";
+"Your card's expiration date is incomplete." = "Data de validade incompleta.";
 
-"Unknown" = "Desconhecido";
+"Your card's expiration date is invalid." = "Data de validade inválida.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Não é possível autenticar sua forma de pagamento. Escolha outra forma de pagamento e tente de novo.";
+"Your card's expiration month is invalid." = "O mês de validade do cartão é inválido.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Ano de validade inválido.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Código de segurança incompleto.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Código de segurança inválido.";
+
+"Your postal code is invalid." = "Código postal inválido.";
+
+"card number" = "número do cartão";
+
+"example@example.com" = "exemplo@exemplo.com";
+
+"expiration date" = "data de expiração";

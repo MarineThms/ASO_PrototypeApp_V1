@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS -suoraveloitus";
+"%1$@ account ending in %2$@" = "%1$@ -tili päättyy numeroihin %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ päättyy numeroihin %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Osoiterivi 2 (valinnainen)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Pankkitili";
 
-"Bank" = "Pankki";
+"Billing Address" = "Laskutusosoite";
 
-"Boleto" = "Boleto";
+"Billing address" = "Laskutusosoite";
 
-"Card" = "Kortti";
+"CVC" = "CVC-tunnus";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV-koodi";
 
-"EPS" = "EPS";
+"Card information" = "Kortin tiedot";
 
-"FPX" = "FPX";
+"Card number" = "Kortin numero";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Virheelliset tiedot.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "KK/VV";
 
-"Link" = "Linkki";
+"MM/YY" = "KK/VV";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Postinumero";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Lähetysosoite";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Osavaltio/maakunta/alue";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Antamasi BSB-numero on virheellinen.";
 
-"SEPA Debit" = "SEPA Debit";
+"To scan your card, allow camera access in Settings." = "Anna kameralle käyttöoikeus, jotta voit skannata kortin.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Postinumero on virheellinen.";
 
-"Timed out authenticating your payment method -- try again" = "Maksutapasi todennus aikakatkaistiin – yritä uudelleen.";
+"Your card number is incomplete." = "Kortin numero on puutteellinen.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Kortin numero on virheellinen.";
 
-"US Bank Account" = "Yhdysvaltalainen pankkitili";
+"Your card's expiration date is incomplete." = "Kortin voimassaoloaika on puutteellinen.";
 
-"Unknown" = "Tuntematon";
+"Your card's expiration date is invalid." = "Kortin voimassaoloaika on virheellinen.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Emme pystyneet todentamaan maksutapaasi. Valitse toinen maksutapa ja yritä uudelleen.";
+"Your card's expiration month is invalid." = "Kortin erääntymiskuukausi ei kelpaa.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Kortin voimassaolovuosi ei kelpaa.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Kortin turvakoodi on puutteellinen.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kortin turvakoodi on virheellinen.";
+
+"Your postal code is invalid." = "Postinumeroon virheellinen.";
+
+"card number" = "kortin numero";
+
+"example@example.com" = "esimerkki@esimerkki.com";
+
+"expiration date" = "erääntymispäivä";

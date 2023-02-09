@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Otomatik Ödeme";
+"%1$@ account ending in %2$@" = "%2$@ ile biten %1$@ hesabınız";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%2$@ İle Biten %1$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Adres satırı 2 (isteğe bağlı)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Banka Hesabı";
 
-"Bank" = "Banka";
+"Billing Address" = "Fatura Adresi";
 
-"Boleto" = "Boleto";
+"Billing address" = "Fatura adresi";
 
-"Card" = "Kart";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kart bilgileri";
 
-"FPX" = "FPX";
+"Card number" = "Kart numarası";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Geçersiz veri.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "AA / YY";
 
-"Link" = "Link";
+"MM/YY" = "AA/YY";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Posta Kodu";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Gönderi Adresi";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "İl/İlçe/Bölge";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Girdiğiniz BSB geçersiz.";
 
-"SEPA Debit" = "SEPA Bankamatik";
+"To scan your card, allow camera access in Settings." = "Kartınızı taramak için Ayarlar'da kamera erişimine izin verin.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Posta kodunuz geçersiz.";
 
-"Timed out authenticating your payment method -- try again" = "Ödeme metodunuz doğrulanırken zaman aşımına uğradı -- tekrar deneyin";
+"Your card number is incomplete." = "Kart numaranız eksik.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Kart numaranız geçersiz.";
 
-"US Bank Account" = "Banka Hesabı";
+"Your card's expiration date is incomplete." = "Kartınızın son kullanma tarihi eksik.";
 
-"Unknown" = "Bilinmeyen";
+"Your card's expiration date is invalid." = "Kartınızın son kullanma tarihi geçersiz.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Ödeme metodunuzu doğrulayamadık. Lütfen farklı bir ödeme metodu seçin ve tekrar deneyin.";
+"Your card's expiration month is invalid." = "Kartınızın son kullanma ayı geçersiz.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Kartınızın son kullanma yılı geçersiz.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Kartınızın güvenlik kodu eksik.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kartınızın güvenlik kodu geçersiz.";
+
+"Your postal code is invalid." = "Posta kodunuz geçersiz.";
+
+"card number" = "kart numarası";
+
+"example@example.com" = "ornek@ornek.com";
+
+"expiration date" = "son kullanma tarihi";

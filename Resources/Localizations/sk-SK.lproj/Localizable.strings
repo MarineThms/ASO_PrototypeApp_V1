@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS inkaso";
+"%1$@ account ending in %2$@" = "%1$@ účet končiaci na %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "Karta %1$@ s poslednými štyrmi číslami %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Riadok adresy 2 (voliteľne)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankový účet";
 
-"Bank" = "Banka";
+"Billing Address" = "Fakturačná adresa";
 
-"Boleto" = "Boleto";
+"Billing address" = "Fakturačná adresa";
 
-"Card" = "Karta";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Informácie o karte";
 
-"FPX" = "FPX";
+"Card number" = "Číslo karty";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Neplatné údaje.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / RR";
 
-"Link" = "Link";
+"MM/YY" = "MM/RR";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "PSČ";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Dodacia adresa";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Štát/provincia/región";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Zadané BSB je neplatné.";
 
-"SEPA Debit" = "SEPA inkaso";
+"To scan your card, allow camera access in Settings." = "Na nasnímanie vašej karty umožnite prístup ku kamere pod položkou Nastavenia.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Vaše PSČ je neplatné.";
 
-"Timed out authenticating your payment method -- try again" = "Vypršal čas autentifikácie vášho spôsobu platby -- skúste znova";
+"Your card number is incomplete." = "Číslo vašej karty je neúplné.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Číslo vašej karty je neplatné.";
 
-"US Bank Account" = "Americký bankový účet";
+"Your card's expiration date is incomplete." = "Dátum vypršania platnosti vašej karty je neúplný.";
 
-"Unknown" = "Neznáme";
+"Your card's expiration date is invalid." = "Dátum vypršania platnosti vašej karty je neplatný.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nemôžeme overiť váš spôsob platby. Vyberte iný spôsob platby a skúste to znova.";
+"Your card's expiration month is invalid." = "Mesiac vypršania platnosti vašej karty je neplatný.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Rok ukončenia platnosti vašej karty je neplatný.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Bezpečnostný kód vašej karty je neúplný.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Bezpečnostný kód vašej karty je neplatný.";
+
+"Your postal code is invalid." = "Vaše PSČ je neplatné.";
+
+"card number" = "číslo karty";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "dátum exspirácie";

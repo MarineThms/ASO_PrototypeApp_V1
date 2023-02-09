@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS tiešais debets";
+"%1$@ account ending in %2$@" = "%1$@konts, kas beidzas ar%2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@, kuras numura pēdējie cipari ir %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "2. adreses rindiņa (nav obligāti)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankas konts";
 
-"Bank" = "Banka";
+"Billing Address" = "Norēķinu adrese";
 
-"Boleto" = "Boleto";
+"Billing address" = "Norēķinu adrese";
 
-"Card" = "Karte";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kartes informācija";
 
-"FPX" = "FPX";
+"Card number" = "Kartes numurs";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Nederīgi dati.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM/GG";
 
-"Link" = "Link";
+"MM/YY" = "MM/GG";
 
-"NetBanking" = "Tiešsaistes banku pakalpojumi";
+"Postal Code" = "Pasta indekss";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Piegādes adrese";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Novads/štats/province/reģions";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Ievadītais BSB nav derīgs.";
 
-"SEPA Debit" = "SEPA debets";
+"To scan your card, allow camera access in Settings." = "Lai noskenētu karti, Iestatījumos atļaujiet piekļuvi kamerai.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Pasta indekss nav derīgs.";
 
-"Timed out authenticating your payment method -- try again" = "Autentificējot jūsu maksājuma metodi, iestājās noildze — mēģiniet vēlreiz";
+"Your card number is incomplete." = "Kartes numurs nav pilnīgs.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Kartes numurs nav derīgs.";
 
-"US Bank Account" = "ASV bankas konts";
+"Your card's expiration date is incomplete." = "Kartes derīguma termiņa datums nav pilnīgs.";
 
-"Unknown" = "Nav zināms";
+"Your card's expiration date is invalid." = "Kartes derīguma termiņa beigu datums nav derīgs.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nevaram autentificēt jūsu maksājuma metodi. Lūdzu, izvēlieties citu maksājuma metodi un mēģiniet vēlreiz.";
+"Your card's expiration month is invalid." = "Kartes derīguma termiņa mēnesis nav derīgs.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Kartes derīguma termiņa gads nav derīgs.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Kartes drošības kods nav pilnīgs.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kartes drošības kods nav derīgs.";
+
+"Your postal code is invalid." = "Pasta indekss nav derīgs.";
+
+"card number" = "kartes numurs";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "derīguma termiņš";

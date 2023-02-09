@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Άμεση χρέωση AU BECS";
+"%1$@ account ending in %2$@" = "%1$@ τραπεζικός λογαριασμός που λήγει σε %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ λήγει σε %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Γραμμή διεύθυνσης 2 (προαιρετικό)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "Κωδικός BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Τραπεζικός λογαριασμός";
 
-"Bank" = "Τράπεζα";
+"Billing Address" = "Διεύθυνση χρέωσης";
 
-"Boleto" = "Boleto";
+"Billing address" = "Διεύθυνση χρέωσης";
 
-"Card" = "Κάρτα";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Στοιχεία κάρτας";
 
-"FPX" = "FPX";
+"Card number" = "Αριθμός κάρτας";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Μη έγκυρα δεδομένα.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "ΜΜ / ΕΕ";
 
-"Link" = "Link";
+"MM/YY" = "ΜΜ/ΕΕ";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Ταχυδρομικός κώδικας";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Διεύθυνση αποστολής";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Πολιτεία / Επαρχία / Περιοχή";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Ο κωδικός BSB που εισάγατε δεν είναι έγκυρος.";
 
-"SEPA Debit" = "Χρέωση SEPA";
+"To scan your card, allow camera access in Settings." = "Για να σαρώσετε την κάρτα σας, επιτρέψτε την πρόσβαση της κάμερας από τις Ρυθμίσεις.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
 
-"Timed out authenticating your payment method -- try again" = "Έληξε το χρονικό όριο επαλήθευσης της μεθόδου πληρωμής σας -- δοκιμάστε ξανά";
+"Your card number is incomplete." = "Ο αριθμός της κάρτας σας είναι ελλιπής.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Ο αριθμός της κάρτας σας δεν είναι έγκυρος.";
 
-"US Bank Account" = "Τραπεζικός λογαριασμός στις Η.Π.Α.";
+"Your card's expiration date is incomplete." = "Η ημερομηνία λήξης της κάρτας σας είναι ελλιπής.";
 
-"Unknown" = "Άγνωστο";
+"Your card's expiration date is invalid." = "Η ημερομηνία λήξης της κάρτας σας δεν είναι έγκυρη.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Δεν μπορούμε να επαληθεύσουμε τη μέθοδο πληρωμής σας. Επιλέξτε διαφορετική μέθοδο πληρωμής και προσπαθήστε ξανά.";
+"Your card's expiration month is invalid." = "Ο μήνας λήξης της κάρτας σας δεν είναι έγκυρος.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Το έτος λήξης της κάρτας σας δεν είναι έγκυρο.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Ο κωδικός ασφαλείας της κάρτας σας είναι ελλιπής.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Ο κωδικός ασφαλείας της κάρτας σας δεν είναι έγκυρος.";
+
+"Your postal code is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
+
+"card number" = "αριθμός κάρτας";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "ημερομηνία λήξης";

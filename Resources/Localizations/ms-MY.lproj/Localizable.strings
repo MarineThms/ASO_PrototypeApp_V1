@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Debit Terus BECS AU";
+"%1$@ account ending in %2$@" = "akaun %1$@ yang berakhir dengan %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ – berakhiran %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Alamat baris 2 (opsyenal)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Akaun Bank";
 
-"Bank" = "Bank";
+"Billing Address" = "Alamat Pengebilan";
 
-"Boleto" = "Boleto";
+"Billing address" = "Alamat pengebilan";
 
-"Card" = "Kad";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Maklumat kad";
 
-"FPX" = "FPX";
+"Card number" = "Nombor kad";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Data tidak sah.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "BB / TT";
 
-"Link" = "Link";
+"MM/YY" = "BB/TT";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Poskod";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Alamat Pengiriman";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Negeri/Wilayah/Rantau";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "BSB yang anda masukkan tidak sah.";
 
-"SEPA Debit" = "Debit SEPA";
+"To scan your card, allow camera access in Settings." = "Untuk mengimbas kad anda, benarkan akses kamera dalam Tetapan.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Kod ZIP anda tidak sah.";
 
-"Timed out authenticating your payment method -- try again" = "Masa tamat ketika mensahihkan kaedah pembayaran anda -- cuba lagi";
+"Your card number is incomplete." = "Nombor kad anda tidak lengkap.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Nombor kad anda tidak sah.";
 
-"US Bank Account" = "Akaun Bank AS";
+"Your card's expiration date is incomplete." = "Tarikh tamat tempoh kad anda tidak lengkap.";
 
-"Unknown" = "Tidak diketahui";
+"Your card's expiration date is invalid." = "Tarikh tamat tempoh kad anda tidak sah.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Kami tidak dapat mensahihkan kaedah pembayaran anda. Sila pilih kaedah pembayaran yang berbeza dan cuba lagi.";
+"Your card's expiration month is invalid." = "Bulan tamat tempoh kad anda tidak sah.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Tahun tamat tempoh kad anda tidak sah.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Kod keselamatan kad anda tidak lengkap.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kod keselamatan kad anda tidak sah.";
+
+"Your postal code is invalid." = "Poskod anda tidak sah.";
+
+"card number" = "nombor kad";
+
+"example@example.com" = "contoh@contoh.com";
+
+"expiration date" = "Tarikh tamat tempoh";

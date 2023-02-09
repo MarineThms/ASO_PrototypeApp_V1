@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "BECS ダイレクトデビット (オーストラリア)";
+"%1$@ account ending in %2$@" = "末尾が %2$@ の %1$@ 口座";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "末尾が %2$@ の %1$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "住所 (2 行目、省略可)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "銀行口座";
 
-"Bank" = "銀行";
+"Billing Address" = "請求先住所";
 
-"Boleto" = "Boleto";
+"Billing address" = "請求先住所";
 
-"Card" = "クレジットカード番号";
+"CVC" = "セキュリティコード";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "カード情報";
 
-"FPX" = "FPX";
+"Card number" = "カード番号";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "データが無効です。";
 
-"Klarna" = "Klarna";
+"MM / YY" = "月 / 年";
 
-"Link" = "Link";
+"MM/YY" = "MM/YY";
 
-"NetBanking" = "ネットバンキング";
+"Postal Code" = "郵便番号";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "配送先住所";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "都道府県";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "入力した BSB コードが無効です。";
 
-"SEPA Debit" = "SEPA デビット";
+"To scan your card, allow camera access in Settings." = "カードをスキャンするには、設定でカメラへのアクセスを許可してください。";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "郵便番号が無効です。";
 
-"Timed out authenticating your payment method -- try again" = "支払い方法の認証がタイムアウトしました。もう一度お試しください";
+"Your card number is incomplete." = "カード番号に不備があります。";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "カード番号が無効です。";
 
-"US Bank Account" = "アメリカの銀行口座";
+"Your card's expiration date is incomplete." = "カードの有効期限の日付に不備があります。";
 
-"Unknown" = "不明";
+"Your card's expiration date is invalid." = "カードの有効期限の日付が無効です。";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "お客様の支払い方法を認証できませんでした。別の支払い方法を選択してもう一度お試しください。";
+"Your card's expiration month is invalid." = "カードの有効期限の月が無効です。";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "カードの有効期限の年が無効です。";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "カードのセキュリティコードに不備があります。";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "カードのセキュリティコードが無効です。";
+
+"Your postal code is invalid." = "郵便番号が無効です";
+
+"card number" = "カード番号";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "有効期限";

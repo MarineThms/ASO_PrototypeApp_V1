@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS tiesioginis debetas";
+"%1$@ account ending in %2$@" = "%1$@ sąskaita, kurios paskutiniai skaičiai %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@, kuri baigiasi %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "2 adreso eilutė (pasirenkama)";
 
-"Alipay" = "„Alipay“";
+"Apple Pay" = "„Apple Pay“";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "„Bancontact“";
+"Bank Account" = "Banko sąskaita";
 
-"Bank" = "Bankas";
+"Billing Address" = "Sąskaitų siuntimo adresas";
 
-"Boleto" = "Boleto";
+"Billing address" = "Atsiskaitymo adresas";
 
-"Card" = "Kortelė";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kortelės duomenys";
 
-"FPX" = "FPX";
+"Card number" = "Kortelės numeris";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Netinkami duomenys.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "mm / MM";
 
-"Link" = "\"Link\"";
+"MM/YY" = "mm / MM";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Pašto kodas";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Siuntimo adresas";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Valstija / provincija / regionas";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Įvestas netinkamas BSB numeris.";
 
-"SEPA Debit" = "SEPA debetas";
+"To scan your card, allow camera access in Settings." = "Kad nuskaitytumėte kortelę, nustatymuose suteikite prieigą fotoaparatui.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Jūsų pašto kodas yra netinkamas.";
 
-"Timed out authenticating your payment method -- try again" = "Baigėsi mokėjimo būdui autentifikuoti skirtas laikas, bandykite dar kartą";
+"Your card number is incomplete." = "Neišsamus kortelės numeris.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Netinkamas kortelės numeris.";
 
-"US Bank Account" = "JAV banko sąskaita";
+"Your card's expiration date is incomplete." = "Neišsami kortelės galiojimo pabaigos data.";
 
-"Unknown" = "Nežinoma";
+"Your card's expiration date is invalid." = "Netinkama kortelės galiojimo pabaigos data.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nepavyko autentifikuoti mokėjimo būdo. Pasirinkite kitą mokėjimo būdą ir bandykite dar kartą.";
+"Your card's expiration month is invalid." = "Negaliojantis kortelės galiojimo pabaigos mėnuo.";
 
-"WeChat Pay" = "„WeChat“ mokėjimas";
+"Your card's expiration year is invalid." = "Kortelės galiojimo pabaigos metai neteisingi.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Neišsamus kortelės saugos kodas.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kortelės saugos kodas negalioja.";
+
+"Your postal code is invalid." = "Jūsų pašto kodas yra netinkamas.";
+
+"card number" = "kortelės numeris";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "galiojimo pabaigos data";

@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Domiciliació bancària AU BECS";
+"%1$@ account ending in %2$@" = "%1$@ compte bancari que acaba en %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ que acaba en %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Línia de l'adreça 2 (opcional)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Compte bancari";
 
-"Bank" = "Banc";
+"Billing Address" = "Adreça de facturació";
 
-"Boleto" = "Boleto";
+"Billing address" = "Adreça de facturació";
 
-"Card" = "Targeta";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Informació de targeta";
 
-"FPX" = "FPX";
+"Card number" = "Número de targeta";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Dades no vàlides.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / AA";
 
-"Link" = "Link";
+"MM/YY" = "MM / AA";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Codi postal";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Adreça d'enviament";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "País / Província / Regió";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "El BSB que has introduït no és vàlid.";
 
-"SEPA Debit" = "Domiciliació SEPA";
+"To scan your card, allow camera access in Settings." = "Per escanejar la teva targeta, permet l'accès a la càmera a Ajusts.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "El teu ZIP no és vàlid.";
 
-"Timed out authenticating your payment method -- try again" = "S'ha esgotat el temps d'autenticació del teu mètode de pagament - intenta-ho un altre cop";
+"Your card number is incomplete." = "El número de la teva targeta no està complet.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "El número de la teva targeta no és vàlid.";
 
-"US Bank Account" = "Compte bancari dels EUA";
+"Your card's expiration date is incomplete." = "La data de caducitat de la teva targeta no està completa.";
 
-"Unknown" = "Desconegut";
+"Your card's expiration date is invalid." = "La data de caducitat de la teva targeta no és vàlida.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "No podem autenticar el teu mètode de pagament. Si us plau, escull un mètode de pagament diferent.";
+"Your card's expiration month is invalid." = "El mes de caducitat de la teva targeta no és vàlid.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "L'any de caducitat de la teva targeta no és vàlid.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "El codi de seguretat de la teva targeta no està complet.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "El codi de seguretat de la teva targeta no és vàlid";
+
+"Your postal code is invalid." = "El teu codi postal no és vàlid.";
+
+"card number" = "número de targeta";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "data de caducitat";

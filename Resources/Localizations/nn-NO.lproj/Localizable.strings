@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Direct Debit";
+"%1$@ account ending in %2$@" = "%1$@ konto som sluttar på %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ sluttar på %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Adresselinje 2 (valfri)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB-kode";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankkonto";
 
-"Bank" = "Bank";
+"Billing Address" = "Fakturaadresse";
 
-"Boleto" = "Boleto";
+"Billing address" = "Fakturaadresse";
 
-"Card" = "Kort";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kortinformasjon";
 
-"FPX" = "FPX";
+"Card number" = "Kortnummer";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Ugyldige data.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / ÅÅ";
 
-"Link" = "Link";
+"MM/YY" = "MM/ÅÅ";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Postnummer";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Sendingsadresse";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Stat/område/region";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "BSB-koden du skreiv inn er ugyldig.";
 
-"SEPA Debit" = "SEPA-betaling";
+"To scan your card, allow camera access in Settings." = "Gi tilgang til kameraet i Innstillingar for å skanne kortet.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "ZIP-koden er ugyldig.";
 
-"Timed out authenticating your payment method -- try again" = "Tidsavbrot ved godkjenning av betalingsmåten - prøv igjen";
+"Your card number is incomplete." = "Kortnummeret er ufullstendig.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Kortnummeret ditt er ugyldig.";
 
-"US Bank Account" = "Bankkonto i USA";
+"Your card's expiration date is incomplete." = "Utløpsdatoen til kortet er ufullstendig.";
 
-"Unknown" = "Ukjend";
+"Your card's expiration date is invalid." = "Utløpsdatoen til kortet er ugyldig.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Vi kan ikkje godkjenne betalingsmåten. Ver vennleg å velje ein annan betalingsmetode og prøv igjen.";
+"Your card's expiration month is invalid." = "Utløpsmånaden på kortet er ugyldig.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Utløpsåret på kortet ditt er ugyldig.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Sikkerheitskoden til kortet er ufullstendig.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Sikkerheitskoden til kortet er ugyldig.";
+
+"Your postal code is invalid." = "Postnummeret ditt er ugyldig.";
+
+"card number" = "kortnummer";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "utløpsdato";

@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Direct Debit";
+"%1$@ account ending in %2$@" = "%1$@-rekening die eindigt op %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ eindigend op %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Adresregel 2 (optioneel)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankrekening";
 
-"Bank" = "Bank";
+"Billing Address" = "Factuuradres";
 
-"Boleto" = "Boleto";
+"Billing address" = "Factuuradres";
 
-"Card" = "Kaart";
+"CVC" = "Cvc";
 
-"Clearpay" = "Clearpay";
+"CVV" = "Cvv";
 
-"EPS" = "EPS";
+"Card information" = "Kaartgegevens";
 
-"FPX" = "FPX";
+"Card number" = "Kaartnummer";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Ongeldige gegevens.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / JJ";
 
-"Link" = "Link";
+"MM/YY" = "MM/JJ";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Postcode";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Verzendadres";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Staat/provincie/regio";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Het ingevoerde BSB-nummer is ongeldig.";
 
-"SEPA Debit" = "SEPA-incasso";
+"To scan your card, allow camera access in Settings." = "Sta toegang tot je camera toe in Instellingen om je kaart te scannen.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Je ZIP is ongeldig.";
 
-"Timed out authenticating your payment method -- try again" = "Time-out bij authenticatie van de betaalmethode. Probeer het nogmaals";
+"Your card number is incomplete." = "Je kaartnummer is onvolledig.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Je kaartnummer is ongeldig.";
 
-"US Bank Account" = "Amerikaanse bankrekening";
+"Your card's expiration date is incomplete." = "De vervaldatum van je kaart is onvolledig.";
 
-"Unknown" = "Onbekend";
+"Your card's expiration date is invalid." = "De vervaldatum van je kaart is ongeldig.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "We kunnen de betaalmethode niet authenticeren. Kies een andere betaalmethode en probeer het nogmaals.";
+"Your card's expiration month is invalid." = "De vervalmaand van de kaart is ongeldig.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Het vervaljaar van de kaart is ongeldig.";
 
-"giropay" = "Giropay";
+"Your card's security code is incomplete." = "De beveiligingscode van je kaart is onvolledig.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "De beveiligingscode van je kaart is ongeldig.";
+
+"Your postal code is invalid." = "Je postcode is ongeldig.";
+
+"card number" = "kaartnummer";
+
+"example@example.com" = "voorbeeld@voorbeeld.com";
+
+"expiration date" = "vervaldatum";

@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Debitu Dirett BECS AU";
+"%1$@ account ending in %2$@" = "Kont ta' %1$@ li jintemm biċ-ċifri %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ li jispiċċa %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Indirizz linja 2 (mhux obbligatorju)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Kont bankarju";
 
-"Bank" = "Bank";
+"Billing Address" = "Indirizz tal-Kont";
 
-"Boleto" = "Boleto";
+"Billing address" = "Indirizz tal-kont";
 
-"Card" = "Kard";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "L-informazzjoni tal-kard";
 
-"FPX" = "FPX";
+"Card number" = "In-numru tal-kard";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Data invalida.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "XX / SS";
 
-"Link" = "Link";
+"MM/YY" = "XX/SS";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Kodiċi Postali";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "L-Indirizz tat-Trasport tal-Merkanzija";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Stat / Provinċja / Reġjun";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Il-BSB li daħħalt mhux validu.";
 
-"SEPA Debit" = "Debitu SEPA";
+"To scan your card, allow camera access in Settings." = "Biex tiskennja l-kard tiegħek, ippermetti l-aċċess tal-kamera fis-Settings.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Il-kodiċi postali tiegħek mhux validu.";
 
-"Timed out authenticating your payment method -- try again" = "Skada l-ħin tal-awtentikazzjoni tal-metodu tal-ħlas tiegħek -- erġa' pprova";
+"Your card number is incomplete." = "In-numru tal-kard tiegħek mhux komplut.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "In-numru tal-kard tiegħek mhux validu.";
 
-"US Bank Account" = "Kont tal-bank tal-Istati Uniti tal-Amerka";
+"Your card's expiration date is incomplete." = "Id-data tal-iskadenza tal-kard tiegħek mhijiex kompluta.";
 
-"Unknown" = "Mhux magħruf";
+"Your card's expiration date is invalid." = "Id-data tal-iskadenza tal-kard tiegħek mhijiex valida.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Ma nistgħux nawtentikaw il-metodu tal-ħlas tiegħek. Jekk jogħġbok agħżel metodu tal-ħlas differenti u erġa' pprova.";
+"Your card's expiration month is invalid." = "Ix-xahar tal-iskadenza tal-kard tiegħek mhux validu.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Is-sena tal-iskadenza tal-kard tiegħek mhijiex valida.";
 
-"giropay" = "Giropay";
+"Your card's security code is incomplete." = "Il-kodiċi tas-sigurtà tal-kard tiegħek mhux komplut.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Il-kodiċi tas-sigurtà tal-kard tiegħek mhux validu.";
+
+"Your postal code is invalid." = "Il-kodiċi postali tiegħek mhux validu.";
+
+"card number" = "in-numru tal-kard";
+
+"example@example.com" = "eżempju@eżempju.com";
+
+"expiration date" = "id-data tal-iskadenza";

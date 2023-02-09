@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS-beszedés";
+"%1$@ account ending in %2$@" = "%2$@ végződésű számla %1$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ végződése %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Cím 2. sora (nem kötelező)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankszámla";
 
-"Bank" = "Bank";
+"Billing Address" = "Számlázási cím";
 
-"Boleto" = "Boleto";
+"Billing address" = "Számlázási cím";
 
-"Card" = "Kártya";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kártyaadatok";
 
-"FPX" = "FPX";
+"Card number" = "Kártyaszám";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Érvénytelen adat.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "HH / ÉÉ";
 
-"Link" = "Link";
+"MM/YY" = "HH/ÉÉ";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Postai irányítószám";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Szállítási cím";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Állam/tartomány/régió";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "A beírt BSB-szám érvénytelen.";
 
-"SEPA Debit" = "SEPA beszedés";
+"To scan your card, allow camera access in Settings." = "A kártya beolvasásához engedélyezze a kamerához való hozzáférést a Beállításokban.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "A ZIP érvénytelen.";
 
-"Timed out authenticating your payment method -- try again" = "Fizetési módjának hitelesítésénél időtúllépés történt, próbálja újra.";
+"Your card number is incomplete." = "A kártyaszám hiányos.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "A kártyaszám érvénytelen.";
 
-"US Bank Account" = "USA bankszámla";
+"Your card's expiration date is incomplete." = "A kártya lejárati dátuma hiányos.";
 
-"Unknown" = "Ismeretlen";
+"Your card's expiration date is invalid." = "A kártya lejárati dátuma érvénytelen.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nem tudjuk hitelesíteni a fizetési módját. Kérjük, válasszon másik fizetési módot, és próbálkozzon újból.";
+"Your card's expiration month is invalid." = "Kártyájának lejárati hónapja érvénytelen.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Kártyájának lejárati éve érvénytelen.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "A kártya biztonsági kódja hiányos.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "A kártya biztonsági kódja érvénytelen.";
+
+"Your postal code is invalid." = "Az irányítószám érvénytelen.";
+
+"card number" = "kártyaszám";
+
+"example@example.com" = "valaki@example.com";
+
+"expiration date" = "lejárati dátum";

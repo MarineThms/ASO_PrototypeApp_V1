@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS директно дебитиране";
+"%1$@ account ending in %2$@" = "%1$@ сметка, завършваща на %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ завършващо на %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Ред 2 на адреса (по желание)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Банкова сметка";
 
-"Bank" = "Банка";
+"Billing Address" = "Адрес за фактуриране";
 
-"Boleto" = "Boleto";
+"Billing address" = "Адрес за фактуриране";
 
-"Card" = "Карта";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Информация за картата";
 
-"FPX" = "FPX";
+"Card number" = "Номер на картата";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Невалидни данни.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "ММ / ГГ";
 
-"Link" = "Link";
+"MM/YY" = "ММ/ГГ";
 
-"NetBanking" = "Netbanking";
+"Postal Code" = "Пощенски код";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Адрес за доставка";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Щат/Област/Регион";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "BSB, който сте въвели, е невалиден.";
 
-"SEPA Debit" = "SEPA дебит";
+"To scan your card, allow camera access in Settings." = "За да сканирате картата си, разрешете достъп до камерата в Настройки.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Вашият ZIP код е невалиден.";
 
-"Timed out authenticating your payment method -- try again" = "Времето на изчакване на удостоверяването на Вашия метод на плащане изтече -- опитайте отново";
+"Your card number is incomplete." = "Номерът на Вашата карта е непълен.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Номерът на Вашата карта е невалиден.";
 
-"US Bank Account" = "Банкова сметка в САЩ";
+"Your card's expiration date is incomplete." = "Срокът на валидност на Вашата карта е непълен.";
 
-"Unknown" = "Непознат";
+"Your card's expiration date is invalid." = "Датата на валидност на Вашата карта е невалидна.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Не можем да удостоверим Вашия метод на плащане. Моля, изберете различен метод на плащане и опитайте отново.";
+"Your card's expiration month is invalid." = "Месецът на валидност на Вашата карта е невалиден.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Годината на валидност на Вашата карта е невалидна.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Кодът за сигурност на Вашата карта е непълен.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Кодът за сигурност на Вашата карта е невалиден.";
+
+"Your postal code is invalid." = "Вашият пощенски код е невалиден.";
+
+"card number" = "номер на картата";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "дата на валидност";

@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Direct Debit";
+"%1$@ account ending in %2$@" = "%1$@ account na nagtatapos sa %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ nagtatapos sa %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Pangalawang linya ng adres";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Account sa Bangko";
 
-"Bank" = "Bangko";
+"Billing Address" = "Adres para sa Billing";
 
-"Boleto" = "Boleto";
+"Billing address" = "Adres para sa billing";
 
-"Card" = "Kard";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Impormasyon ng kard";
 
-"FPX" = "FPX";
+"Card number" = "Numero ng kard";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Data na di balido.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "BB / TT";
 
-"Link" = "Link";
+"MM/YY" = "BB / TT";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Postal Code";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Adres ng Nagpadala";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "State / Probinsiya / Rehiyon";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Ang BSB na ipinasok mo ay di balido.";
 
-"SEPA Debit" = "SEPA Debit";
+"To scan your card, allow camera access in Settings." = "Upang ma-scan ang iyong kard, pahintulutan ang access ng kamera sa Settings.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Ang iyong ZIP ay di balido.";
 
-"Timed out authenticating your payment method -- try again" = "Nag- time out sa pagpapatunay ng iyong paraan ng pagbabayad --- subukin muli";
+"Your card number is incomplete." = "Ang numero ng iyong kard ay di kumpleto.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Ang numero ng iyong kard ay di balido.";
 
-"US Bank Account" = "Account sa Bangko sa US";
+"Your card's expiration date is incomplete." = "Ang petsa ng pagkapaso ng iyong kard ay di kumpleto.";
 
-"Unknown" = "Di kilala";
+"Your card's expiration date is invalid." = "Ang petsa ng pagkapaso ng iyong kard ay di balido.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Hindi namin mapatunayan ang paraan ng iyong pagbabayad. Mangyaring pumili ng ibang paraan ng pagbabayad at subukin muli.";
+"Your card's expiration month is invalid." = "Ang buwan ng pagkapaso ng iyong kard ay di balido.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Ang taon ng pagkapaso ng iyong kard ay di balido.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Ang security code ng iyong kard ay di kumpleto.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Ang security code ng iyong kard ay di balido.";
+
+"Your postal code is invalid." = "Ang iyong postal code ay di balido.";
+
+"card number" = "numero ng kard";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "Petsa ng pagkapaso";

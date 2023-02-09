@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS-i otsekorraldus";
+"%1$@ account ending in %2$@" = "%1$@ konto lõpuga %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@, lõpeb nr-ga %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Aadressirida 2 (valikuline)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Pangakonto";
 
-"Bank" = "Pank";
+"Billing Address" = "Arveldusaadress";
 
-"Boleto" = "Boleto";
+"Billing address" = "Arveldusaadress";
 
-"Card" = "Kaart";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Kaardi andmed";
 
-"FPX" = "FPX";
+"Card number" = "Kaardinumber";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Valed andmed.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "KK / AA";
 
-"Link" = "Link";
+"MM/YY" = "KK/AA";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Sihtnumber";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Tarneaadress";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Maakond";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Sisestatud BSB-number ei ole kehtiv.";
 
-"SEPA Debit" = "SEPA deebet";
+"To scan your card, allow camera access in Settings." = "Kaardi skannimiseks lubage seadetes juurdepääs kaamerale.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Teie sihtnumber on kehtetu.";
 
-"Timed out authenticating your payment method -- try again" = "Makseviisi autentimise toiming aegus – proovige uuesti";
+"Your card number is incomplete." = "Teie kaardinumber on puudulik.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Teie kaardinumber on kehtetu.";
 
-"US Bank Account" = "USA pangakonto";
+"Your card's expiration date is incomplete." = "Kaardi aegumiskuupäev on puudulik.";
 
-"Unknown" = "Tundmatu";
+"Your card's expiration date is invalid." = "Teie kaardi aegumiskuupäev on kehtetu.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Makseviisi ei õnnestunud autentida. Palun valige muu makseviis ja proovige uuesti.";
+"Your card's expiration month is invalid." = "Kaardi aegumiskuu on kehtetu.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Kaardi aegumisaasta on kehtetu.";
 
-"giropay" = "Giropay";
+"Your card's security code is incomplete." = "Teie kaardi turvakood on puudulik.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Kaardi turvakood on kehtetu.";
+
+"Your postal code is invalid." = "Teie sihtnumber on kehtetu.";
+
+"card number" = "kaardinumber";
+
+"example@example.com" = "näide@näide.com";
+
+"expiration date" = "aegumiskuupäev";

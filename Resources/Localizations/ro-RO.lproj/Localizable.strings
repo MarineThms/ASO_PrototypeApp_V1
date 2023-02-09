@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Direct Debit";
+"%1$@ account ending in %2$@" = "Contul la %1$@ care se termină în %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ se termină în %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Rândul 2 pentru adresă (opțional)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "Număr BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Cont bancar";
 
-"Bank" = "Bancă";
+"Billing Address" = "Adresa de facturare";
 
-"Boleto" = "Boleto";
+"Billing address" = "Adresă de facturare";
 
-"Card" = "Număr card";
+"CVC" = "Cod CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "Cod CVC";
 
-"EPS" = "EPS";
+"Card information" = "Informații privind cardul";
 
-"FPX" = "FPX";
+"Card number" = "Număr card";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Datele nu sunt valide.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "LL/AA";
 
-"Link" = "Link";
+"MM/YY" = "LL/AA";
 
-"NetBanking" = "Netbanking";
+"Postal Code" = "Cod poștal";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Adresa de expediere";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Stat";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Numărul BSB pe care l-ați introdus nu este valid.";
 
-"SEPA Debit" = "SEPA Debit";
+"To scan your card, allow camera access in Settings." = "Pentru a vă scana cardul, permiteți accesul camerei din Setări.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Codul dvs. poștal nu este valid.";
 
-"Timed out authenticating your payment method -- try again" = "Timpul de autentificare a metodei dvs. de plată a expirat -- încercați din nou";
+"Your card number is incomplete." = "Numărul cardului dvs. nu este complet.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Numărul cardului dvs. nu este valid.";
 
-"US Bank Account" = "Cont bancar SUA";
+"Your card's expiration date is incomplete." = "Data de expirare a cardului dvs. nu este completă.";
 
-"Unknown" = "Necunoscut";
+"Your card's expiration date is invalid." = "Data de expirare a cardului dvs. nu este validă.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nu vă putem autentifica metoda de plată. Alegeți o altă metodă de plată și încercați din nou.";
+"Your card's expiration month is invalid." = "Luna de expirare a cardului dvs. nu este validă.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Anul de expirare al cardului dvs. nu este valid.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Codul de securitate al cardului dvs. nu este complet.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Codul de securitate al cardului dvs. nu este valid.";
+
+"Your postal code is invalid." = "Codul dvs. poștal nu este valid.";
+
+"card number" = "număr card";
+
+"example@example.com" = "exemplu@exemplu.com";
+
+"expiration date" = "data de expirare";

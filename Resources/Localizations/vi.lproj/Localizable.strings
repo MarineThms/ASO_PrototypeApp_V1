@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Ghi nợ trực tiếp AU Becs";
+"%1$@ account ending in %2$@" = "%1$@ tài khoản kết thúc bằng %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ kết thúc bằng %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Dòng địa chỉ 2 (tùy chọn)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Tài khoản ngân hàng";
 
-"Bank" = "Ngân hàng";
+"Billing Address" = "Địa chỉ thanh toán";
 
-"Boleto" = "Boleto";
+"Billing address" = "Địa chỉ thanh toán";
 
-"Card" = "Thẻ";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Thông tin thẻ";
 
-"FPX" = "FPX";
+"Card number" = "Số thẻ";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Dữ liệu không hợp lệ.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "Tháng /Năm";
 
-"Link" = "Link";
+"MM/YY" = "Tháng/Năm";
 
-"NetBanking" = "Ngân hàng trực tuyến";
+"Postal Code" = "Mã bưu điện";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Địa chỉ vận chuyển";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Tiểu bang/Tỉnh/Khu vực";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "BSB mà bạn nhập không hợp lệ.";
 
-"SEPA Debit" = "Ghi nợ SEPA";
+"To scan your card, allow camera access in Settings." = "Để quét thẻ của bạn, hãy cho phép truy cập camera trong mục Cài đặt.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Mã ZIP không hợp lệ";
 
-"Timed out authenticating your payment method -- try again" = "Đã hết thời gian xác thực phương thức thanh toán -- hãy thử lại sau";
+"Your card number is incomplete." = "Số thẻ chưa đầy đủ.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Số thẻ không hợp lệ.";
 
-"US Bank Account" = "Tài khoản ngân hàng Mỹ";
+"Your card's expiration date is incomplete." = "Ngày hết hạn trên thẻ không hợp lệ.";
 
-"Unknown" = "Không biết";
+"Your card's expiration date is invalid." = "Ngày hết hạn trên thẻ không hợp lệ.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Chúng tôi không thể xác thực phương thức thanh toán của bạn. Vui lòng chọn phương thức thanh toán khác và thử lại.";
+"Your card's expiration month is invalid." = "Tháng hết hạn trên thẻ của bạn không hợp lệ.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Năm hết hạn trên thẻ của bạn không hợp lệ.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Mã bảo mật trên thẻ chưa đầy đủ.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Mã bảo mật trên thẻ không hợp lệ.";
+
+"Your postal code is invalid." = "Mã bưu điện không hợp lệ.";
+
+"card number" = "số thẻ";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "Ngày hết hạn";

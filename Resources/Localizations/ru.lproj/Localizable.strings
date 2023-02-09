@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Австралийская система прямого списания средств BECS";
+"%1$@ account ending in %2$@" = "%1$@ счет, номер которого оканчивается на %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@, оканч. на %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Адрес (строка 2) (необязательно)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Банковский счет";
 
-"Bank" = "Банк";
+"Billing Address" = "Адрес выставления счета";
 
-"Boleto" = "Boleto";
+"Billing address" = "Адрес для выставления счета";
 
-"Card" = "Карта";
+"CVC" = "Код CVV/CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "Код CVV/CVC";
 
-"EPS" = "EPS";
+"Card information" = "Данные платежной карты";
 
-"FPX" = "FPX";
+"Card number" = "Номер карты";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Недопустимые данные.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "ММ / ГГ";
 
-"Link" = "Link";
+"MM/YY" = "ММ/ГГ";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Почтовый индекс";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Адрес доставки";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Штат / провинция / регион";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Введенный код BSB неверен.";
 
-"SEPA Debit" = "Списание средств SEPA";
+"To scan your card, allow camera access in Settings." = "Чтобы сканировать карту, войдите в \"Настройки\" и разрешите доступ к камере.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Введенный почтовый индекс неверен.";
 
-"Timed out authenticating your payment method -- try again" = "Лимит времени для аутентификации метода оплаты истек. Попробуйте еще раз";
+"Your card number is incomplete." = "Номер карты введен не полностью.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Номер карты недействителен.";
 
-"US Bank Account" = "Банковский счет в США";
+"Your card's expiration date is incomplete." = "Дата истечения срока действия карты введена не полностью.";
 
-"Unknown" = "Неизвестно";
+"Your card's expiration date is invalid." = "Дата истечения срока действия карты недействительна.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Не удалось верифицировать метод оплаты. Выберите другой метод оплаты и повторите попытку.";
+"Your card's expiration month is invalid." = "Недопустимый месяц окончания действия карты.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Недопустимый год окончания действия карты.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Код CVV/CVC карты введен не полностью.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Код CVV/CVC карты недействителен.";
+
+"Your postal code is invalid." = "Введенный почтовый индекс недействителен.";
+
+"card number" = "номер карты";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "срок окончания действия";

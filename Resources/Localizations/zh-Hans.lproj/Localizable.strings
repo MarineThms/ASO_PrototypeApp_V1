@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS 直接借记";
+"%1$@ account ending in %2$@" = "尾号为 %2$@ 的 %1$@ 账户";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ - 尾号：%2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "地址第 2 行（可选）";
 
-"Alipay" = "支付宝";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "银行账户";
 
-"Bank" = "银行";
+"Billing Address" = "账单地址";
 
-"Boleto" = "Boleto";
+"Billing address" = "账单地址";
 
-"Card" = "银行卡";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "银行卡信息";
 
-"FPX" = "FPX";
+"Card number" = "卡号";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "数据无效。";
 
-"Klarna" = "Klarna";
+"MM / YY" = "月份/年份";
 
-"Link" = "Link";
+"MM/YY" = "月份/年份";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "邮编";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "送货地址";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "州/省/地区";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "您输入的 BSB 无效。";
 
-"SEPA Debit" = "SEPA 借记";
+"To scan your card, allow camera access in Settings." = "要扫描您的银行卡，在“设置”中启用照相机。";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "您的邮编无效。";
 
-"Timed out authenticating your payment method -- try again" = "验证您的支付方式时失败——请重试";
+"Your card number is incomplete." = "您的银行卡号不完整。";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "您的卡号无效。";
 
-"US Bank Account" = "美国银行账户";
+"Your card's expiration date is incomplete." = "您的银行卡的不完整。";
 
-"Unknown" = "未知";
+"Your card's expiration date is invalid." = "您银行卡的有效期无效。";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "我们未能验证您的支付方式。请选择另一支付方式并重试。";
+"Your card's expiration month is invalid." = "您的银行卡的到期月份无效。";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "您的银行卡的到期年份无效。";
 
-"giropay" = "Giropay";
+"Your card's security code is incomplete." = "您的银行卡的安全码不完整。";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "您的银行卡安全码无效。";
+
+"Your postal code is invalid." = "您的邮编无效。";
+
+"card number" = "卡号";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "有效期";

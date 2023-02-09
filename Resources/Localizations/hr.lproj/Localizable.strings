@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "AU BECS Izravno terećenje";
+"%1$@ account ending in %2$@" = "%1$@ račun koji završava s %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ završava na %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Ulica i kućni broj 2 (neobavezno)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Bankovni račun";
 
-"Bank" = "Banka";
+"Billing Address" = "Adresa za naplatu";
 
-"Boleto" = "Boleto";
+"Billing address" = "Adresa za naplatu";
 
-"Card" = "Kartica";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Informacije o kartici";
 
-"FPX" = "FPX";
+"Card number" = "Broj kartice";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Nevaljani podaci.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / GG";
 
-"Link" = "Link";
+"MM/YY" = "MM/GG";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Poštanski broj";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Adresa za otpremu";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Država / pokrajina / regija";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "Uneseni BSB nije valjan.";
 
-"SEPA Debit" = "SEPA Debit";
+"To scan your card, allow camera access in Settings." = "Da biste skenirali karticu, dopustite pristup kameri u Postavkama.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "Vaš ZIP broj nije valjan.";
 
-"Timed out authenticating your payment method -- try again" = "Istek vremena pri provjeri načina plaćanja -- pokušajte ponovno";
+"Your card number is incomplete." = "Broj vaše kartice nije kompletan.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "Broj vaše kartice nije valjan.";
 
-"US Bank Account" = "Američki bankovni račun";
+"Your card's expiration date is incomplete." = "Datum isteka vaše kartice nije kompletan.";
 
-"Unknown" = "Nepoznato";
+"Your card's expiration date is invalid." = "Datum isteka vaše kartice nije valjan.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nismo mogli potvrditi vaš način plaćanja. Odaberite drugi način plaćanja i pokušajte ponovno.";
+"Your card's expiration month is invalid." = "Mjesec isteka kartice nije valjan.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "Godina isteka kartice nije valjana.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "Sigurnosni kod vaše kartice nije kompletan.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "Sigurnosni kod vaše kartice nije valjan.";
+
+"Your postal code is invalid." = "Vaš poštanski broj nije valjan.";
+
+"card number" = "broj kartice";
+
+"example@example.com" = "example@example.com";
+
+"expiration date" = "Datum isteka";

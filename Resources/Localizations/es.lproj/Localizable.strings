@@ -1,57 +1,65 @@
-"AU BECS Direct Debit" = "Adeudo directo BECS (Australia)";
+"%1$@ account ending in %2$@" = "Cuenta de %1$@ que acaba en %2$@";
 
-"Affirm" = "Affirm";
+"%1$@ ending in %2$@" = "%1$@ terminada en %2$@";
 
-"Afterpay" = "Afterpay";
+"Address line 2 (optional)" = "Segunda línea de la dirección (opcional)";
 
-"Alipay" = "Alipay";
+"Apple Pay" = "Apple Pay";
 
-"BLIK" = "BLIK";
+"BSB" = "BSB";
 
-"Bancontact" = "Bancontact";
+"Bank Account" = "Cuenta bancaria";
 
-"Bank" = "Banco";
+"Billing Address" = "Dirección de facturación";
 
-"Boleto" = "Boleto";
+"Billing address" = "Dirección de facturación";
 
-"Card" = "Tarjeta";
+"CVC" = "CVC";
 
-"Clearpay" = "Clearpay";
+"CVV" = "CVV";
 
-"EPS" = "EPS";
+"Card information" = "Información de la tarjeta";
 
-"FPX" = "FPX";
+"Card number" = "Número de tarjeta";
 
-"GrabPay" = "GrabPay";
+"Invalid data." = "Datos no válidos.";
 
-"Klarna" = "Klarna";
+"MM / YY" = "MM / AA";
 
-"Link" = "Link";
+"MM/YY" = "MM/AA";
 
-"NetBanking" = "NetBanking";
+"Postal Code" = "Código postal";
 
-"OXXO" = "OXXO";
+"Shipping Address" = "Dirección de envío";
 
-"PayPal" = "PayPal";
+"State / Province / Region" = "Estado, provincia o región";
 
-"Przelewy24" = "Przelewy24";
+"The BSB you entered is invalid." = "El BSB introducido no es válido.";
 
-"SEPA Debit" = "Adeudo SEPA";
+"To scan your card, allow camera access in Settings." = "Para escanear la tarjeta, autoriza el acceso a la cámara en Ajustes.";
 
-"Sofort" = "Sofort";
+"Your ZIP is invalid." = "El código ZIP no es válido.";
 
-"Timed out authenticating your payment method -- try again" = "Se agotó el tiempo de espera para autenticar el método de pago. Vuelve a intentarlo.";
+"Your card number is incomplete." = "El número de la tarjeta está incompleto.";
 
-"UPI" = "UPI";
+"Your card number is invalid." = "El número de la tarjeta no es válido.";
 
-"US Bank Account" = "Cuenta bancaria de EE. UU.";
+"Your card's expiration date is incomplete." = "La fecha de caducidad de la tarjeta está incompleta.";
 
-"Unknown" = "Desconocido";
+"Your card's expiration date is invalid." = "La fecha de caducidad de la tarjeta no es válida.";
 
-"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "No pudimos autenticar el método de pago. Elige otro método y vuelve a intentarlo.";
+"Your card's expiration month is invalid." = "El mes de caducidad de la tarjeta no es válido.";
 
-"WeChat Pay" = "WeChat Pay";
+"Your card's expiration year is invalid." = "El año de caducidad de la tarjeta no es válido.";
 
-"giropay" = "giropay";
+"Your card's security code is incomplete." = "El código de seguridad de la tarjeta está incompleto.";
 
-"iDEAL" = "iDEAL";
+"Your card's security code is invalid." = "El código de seguridad de la tarjeta no es válido.";
+
+"Your postal code is invalid." = "El código postal no es válido.";
+
+"card number" = "número de tarjeta";
+
+"example@example.com" = "ejemplo@ejemplo.com";
+
+"expiration date" = "fecha de caducidad";
