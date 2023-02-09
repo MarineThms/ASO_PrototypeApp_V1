@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - offline";
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Nieuwe kaart toevoegen…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Een kaart toevoegen";
+"Alipay" = "Alipay";
 
-"Apt." = "Adresregel 2";
+"BLIK" = "BLIK";
 
-"Contact" = "Contact";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Bezorging";
+"Bank" = "Bank";
 
-"Delivery Address" = "Bezorgadres";
+"Boleto" = "Boleto";
 
-"Free" = "Gratis";
+"Card" = "Kaart";
 
-"Invalid Shipping Address" = "Ongeldig verzendadres";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Laden…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Volgende";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Online bankieren (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Betaalmethode";
+"Link" = "Link";
 
-"Shipping" = "Verzending";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Verzendmethode";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Factuuradres gebruiken";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Bezorgadres gebruiken";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Verzendadres gebruiken";
+"SEPA Debit" = "SEPA-incasso";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Time-out bij authenticatie van de betaalmethode. Probeer het nogmaals";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Amerikaanse bankrekening";
+
+"Unknown" = "Onbekend";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "We kunnen de betaalmethode niet authenticeren. Kies een andere betaalmethode en probeer het nogmaals.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "Giropay";
+
+"iDEAL" = "iDEAL";

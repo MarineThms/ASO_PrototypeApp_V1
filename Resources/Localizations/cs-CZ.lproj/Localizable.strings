@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Offline";
+"AU BECS Direct Debit" = "Přímé inkasa AU BECS";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Přidat novou kartu";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Přidat kartu";
+"Alipay" = "Alipay";
 
-"Apt." = "Byt";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontakt";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Dodávka";
+"Bank" = "Banka";
 
-"Delivery Address" = "Dodací adresa";
+"Boleto" = "Boleto";
 
-"Free" = "Zdarma";
+"Card" = "Karta";
 
-"Invalid Shipping Address" = "Neplatná dodací adresa";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Načítání...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Další";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Online bankovnictví (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Způsob platby";
+"Link" = "Link";
 
-"Shipping" = "Doprava";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Způsob dopravy";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Použít fakturaci";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Použít dodání";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Použít dopravu";
+"SEPA Debit" = "Debet SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Časový limit ověření Vašeho způsobu platby uplynul -- zkuste to znovu";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Bankovní účet v USA";
+
+"Unknown" = "Neznámé";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nemůžeme ověřit Váš způsob platby. Vyberte si jiný způsob platby a zkuste to znovu.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

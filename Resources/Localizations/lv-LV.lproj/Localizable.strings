@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ — bezsaistē";
+"AU BECS Direct Debit" = "AU BECS tiešais debets";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Pievienot jaunu karti…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Kartes pievienošana";
+"Alipay" = "Alipay";
 
-"Apt." = "Dzīv.";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontaktinformācija";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Piegāde";
+"Bank" = "Banka";
 
-"Delivery Address" = "Piegādes adrese";
+"Boleto" = "Boleto";
 
-"Free" = "Bezmaksas";
+"Card" = "Karte";
 
-"Invalid Shipping Address" = "Nederīga piegādes adrese";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Ielādē…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Tālāk";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Internetbanka (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Maksājuma metode";
+"Link" = "Link";
 
-"Shipping" = "Piegāde";
+"NetBanking" = "Tiešsaistes banku pakalpojumi";
 
-"Shipping Method" = "Piegādes metode";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Izmantot norēķinu adresi";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Izmantot piegādes adresi";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Izmantot piegādes adresi";
+"SEPA Debit" = "SEPA debets";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Autentificējot jūsu maksājuma metodi, iestājās noildze — mēģiniet vēlreiz";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "ASV bankas konts";
+
+"Unknown" = "Nav zināms";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nevaram autentificēt jūsu maksājuma metodi. Lūdzu, izvēlieties citu maksājuma metodi un mēģiniet vēlreiz.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ – offline";
+"AU BECS Direct Debit" = "AU BECS-Lastschriftverfahren";
 
-"3D Secure" = "Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Neue Karte hinzufügen…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Karte hinzufügen";
+"Alipay" = "Alipay";
 
-"Apt." = "Adresszeile 2";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontakt";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Lieferinformationen";
+"Bank" = "Bank";
 
-"Delivery Address" = "Lieferadresse";
+"Boleto" = "Boleto";
 
-"Free" = "Kostenlos";
+"Card" = "Karte";
 
-"Invalid Shipping Address" = "Ungültige Versandadresse";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Wird geladen...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Weiter";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Online-Banking (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Zahlungsmethode";
+"Link" = "Link";
 
-"Shipping" = "Versand";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Versandmethode";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Rechnungsadresse verwenden";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Lieferadresse verwenden";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Versandadresse verwenden";
+"SEPA Debit" = "SEPA-Lastschrift";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Zeitüberschreitung bei der Authentifizierung Ihrer Zahlungsmethode – versuchen Sie es noch einmal.";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "US-Bankkonto";
+
+"Unknown" = "Unbekannt";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Wir können Ihre Zahlungsmethode nicht authentifizieren. Bitte wählen Sie eine andere Zahlungsmethode und versuchen Sie es noch einmal.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "Giropay";
+
+"iDEAL" = "iDEAL";

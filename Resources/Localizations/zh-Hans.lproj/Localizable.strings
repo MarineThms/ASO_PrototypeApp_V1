@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - 离线";
+"AU BECS Direct Debit" = "AU BECS 直接借记";
 
-"3D Secure" = "3DS 验证";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "添加新卡……";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "添加卡";
+"Alipay" = "支付宝";
 
-"Apt." = "公寓";
+"BLIK" = "BLIK";
 
-"Contact" = "联系信息";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "收货信息";
+"Bank" = "银行";
 
-"Delivery Address" = "收货地址";
+"Boleto" = "Boleto";
 
-"Free" = "免费";
+"Card" = "银行卡";
 
-"Invalid Shipping Address" = "无效的送货地址";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "正在加载……";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "下一步";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "网上银行 (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "支付方式";
+"Link" = "Link";
 
-"Shipping" = "配送";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "配送方式";
+"OXXO" = "OXXO";
 
-"Use Billing" = "使用账单地址";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "使用收货地址";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "使用送货地址";
+"SEPA Debit" = "SEPA 借记";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "验证您的支付方式时失败——请重试";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "美国银行账户";
+
+"Unknown" = "未知";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "我们未能验证您的支付方式。请选择另一支付方式并重试。";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "Giropay";
+
+"iDEAL" = "iDEAL";

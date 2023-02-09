@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - не в сети";
+"AU BECS Direct Debit" = "Австралийская система прямого списания средств BECS";
 
-"3D Secure" = "Метод 3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Добавить новую карту...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Добавить карту";
+"Alipay" = "Alipay";
 
-"Apt." = "Кв.";
+"BLIK" = "BLIK";
 
-"Contact" = "Контактные данные";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Доставка";
+"Bank" = "Банк";
 
-"Delivery Address" = "Адрес доставки";
+"Boleto" = "Boleto";
 
-"Free" = "Бесплатно";
+"Card" = "Карта";
 
-"Invalid Shipping Address" = "Ошибочный адрес доставки";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Идет загрузка...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Далее";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Онлайн-банкинг (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Метод оплаты";
+"Link" = "Link";
 
-"Shipping" = "Доставка";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Метод доставки";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Использовать адрес выставления счетов";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Использовать адрес доставки";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Использовать адрес доставки";
+"SEPA Debit" = "Списание средств SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Лимит времени для аутентификации метода оплаты истек. Попробуйте еще раз";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Банковский счет в США";
+
+"Unknown" = "Неизвестно";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Не удалось верифицировать метод оплаты. Выберите другой метод оплаты и повторите попытку.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

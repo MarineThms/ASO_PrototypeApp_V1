@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@- Offline";
+"AU BECS Direct Debit" = "Debitu Dirett BECS AU";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Żid Kard Ġdida…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Żid Kard";
+"Alipay" = "Alipay";
 
-"Apt." = "Appartament";
+"BLIK" = "BLIK";
 
-"Contact" = "Kuntatt";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Kunsinna";
+"Bank" = "Bank";
 
-"Delivery Address" = "Indirizz tal-Kunsinna";
+"Boleto" = "Boleto";
 
-"Free" = "Bla ħlas";
+"Card" = "Kard";
 
-"Invalid Shipping Address" = "L-Indirizz għat-Trasport tal-Merkanzija Mhux Validu";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Qed jillowdja…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Li jmiss";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Bankar online";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Metodu tal-Ħlas";
+"Link" = "Link";
 
-"Shipping" = "Trasport tal-Merkanzija";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Il-Mod tat-Trasport tal-Merkanzija";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Uża tal-Kont";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Uża tal-Kunsinna";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Uża tat-Trasport tal-Merkanzija";
+"SEPA Debit" = "Debitu SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Skada l-ħin tal-awtentikazzjoni tal-metodu tal-ħlas tiegħek -- erġa' pprova";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Kont tal-bank tal-Istati Uniti tal-Amerka";
+
+"Unknown" = "Mhux magħruf";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Ma nistgħux nawtentikaw il-metodu tal-ħlas tiegħek. Jekk jogħġbok agħżel metodu tal-ħlas differenti u erġa' pprova.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "Giropay";
+
+"iDEAL" = "iDEAL";

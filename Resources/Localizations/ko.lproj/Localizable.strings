@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - 오프라인";
+"AU BECS Direct Debit" = "AU BECS 자동 이체";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "새 카드 추가...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "카드 추가";
+"Alipay" = "Alipay";
 
-"Apt." = "아파트";
+"BLIK" = "BLIK";
 
-"Contact" = "연락처";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "배달";
+"Bank" = "은행";
 
-"Delivery Address" = "배달 주소";
+"Boleto" = "Boleto";
 
-"Free" = "무료";
+"Card" = "카드";
 
-"Invalid Shipping Address" = "잘못된 배송 주소";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "로드 중...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "다음";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "온라인 뱅킹(FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "결제 수단";
+"Link" = "Link";
 
-"Shipping" = "배송";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "배송 방법";
+"OXXO" = "OXXO";
 
-"Use Billing" = "청구 사용";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "배달 사용";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "배송 사용";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "결제 수단 인증 시간이 초과되었습니다. 다시 시도하십시오.";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "미국 은행 계좌";
+
+"Unknown" = "알 수 없음";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "결제 수단을 인증할 수 없습니다. 다른 결제 수단을 선택하고 다시 시도하십시오.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

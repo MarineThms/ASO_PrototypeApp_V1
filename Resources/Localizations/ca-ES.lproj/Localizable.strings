@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Fora de línia";
+"AU BECS Direct Debit" = "Domiciliació bancària AU BECS";
 
-"3D Secure" = "3D Segur";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Afegir nova targeta...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Afegir una targeta";
+"Alipay" = "Alipay";
 
-"Apt." = "Apt.";
+"BLIK" = "BLIK";
 
-"Contact" = "Contacte";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Lliurament";
+"Bank" = "Banc";
 
-"Delivery Address" = "Adreça de lliurament";
+"Boleto" = "Boleto";
 
-"Free" = "Sense cost";
+"Card" = "Targeta";
 
-"Invalid Shipping Address" = "Adreça d'enviament invàlida";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Carregant...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Següent";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Banca Online (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Mètode de pagament";
+"Link" = "Link";
 
-"Shipping" = "Enviament";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Mètode d'enviament";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Fer servir Facturació";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Fer servir Lliurament";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Fes servir Enviament";
+"SEPA Debit" = "Domiciliació SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "S'ha esgotat el temps d'autenticació del teu mètode de pagament - intenta-ho un altre cop";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Compte bancari dels EUA";
+
+"Unknown" = "Desconegut";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "No podem autenticar el teu mètode de pagament. Si us plau, escull un mètode de pagament diferent.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

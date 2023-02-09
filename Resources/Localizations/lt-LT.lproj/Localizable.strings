@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ – neprisijungęs";
+"AU BECS Direct Debit" = "AU BECS tiesioginis debetas";
 
-"3D Secure" = "3D saugi";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Pridėti naują kortelę...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Pridėti kortelę";
+"Alipay" = "„Alipay“";
 
-"Apt." = "But.";
+"BLIK" = "BLIK";
 
-"Contact" = "Susisiekti";
+"Bancontact" = "„Bancontact“";
 
-"Delivery" = "Pristatymas";
+"Bank" = "Bankas";
 
-"Delivery Address" = "Pristatymo adresas";
+"Boleto" = "Boleto";
 
-"Free" = "Nemokamai";
+"Card" = "Kortelė";
 
-"Invalid Shipping Address" = "Netinkamas siuntimo adresas";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Įkeliama...";
+"EPS" = "EPS";
 
-"Multibanco" = "„Multibanco“";
+"FPX" = "FPX";
 
-"Next" = "Toliau";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Interneto banko paslaugos (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Mokėjimo būdas";
+"Link" = "\"Link\"";
 
-"Shipping" = "Siuntimas";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Siuntimo būdas";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Naudoti sąskaitų siuntimo adresą";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Naudoti pristatymo adresą";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Naudoti siuntimo adresą";
+"SEPA Debit" = "SEPA debetas";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Baigėsi mokėjimo būdui autentifikuoti skirtas laikas, bandykite dar kartą";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "JAV banko sąskaita";
+
+"Unknown" = "Nežinoma";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nepavyko autentifikuoti mokėjimo būdo. Pasirinkite kitą mokėjimo būdą ir bandykite dar kartą.";
+
+"WeChat Pay" = "„WeChat“ mokėjimas";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Офлайн";
+"AU BECS Direct Debit" = "AU BECS директно дебитиране";
 
-"3D Secure" = "3D Secure удостоверяване";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Добавяне на нова карта...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Добавяне на карта";
+"Alipay" = "Alipay";
 
-"Apt." = "Aп.";
+"BLIK" = "BLIK";
 
-"Contact" = "Контакт";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Доставка";
+"Bank" = "Банка";
 
-"Delivery Address" = "Адрес за доставка";
+"Boleto" = "Boleto";
 
-"Free" = "Безплатно";
+"Card" = "Карта";
 
-"Invalid Shipping Address" = "Невалиден адрес за доставка";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Зареждане...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Следващо";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Онлайн банкиране (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Метод на плащане";
+"Link" = "Link";
 
-"Shipping" = "Доставка";
+"NetBanking" = "Netbanking";
 
-"Shipping Method" = "Метод на доставка";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Да се използва адреса за фактуриране";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Да се използва адреса за доставка";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Да се използва адреса за изпращане";
+"SEPA Debit" = "SEPA дебит";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Времето на изчакване на удостоверяването на Вашия метод на плащане изтече -- опитайте отново";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Банкова сметка в САЩ";
+
+"Unknown" = "Непознат";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Не можем да удостоверим Вашия метод на плащане. Моля, изберете различен метод на плащане и опитайте отново.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

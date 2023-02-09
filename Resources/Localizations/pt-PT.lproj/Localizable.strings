@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Offline";
+"AU BECS Direct Debit" = "Débito Direto AU BECS";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Adicionar Novo Cartão...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Adicionar um cartão";
+"Alipay" = "Alipay";
 
-"Apt." = "Apt.";
+"BLIK" = "BLIK";
 
-"Contact" = "Contacto";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Entrega";
+"Bank" = "Banco";
 
-"Delivery Address" = "Endereço de entrega";
+"Boleto" = "Boleto";
 
-"Free" = "Gratuito";
+"Card" = "Cartão";
 
-"Invalid Shipping Address" = "Endereço de envio inválido";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "A carregar...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Seguinte";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Serviços bancários online (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Método de Pagamento";
+"Link" = "Link";
 
-"Shipping" = "Envio";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Método de envio";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Utilizar endereço de faturação";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Utilizar endereço de entrega";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Utilizar endereço de envio";
+"SEPA Debit" = "Débito SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "A autenticação do seu método de pagamento atingiu o tempo limite -- tente novamente";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Conta bancária dos EUA";
+
+"Unknown" = "Desconhecido";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Não conseguimos autenticar o seu método de pagamento. Selecione outro método de pagamento e tente novamente.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

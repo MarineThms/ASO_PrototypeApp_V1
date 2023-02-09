@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ – Offline";
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Lägg till nytt kort …";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Lägg till kort";
+"Alipay" = "Alipay";
 
-"Apt." = "Lägenhetsnr.";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontaktinformation";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Leverans";
+"Bank" = "Bank";
 
-"Delivery Address" = "Leveransadress";
+"Boleto" = "Boleto";
 
-"Free" = "Gratis";
+"Card" = "Kort";
 
-"Invalid Shipping Address" = "Ogiltig leveransadress";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Laddar ...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Nästa";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Internetbank (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Betalningsmetod";
+"Link" = "Link";
 
-"Shipping" = "Frakt";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Leveransmetod";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Använd faktureringsadress";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Använd leveransadress";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Använd fraktadress";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Tidsgränsen överskreds vid autentisering av betalningsmetoden – försök igen";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Amerikanskt bankkonto";
+
+"Unknown" = "Okänd";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Vi kan inte verifiera din betalningsmetod. Välj en annan betalningsmetod och försök igen.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

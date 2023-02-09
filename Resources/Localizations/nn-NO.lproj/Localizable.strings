@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Fråkopla";
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Legg til nytt kort …";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Legg til kort";
+"Alipay" = "Alipay";
 
-"Apt." = "Leilegheit";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontakt";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Leveranse";
+"Bank" = "Bank";
 
-"Delivery Address" = "Leveringsadresse";
+"Boleto" = "Boleto";
 
-"Free" = "Gratis";
+"Card" = "Kort";
 
-"Invalid Shipping Address" = "Ugyldig sendingsadresse";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Lastar …";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Neste";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Nettbank (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Betalingsmetode";
+"Link" = "Link";
 
-"Shipping" = "Sending";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Sendingsmåte";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Bruk fakturering";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Bruk leveringsadressa";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Bruk sendingsadressa";
+"SEPA Debit" = "SEPA-betaling";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Tidsavbrot ved godkjenning av betalingsmåten - prøv igjen";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Bankkonto i USA";
+
+"Unknown" = "Ukjend";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Vi kan ikkje godkjenne betalingsmåten. Ver vennleg å velje ein annan betalingsmetode og prøv igjen.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

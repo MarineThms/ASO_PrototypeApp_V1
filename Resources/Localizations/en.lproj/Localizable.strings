@@ -1,60 +1,90 @@
-/* Bank name when bank is offline for maintenance. */
-"%@ - Offline" = "%@ - Offline";
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
+
+/* Payment Method type brand name */
+"Afterpay" = "Afterpay";
+
+/* Payment Method type brand name */
+"Alipay" = "Alipay";
+
+/* Payment Method type brand name. */
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
+
+/* Payment Method type brand name */
+"Bancontact" = "Bancontact";
+
+/* Link Instant Debit payment method display name */
+"Bank" = "Bank";
+
+/* Payment Method type brand name */
+"BLIK" = "BLIK";
+
+/* Payment Method type brand name */
+"Boleto" = "Boleto";
+
+/* Payment Method for credit card */
+"Card" = "Card";
+
+/* Payment Method type brand name */
+"Cash App Pay" = "Cash App Pay";
+
+/* Payment Method type brand name */
+"Clearpay" = "Clearpay";
+
+/* Payment Method type brand name. */
+"EPS" = "EPS";
+
+/* Payment Method type brand name */
+"FPX" = "FPX";
+
+/* Payment Method type brand name. */
+"giropay" = "giropay";
+
+/* Payment Method type brand name. */
+"GrabPay" = "GrabPay";
 
 /* Source type brand name */
-"3D Secure" = "3D Secure";
+"iDEAL" = "iDEAL";
 
-/* Title for Add a Card view */
-"Add a Card" = "Add a Card";
+/* Payment Method type brand name */
+"Klarna" = "Klarna";
 
-/* Button to add a new credit card. */
-"Add New Card…" = "Add New Card…";
+/* Link Payment Method type brand name */
+"Link" = "Link";
 
-/* Caption for Apartment/Address line 2 field on address form */
-"Apt." = "Apt.";
+/* Payment Method type brand name */
+"NetBanking" = "NetBanking";
 
-/* Title for contact info form */
-"Contact" = "Contact";
+/* Payment Method type brand name */
+"OXXO" = "OXXO";
 
-/* Title for delivery info form */
-"Delivery" = "Delivery";
+/* Payment Method type brand name */
+"PayPal" = "PayPal";
 
-/* Title for delivery address entry section */
-"Delivery Address" = "Delivery Address";
+/* Payment Method type brand name. */
+"Przelewy24" = "Przelewy24";
 
-/* Label for free shipping method */
-"Free" = "Free";
+/* Payment method brand name */
+"SEPA Debit" = "SEPA Debit";
 
-/* Shipping form error message */
-"Invalid Shipping Address" = "Invalid Shipping Address";
+/* Payment Method type brand name */
+"Sofort" = "Sofort";
 
-/* Title for screen when data is still loading from the network. */
-"Loading…" = "Loading…";
+/* Error when 3DS2 authentication timed out. */
+"Timed out authenticating your payment method -- try again" = "Timed out authenticating your payment method -- try again";
 
-/* Source type brand name */
-"Multibanco" = "Multibanco";
+/* Default missing source type label */
+"Unknown" = "Unknown";
 
-/* Button to move to the next text entry field */
-"Next" = "Next";
+/* Payment Method type brand name */
+"UPI" = "UPI";
 
-/* Button to pay with a Bank Account (using FPX). */
-"Online Banking (FPX)" = "Online Banking (FPX)";
+/* Payment Method type name for US Bank Account payments. */
+"US Bank Account" = "US Bank Account";
 
-/* Title for Payment Method screen */
-"Payment Method" = "Payment Method";
+/* Error when 3DS2 authentication failed (e.g. customer entered the wrong code) */
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "We are unable to authenticate your payment method. Please choose a different payment method and try again.";
 
-/* Title for shipping info form */
-"Shipping" = "Shipping";
-
-/* Label for shipping method form */
-"Shipping Method" = "Shipping Method";
-
-/* Button to fill shipping address from billing address. */
-"Use Billing" = "Use Billing";
-
-/* Button to fill billing address from delivery address. */
-"Use Delivery" = "Use Delivery";
-
-/* Button to fill billing address from shipping address. */
-"Use Shipping" = "Use Shipping";
+/* Payment Method type brand name */
+"WeChat Pay" = "WeChat Pay";
 

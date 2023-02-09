@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - offline";
+"AU BECS Direct Debit" = "AU BECS-beszedés";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Új kártya hozzáadása...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Kártya hozzáadása";
+"Alipay" = "Alipay";
 
-"Apt." = "Házszám";
+"BLIK" = "BLIK";
 
-"Contact" = "Kapcsolat";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Szállítás";
+"Bank" = "Bank";
 
-"Delivery Address" = "Szállítási cím";
+"Boleto" = "Boleto";
 
-"Free" = "Ingyenes";
+"Card" = "Kártya";
 
-"Invalid Shipping Address" = "Érvénytelen szállítási cím";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Betöltés...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Tovább";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Online bankolás (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Fizetési mód";
+"Link" = "Link";
 
-"Shipping" = "Szállítás";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Szállítási mód";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Számlázási használata";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Szállítási használata";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Szállítási használata";
+"SEPA Debit" = "SEPA beszedés";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Fizetési módjának hitelesítésénél időtúllépés történt, próbálja újra.";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "USA bankszámla";
+
+"Unknown" = "Ismeretlen";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nem tudjuk hitelesíteni a fizetési módját. Kérjük, válasszon másik fizetési módot, és próbálkozzon újból.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

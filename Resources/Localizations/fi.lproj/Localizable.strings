@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ Offline-tila";
+"AU BECS Direct Debit" = "AU BECS -suoraveloitus";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Lisää uusi kortti...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Lisää kortti";
+"Alipay" = "Alipay";
 
-"Apt." = "Asunto";
+"BLIK" = "BLIK";
 
-"Contact" = "Yhteystiedot";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Toimitus";
+"Bank" = "Pankki";
 
-"Delivery Address" = "Toimitusosoite";
+"Boleto" = "Boleto";
 
-"Free" = "Maksuton";
+"Card" = "Kortti";
 
-"Invalid Shipping Address" = "Toimitusosoite ei kelpaa";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Lataa...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Seuraava";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Verkkopankki (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Maksutapa";
+"Link" = "Linkki";
 
-"Shipping" = "Toimitus";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Toimitustapa";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Käytä laskutusosoitetta";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Käytä toimitusosoitetta";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Käytä lähetysosoitetta";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Maksutapasi todennus aikakatkaistiin – yritä uudelleen.";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Yhdysvaltalainen pankkitili";
+
+"Unknown" = "Tuntematon";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Emme pystyneet todentamaan maksutapaasi. Valitse toinen maksutapa ja yritä uudelleen.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

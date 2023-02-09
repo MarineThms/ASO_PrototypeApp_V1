@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ — Offline";
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Add New Card…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Add a Card";
+"Alipay" = "Alipay";
 
-"Apt." = "Apt.";
+"BLIK" = "BLIK";
 
-"Contact" = "Contact";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Delivery";
+"Bank" = "Bank";
 
-"Delivery Address" = "Delivery Address";
+"Boleto" = "Boleto";
 
-"Free" = "Free";
+"Card" = "Card";
 
-"Invalid Shipping Address" = "Invalid Shipping Address";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Loading…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Next";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Online Banking (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Payment Method";
+"Link" = "Link";
 
-"Shipping" = "Shipping";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Shipping Method";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Use Billing";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Use Delivery";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Use Shipping";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Timed out authenticating your payment method - please try again";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "US Bank Account";
+
+"Unknown" = "Unknown";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "We are unable to authenticate your payment method. Please choose a different payment method and try again.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

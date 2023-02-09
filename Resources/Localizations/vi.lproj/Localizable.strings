@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Ngoại tuyến";
+"AU BECS Direct Debit" = "Ghi nợ trực tiếp AU Becs";
 
-"3D Secure" = "Bảo mật 3D";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Thêm thẻ mới...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Thêm thẻ";
+"Alipay" = "Alipay";
 
-"Apt." = "Căn hộ";
+"BLIK" = "BLIK";
 
-"Contact" = "Liên hệ";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Giao hàng";
+"Bank" = "Ngân hàng";
 
-"Delivery Address" = "Địa chỉ giao hàng";
+"Boleto" = "Boleto";
 
-"Free" = "Miễn phí";
+"Card" = "Thẻ";
 
-"Invalid Shipping Address" = "Địa chỉ vận chuyển không hợp lệ";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Đang tải...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Tiếp";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Ngân hàng Trực tuyến (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Phương thức thanh toán";
+"Link" = "Link";
 
-"Shipping" = "Vận chuyển";
+"NetBanking" = "Ngân hàng trực tuyến";
 
-"Shipping Method" = "Phương thức vận chuyển";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Sử dụng Hóa đơn";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Sử dụng Giao hàng";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Chọn Vận chuyển";
+"SEPA Debit" = "Ghi nợ SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Đã hết thời gian xác thực phương thức thanh toán -- hãy thử lại sau";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Tài khoản ngân hàng Mỹ";
+
+"Unknown" = "Không biết";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Chúng tôi không thể xác thực phương thức thanh toán của bạn. Vui lòng chọn phương thức thanh toán khác và thử lại.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Εκτός σύνδεσης";
+"AU BECS Direct Debit" = "Άμεση χρέωση AU BECS";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Προσθήκη νέας κάρτας…";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Προσθήκη κάρτας";
+"Alipay" = "Alipay";
 
-"Apt." = "Διαμ.";
+"BLIK" = "BLIK";
 
-"Contact" = "Επικοινωνία";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Παράδοση";
+"Bank" = "Τράπεζα";
 
-"Delivery Address" = "Διεύθυνση παράδοσης";
+"Boleto" = "Boleto";
 
-"Free" = "Δωρεάν";
+"Card" = "Κάρτα";
 
-"Invalid Shipping Address" = "Μη έγκυρη διεύθυνση αποστολής";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Φόρτωση…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Επόμενο";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Τραπεζικές υπηρεσίες μέσω διαδικτύου (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Μέθοδος πληρωμής";
+"Link" = "Link";
 
-"Shipping" = "Αποστολή";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Μέθοδος αποστολής";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Χρήση χρέωσης";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Χρήση παράδοσης";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Χρήση αποστολής";
+"SEPA Debit" = "Χρέωση SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Έληξε το χρονικό όριο επαλήθευσης της μεθόδου πληρωμής σας -- δοκιμάστε ξανά";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Τραπεζικός λογαριασμός στις Η.Π.Α.";
+
+"Unknown" = "Άγνωστο";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Δεν μπορούμε να επαληθεύσουμε τη μέθοδο πληρωμής σας. Επιλέξτε διαφορετική μέθοδο πληρωμής και προσπαθήστε ξανά.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

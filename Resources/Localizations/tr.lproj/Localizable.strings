@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Çevrimdışı";
+"AU BECS Direct Debit" = "AU BECS Otomatik Ödeme";
 
-"3D Secure" = "3D Güvenli";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Yeni Kart Ekle...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Kart Ekle";
+"Alipay" = "Alipay";
 
-"Apt." = "Apt.";
+"BLIK" = "BLIK";
 
-"Contact" = "İletişim";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Teslimat";
+"Bank" = "Banka";
 
-"Delivery Address" = "Teslimat Adresi";
+"Boleto" = "Boleto";
 
-"Free" = "Ücretsiz";
+"Card" = "Kart";
 
-"Invalid Shipping Address" = "Geçersiz Gönderi Adresi";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Yükleniyor...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "İleri";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Çevrimiçi Bankacılık (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Ödeme Metodu";
+"Link" = "Link";
 
-"Shipping" = "Gönderi";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Gönderi Metodu";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Fatura Adresini Kullan";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Teslimat Adresini Kullan";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Gönderi Adresini Kullan";
+"SEPA Debit" = "SEPA Bankamatik";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Ödeme metodunuz doğrulanırken zaman aşımına uğradı -- tekrar deneyin";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Banka Hesabı";
+
+"Unknown" = "Bilinmeyen";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Ödeme metodunuzu doğrulayamadık. Lütfen farklı bir ödeme metodu seçin ve tekrar deneyin.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

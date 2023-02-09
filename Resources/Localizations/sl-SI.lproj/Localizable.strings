@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ – ni dosegljiva";
+"AU BECS Direct Debit" = "Direktna obremenitev AU BECS";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Dodaj novo kartico ...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Dodajte kartico";
+"Alipay" = "Alipay";
 
-"Apt." = "Stanovanje";
+"BLIK" = "BLIK";
 
-"Contact" = "Stik";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Dostava";
+"Bank" = "Banka";
 
-"Delivery Address" = "Dostavni naslov";
+"Boleto" = "Boleto";
 
-"Free" = "Brezplačno";
+"Card" = "Kartica";
 
-"Invalid Shipping Address" = "Neveljaven dostavni naslov";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Nalaganje ...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Naprej";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Spletno bančništvo (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Načina plačila";
+"Link" = "Link";
 
-"Shipping" = "Dostava";
+"NetBanking" = "NetBanking";
 
-"Shipping Method" = "Način dostave";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Uporabi naslov plačnika računa";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Uporabi dostavo";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Uporabi dostavo";
+"SEPA Debit" = "Obremenitev SEPA";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Pri preverjanju pristnosti vašega načina plačila je potekla časovna omejitev. Poskusite znova.";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Bančni račun v ZDA";
+
+"Unknown" = "Neznano";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Pristnosti vašega načina plačila ni mogoče preveriti. Izberite drugačen način plačila in poskusite znova.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

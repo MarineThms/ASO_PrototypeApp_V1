@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Offline";
+"AU BECS Direct Debit" = "AU BECS Direct Debit";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Adăugare card nou...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Adăugare card";
+"Alipay" = "Alipay";
 
-"Apt." = "Apartament";
+"BLIK" = "BLIK";
 
-"Contact" = "Detalii de contact";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Informații privind livrarea";
+"Bank" = "Bancă";
 
-"Delivery Address" = "Adresa de livrare";
+"Boleto" = "Boleto";
 
-"Free" = "Expediere gratuită";
+"Card" = "Număr card";
 
-"Invalid Shipping Address" = "Adresa de expediere nu este validă";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Se încarcă...";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Următorul";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Servicii bancare electronice (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Metoda de plată";
+"Link" = "Link";
 
-"Shipping" = "Expediere";
+"NetBanking" = "Netbanking";
 
-"Shipping Method" = "Metoda de expediere";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Utilizare adresă de facturare";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Utilizare adresă de livrare";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Utilizare adresă de expediere";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Timpul de autentificare a metodei dvs. de plată a expirat -- încercați din nou";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Cont bancar SUA";
+
+"Unknown" = "Necunoscut";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Nu vă putem autentifica metoda de plată. Alegeți o altă metodă de plată și încercați din nou.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";

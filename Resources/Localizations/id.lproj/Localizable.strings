@@ -1,39 +1,57 @@
-"%@ - Offline" = "%@ - Offline";
+"AU BECS Direct Debit" = "Debit Langsung BECS AU";
 
-"3D Secure" = "3D Secure";
+"Affirm" = "Affirm";
 
-"Add New Card…" = "Tambahkan Kartu Baru...";
+"Afterpay" = "Afterpay";
 
-"Add a Card" = "Tambahkan sebuah Kartu";
+"Alipay" = "Alipay";
 
-"Apt." = "Apt.";
+"BLIK" = "BLIK";
 
-"Contact" = "Kontak";
+"Bancontact" = "Bancontact";
 
-"Delivery" = "Pengiriman";
+"Bank" = "Bank";
 
-"Delivery Address" = "Alamat Pengiriman";
+"Boleto" = "Boleto";
 
-"Free" = "Gratis";
+"Card" = "Kartu";
 
-"Invalid Shipping Address" = "Alamat Pengiriman Tidak Valid";
+"Clearpay" = "Clearpay";
 
-"Loading…" = "Memuat…";
+"EPS" = "EPS";
 
-"Multibanco" = "Multibanco";
+"FPX" = "FPX";
 
-"Next" = "Berikutnya";
+"GrabPay" = "GrabPay";
 
-"Online Banking (FPX)" = "Perbankan Online (FPX)";
+"Klarna" = "Klarna";
 
-"Payment Method" = "Metode Pembayaran";
+"Link" = "Link";
 
-"Shipping" = "Pengiriman";
+"NetBanking" = "Internet Banking";
 
-"Shipping Method" = "Metode Pengiriman";
+"OXXO" = "OXXO";
 
-"Use Billing" = "Gunakan Tagihan";
+"PayPal" = "PayPal";
 
-"Use Delivery" = "Gunakan Pengiriman";
+"Przelewy24" = "Przelewy24";
 
-"Use Shipping" = "Gunakan Pengiriman";
+"SEPA Debit" = "SEPA Debit";
+
+"Sofort" = "Sofort";
+
+"Timed out authenticating your payment method -- try again" = "Waktu autentikasi metode pembayaran Anda habis -- coba lagi";
+
+"UPI" = "UPI";
+
+"US Bank Account" = "Rekening Bank AS";
+
+"Unknown" = "Tak dikenal";
+
+"We are unable to authenticate your payment method. Please choose a different payment method and try again." = "Kami tidak dapat mengautentikasi metode pembayaran Anda. Pilih metode pembayaran yang berbeda dan coba lagi.";
+
+"WeChat Pay" = "WeChat Pay";
+
+"giropay" = "giropay";
+
+"iDEAL" = "iDEAL";
