@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ konto lõpuga %2$@";
+"%@ (optional)" = "%@ (valikuline)";
 
-"%1$@ ending in %2$@" = "%1$@, lõpeb nr-ga %2$@";
+"Account number" = "Kontonumber";
 
-"Address line 2 (optional)" = "Aadressirida 2 (valikuline)";
+"Address" = "Aadress";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Aadressirida 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Aadressirida 2";
 
-"Bank Account" = "Pangakonto";
+"Area" = "Piirkond";
 
-"Billing Address" = "Arveldusaadress";
+"BSB number" = "BSB-number";
 
-"Billing address" = "Arveldusaadress";
+"Billing address is same as shipping" = "Arveldusaadress on sama mis tarneaadress";
 
-"CVC" = "CVC";
+"Cancel" = "Tühista";
 
-"CVV" = "CVV";
+"City" = "Linn";
 
-"Card information" = "Kaardi andmed";
+"Code field" = "Koodi väli";
 
-"Card number" = "Kaardinumber";
+"Company" = "Ettevõte";
 
-"Invalid data." = "Valed andmed.";
+"Continue" = "Jätka";
 
-"MM / YY" = "KK / AA";
+"Country" = "Riik";
 
-"MM/YY" = "KK/AA";
+"Country or region" = "Riik või regioon";
 
-"Postal Code" = "Sihtnumber";
+"County" = "Maakond";
 
-"Shipping Address" = "Tarneaadress";
+"Department" = "Departemang";
 
-"State / Province / Region" = "Maakond";
+"District" = "Regioon";
 
-"The BSB you entered is invalid." = "Sisestatud BSB-number ei ole kehtiv.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Kaardi skannimiseks lubage seadetes juurdepääs kaamerale.";
+"Done" = "Valmis";
 
-"Your ZIP is invalid." = "Teie sihtnumber on kehtetu.";
+"Double tap to edit" = "Redigeerimiseks topeltklõpsake";
 
-"Your card number is incomplete." = "Teie kaardinumber on puudulik.";
+"Edit" = "Muutmine";
 
-"Your card number is invalid." = "Teie kaardinumber on kehtetu.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Kaardi aegumiskuupäev on puudulik.";
+"Email" = "Meiliaadress";
 
-"Your card's expiration date is invalid." = "Teie kaardi aegumiskuupäev on kehtetu.";
+"Emirate" = "Emiraat";
 
-"Your card's expiration month is invalid." = "Kaardi aegumiskuu on kehtetu.";
+"Error" = "Viga";
 
-"Your card's expiration year is invalid." = "Kaardi aegumisaasta on kehtetu.";
+"First" = "Esimene";
 
-"Your card's security code is incomplete." = "Teie kaardi turvakood on puudulik.";
+"Full name" = "Täisnimi";
 
-"Your card's security code is invalid." = "Kaardi turvakood on kehtetu.";
+"Incomplete phone number" = "Telefoninumber puudulik";
 
-"Your postal code is invalid." = "Teie sihtnumber on kehtetu.";
+"Invalid UPI ID" = "Kehtetu UPI ID";
 
-"card number" = "kaardinumber";
+"Island" = "Saar";
 
-"example@example.com" = "näide@näide.com";
+"Last" = "Viimane";
 
-"expiration date" = "aegumiskuupäev";
+"Name" = "Nimi";
+
+"Name on account" = "Nimi kontol";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Muu";
+
+"Parish" = "Vald";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Sihtnumber";
+
+"Prefecture" = "Prefektuur";
+
+"Province" = "Maakond";
+
+"Remove" = "Eemalda";
+
+"Remove bank account" = "Eemaldage pangakonto";
+
+"Remove bank account ending in %@" = "Eemaldage pangakonto lõpuga %@";
+
+"Search" = "Otsi";
+
+"State" = "Osariik";
+
+"Suburb" = "Eeslinn";
+
+"Suburb or city" = "Eeslinn või linn";
+
+"The BSB you entered is incomplete." = "Sisestatud BSB-number on puudulik.";
+
+"The ID number you entered is incomplete." = "Sisestatud isikukood on puudulik.";
+
+"The account number you entered is incomplete." = "Sisestatud kontonumber on puudulik.";
+
+"Town or city" = "Linn";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Telefoninumbri parsimine ebaõnnestus";
+
+"Use rotor to access links" = "Kasutage linkidele juurdepääsuks rootorit";
+
+"Your ZIP is incomplete." = "Teie sihtnumber on puudulik.";
+
+"Your email is invalid." = "Teie meiliaadress on kehtetu.";
+
+"Your postal code is incomplete." = "Sihtnumber on puudulik.";
+
+"ZIP" = "Sihtnr";

@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ účet končiaci na %2$@";
+"%@ (optional)" = "%@ (voliteľné)";
 
-"%1$@ ending in %2$@" = "Karta %1$@ s poslednými štyrmi číslami %2$@";
+"Account number" = "Číslo účtu";
 
-"Address line 2 (optional)" = "Riadok adresy 2 (voliteľne)";
+"Address" = "Adresa";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Riadok adresy 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Riadok adresy 2";
 
-"Bank Account" = "Bankový účet";
+"Area" = "Okres";
 
-"Billing Address" = "Fakturačná adresa";
+"BSB number" = "BSB číslo";
 
-"Billing address" = "Fakturačná adresa";
+"Billing address is same as shipping" = "Fakturačná adresa je totožná s dodacou";
 
-"CVC" = "CVC";
+"Cancel" = "Zrušiť";
 
-"CVV" = "CVV";
+"City" = "Mesto";
 
-"Card information" = "Informácie o karte";
+"Code field" = "Pole kódu";
 
-"Card number" = "Číslo karty";
+"Company" = "Spoločnosť";
 
-"Invalid data." = "Neplatné údaje.";
+"Continue" = "Pokračovať";
 
-"MM / YY" = "MM / RR";
+"Country" = "Krajina";
 
-"MM/YY" = "MM/RR";
+"Country or region" = "Krajina alebo región";
 
-"Postal Code" = "PSČ";
+"County" = "Kraj";
 
-"Shipping Address" = "Dodacia adresa";
+"Department" = "Oddelenie";
 
-"State / Province / Region" = "Štát/provincia/región";
+"District" = "Obvod";
 
-"The BSB you entered is invalid." = "Zadané BSB je neplatné.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Na nasnímanie vašej karty umožnite prístup ku kamere pod položkou Nastavenia.";
+"Done" = "Hotovo";
 
-"Your ZIP is invalid." = "Vaše PSČ je neplatné.";
+"Double tap to edit" = "Dvojitým ťuknutím upravte";
 
-"Your card number is incomplete." = "Číslo vašej karty je neúplné.";
+"Edit" = "Upraviť";
 
-"Your card number is invalid." = "Číslo vašej karty je neplatné.";
+"Eircode" = "Kód Eir";
 
-"Your card's expiration date is incomplete." = "Dátum vypršania platnosti vašej karty je neúplný.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "Dátum vypršania platnosti vašej karty je neplatný.";
+"Emirate" = "Emirát";
 
-"Your card's expiration month is invalid." = "Mesiac vypršania platnosti vašej karty je neplatný.";
+"Error" = "Chyba";
 
-"Your card's expiration year is invalid." = "Rok ukončenia platnosti vašej karty je neplatný.";
+"First" = "Meno";
 
-"Your card's security code is incomplete." = "Bezpečnostný kód vašej karty je neúplný.";
+"Full name" = "Celé meno";
 
-"Your card's security code is invalid." = "Bezpečnostný kód vašej karty je neplatný.";
+"Incomplete phone number" = "Neúplné telefónne číslo";
 
-"Your postal code is invalid." = "Vaše PSČ je neplatné.";
+"Invalid UPI ID" = "Neplatné identifikačné číslo UPI";
 
-"card number" = "číslo karty";
+"Island" = "Island";
 
-"example@example.com" = "example@example.com";
+"Last" = "Priezvisko";
 
-"expiration date" = "dátum exspirácie";
+"Name" = "Meno";
+
+"Name on account" = "Meno uvedené v účte";
+
+"OK" = "OK";
+
+"Oblast" = "Oblasť";
+
+"Other" = "Iné";
+
+"Parish" = "Parish";
+
+"Phone" = "Telefón";
+
+"Postal code" = "PSČ";
+
+"Prefecture" = "Prefektúra";
+
+"Province" = "Provincia";
+
+"Remove" = "Odstrániť";
+
+"Remove bank account" = "Odstrániť bankový účet";
+
+"Remove bank account ending in %@" = "Odstrániť bankový účet končiaci na %@";
+
+"Search" = "Vyhľadať";
+
+"State" = "Štát";
+
+"Suburb" = "Predmestie";
+
+"Suburb or city" = "Predmestie alebo mesto";
+
+"The BSB you entered is incomplete." = "Zadané BSB je neúplné.";
+
+"The ID number you entered is incomplete." = "Zadané identifikačné číslo je neúplné.";
+
+"The account number you entered is incomplete." = "Zadané číslo účtu je neúplné.";
+
+"Town or city" = "Obec alebo mesto";
+
+"UPI ID" = "Identifikačné číslo UPI";
+
+"Unable to parse phone number" = "Nepodarilo sa analyzovať telefónne číslo";
+
+"Use rotor to access links" = "Použite funkciu rotora na prístup k odkazom";
+
+"Your ZIP is incomplete." = "Vaše PSČ je neúplné.";
+
+"Your email is invalid." = "Váš e-mail je neplatný.";
+
+"Your postal code is incomplete." = "Vaše poštové smerovacie číslo je neúplné.";
+
+"ZIP" = "PSČ";

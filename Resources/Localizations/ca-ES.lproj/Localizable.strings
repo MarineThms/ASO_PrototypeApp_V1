@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ compte bancari que acaba en %2$@";
+"%@ (optional)" = "%@ (opcional)";
 
-"%1$@ ending in %2$@" = "%1$@ que acaba en %2$@";
+"Account number" = "Número de Compte";
 
-"Address line 2 (optional)" = "Línia de l'adreça 2 (opcional)";
+"Address" = "Adreça";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Línia de l'adreça 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Línia de l'adreça 2";
 
-"Bank Account" = "Compte bancari";
+"Area" = "Àrea";
 
-"Billing Address" = "Adreça de facturació";
+"BSB number" = "Número BSB";
 
-"Billing address" = "Adreça de facturació";
+"Billing address is same as shipping" = "L'adreça de facturació és la mateixa que la d'enviament";
 
-"CVC" = "CVC";
+"Cancel" = "Cancel·la";
 
-"CVV" = "CVV";
+"City" = "Ciutat";
 
-"Card information" = "Informació de targeta";
+"Code field" = "Camp pel codi";
 
-"Card number" = "Número de targeta";
+"Company" = "Empresa";
 
-"Invalid data." = "Dades no vàlides.";
+"Continue" = "Continua";
 
-"MM / YY" = "MM / AA";
+"Country" = "País";
 
-"MM/YY" = "MM / AA";
+"Country or region" = "País o regió";
 
-"Postal Code" = "Codi postal";
+"County" = "Comtat";
 
-"Shipping Address" = "Adreça d'enviament";
+"Department" = "Departament";
 
-"State / Province / Region" = "País / Província / Regió";
+"District" = "Districte";
 
-"The BSB you entered is invalid." = "El BSB que has introduït no és vàlid.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Per escanejar la teva targeta, permet l'accès a la càmera a Ajusts.";
+"Done" = "Fet";
 
-"Your ZIP is invalid." = "El teu ZIP no és vàlid.";
+"Double tap to edit" = "Toca dos cops per editar";
 
-"Your card number is incomplete." = "El número de la teva targeta no està complet.";
+"Edit" = "Editar";
 
-"Your card number is invalid." = "El número de la teva targeta no és vàlid.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "La data de caducitat de la teva targeta no està completa.";
+"Email" = "Correu electrònic";
 
-"Your card's expiration date is invalid." = "La data de caducitat de la teva targeta no és vàlida.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "El mes de caducitat de la teva targeta no és vàlid.";
+"Error" = "Error";
 
-"Your card's expiration year is invalid." = "L'any de caducitat de la teva targeta no és vàlid.";
+"First" = "Nom";
 
-"Your card's security code is incomplete." = "El codi de seguretat de la teva targeta no està complet.";
+"Full name" = "Nom complet";
 
-"Your card's security code is invalid." = "El codi de seguretat de la teva targeta no és vàlid";
+"Incomplete phone number" = "Número de telèfon incomplet";
 
-"Your postal code is invalid." = "El teu codi postal no és vàlid.";
+"Invalid UPI ID" = "ID UPI no vàlida";
 
-"card number" = "número de targeta";
+"Island" = "Illa";
 
-"example@example.com" = "example@example.com";
+"Last" = "Cognom";
 
-"expiration date" = "data de caducitat";
+"Name" = "Nom";
+
+"Name on account" = "Nom al compte";
+
+"OK" = "D'acord";
+
+"Oblast" = "Óblast";
+
+"Other" = "Un altre";
+
+"Parish" = "Parròquia";
+
+"Phone" = "Telèfon";
+
+"Postal code" = "Codi postal";
+
+"Prefecture" = "Prefectura";
+
+"Province" = "Província";
+
+"Remove" = "Eliminar";
+
+"Remove bank account" = "Elimina el compte bancari";
+
+"Remove bank account ending in %@" = "Elimina el compte bancari que acaba en %@";
+
+"Search" = "Cerca";
+
+"State" = "País";
+
+"Suburb" = "Suburbi";
+
+"Suburb or city" = "Suburbi o ciutat";
+
+"The BSB you entered is incomplete." = "El BSB que has introduït és incomplet.";
+
+"The ID number you entered is incomplete." = "El número d'identificació que has introduït és incomplet.";
+
+"The account number you entered is incomplete." = "El número de compte que heu introduït és incomplet.";
+
+"Town or city" = "Municipi o ciutat";
+
+"UPI ID" = "ID UPI";
+
+"Unable to parse phone number" = "No s'ha pogut analitzar el número de telèfon";
+
+"Use rotor to access links" = "Empreu el rotor per accedir als enllaços";
+
+"Your ZIP is incomplete." = "El teu ZIP no està complet.";
+
+"Your email is invalid." = "L'adreça electrònica no és vàlida.";
+
+"Your postal code is incomplete." = "El teu codi postal no està complet.";
+
+"ZIP" = "ZIP";

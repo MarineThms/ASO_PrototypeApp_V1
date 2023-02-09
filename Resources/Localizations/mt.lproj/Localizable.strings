@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "Kont ta' %1$@ li jintemm biċ-ċifri %2$@";
+"%@ (optional)" = "%@ (mhux obbligatorja)";
 
-"%1$@ ending in %2$@" = "%1$@ li jispiċċa %2$@";
+"Account number" = "In-numru tal-kont";
 
-"Address line 2 (optional)" = "Indirizz linja 2 (mhux obbligatorju)";
+"Address" = "Indirizz";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Indirizz linja 1";
 
-"BSB" = "BSB";
+"Address line 2" = "It-tieni linja tal-indirizz";
 
-"Bank Account" = "Kont bankarju";
+"Area" = "Żona";
 
-"Billing Address" = "Indirizz tal-Kont";
+"BSB number" = "Numru BSB";
 
-"Billing address" = "Indirizz tal-kont";
+"Billing address is same as shipping" = "L-indirizz tal-fatturazzjoni huwa l-istess bħall-indirizz tal-posta";
 
-"CVC" = "CVC";
+"Cancel" = "Ikkanċella";
 
-"CVV" = "CVV";
+"City" = "Belt";
 
-"Card information" = "L-informazzjoni tal-kard";
+"Code field" = "Taqsima tal-kodiċi";
 
-"Card number" = "In-numru tal-kard";
+"Company" = "Kumpanija";
 
-"Invalid data." = "Data invalida.";
+"Continue" = "Kompli";
 
-"MM / YY" = "XX / SS";
+"Country" = "Pajjiż";
 
-"MM/YY" = "XX/SS";
+"Country or region" = "Pajjiż jew reġjun";
 
-"Postal Code" = "Kodiċi Postali";
+"County" = "Kontea";
 
-"Shipping Address" = "L-Indirizz tat-Trasport tal-Merkanzija";
+"Department" = "Dipartiment";
 
-"State / Province / Region" = "Stat / Provinċja / Reġjun";
+"District" = "Distrett";
 
-"The BSB you entered is invalid." = "Il-BSB li daħħalt mhux validu.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Biex tiskennja l-kard tiegħek, ippermetti l-aċċess tal-kamera fis-Settings.";
+"Done" = "Bil-lest";
 
-"Your ZIP is invalid." = "Il-kodiċi postali tiegħek mhux validu.";
+"Double tap to edit" = "Taptap biex tibdel";
 
-"Your card number is incomplete." = "In-numru tal-kard tiegħek mhux komplut.";
+"Edit" = "Editja";
 
-"Your card number is invalid." = "In-numru tal-kard tiegħek mhux validu.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Id-data tal-iskadenza tal-kard tiegħek mhijiex kompluta.";
+"Email" = "Email";
 
-"Your card's expiration date is invalid." = "Id-data tal-iskadenza tal-kard tiegħek mhijiex valida.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "Ix-xahar tal-iskadenza tal-kard tiegħek mhux validu.";
+"Error" = "Żball";
 
-"Your card's expiration year is invalid." = "Is-sena tal-iskadenza tal-kard tiegħek mhijiex valida.";
+"First" = "Ismek";
 
-"Your card's security code is incomplete." = "Il-kodiċi tas-sigurtà tal-kard tiegħek mhux komplut.";
+"Full name" = "Isem sħiħ";
 
-"Your card's security code is invalid." = "Il-kodiċi tas-sigurtà tal-kard tiegħek mhux validu.";
+"Incomplete phone number" = "In-numru tat-telefon mhuwiex komplut";
 
-"Your postal code is invalid." = "Il-kodiċi postali tiegħek mhux validu.";
+"Invalid UPI ID" = "L-ID UPI mhix tajba";
 
-"card number" = "in-numru tal-kard";
+"Island" = "Gżira";
 
-"example@example.com" = "eżempju@eżempju.com";
+"Last" = "L-aħħar";
 
-"expiration date" = "id-data tal-iskadenza";
+"Name" = "Isem";
+
+"Name on account" = "Isem sid il-kont";
+
+"OK" = "Tajjeb";
+
+"Oblast" = "Oblast";
+
+"Other" = "Oħrajn";
+
+"Parish" = "Parroċċa";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Kodiċi postali";
+
+"Prefecture" = "Prefettura";
+
+"Province" = "Provinċja";
+
+"Remove" = "Neħħi";
+
+"Remove bank account" = "Neħħi l-kont tal-bank";
+
+"Remove bank account ending in %@" = "Neħħi l-kont tal-bank li jispiċċa b'%@";
+
+"Search" = "Fittex";
+
+"State" = "Stat";
+
+"Suburb" = "Subborg";
+
+"Suburb or city" = "Subborg jew belt";
+
+"The BSB you entered is incomplete." = "Il-BSB li daħħalt mhux komplut.";
+
+"The ID number you entered is incomplete." = "In-numru tal-ID li daħħalt mhuwiex komplut.";
+
+"The account number you entered is incomplete." = "In-numru tal-kont li daħħalt mhux komplut.";
+
+"Town or city" = "Belt";
+
+"UPI ID" = "ID UPI";
+
+"Unable to parse phone number" = "Ma jistax jaqra n-numru tat-telefown";
+
+"Use rotor to access links" = "Uża r-rotor biex tiftaħ il-ħoloq";
+
+"Your ZIP is incomplete." = "Il-kodiċi postali tiegħek mhux komplut.";
+
+"Your email is invalid." = "L-indirizz tal-email li daħħalt mhux tajjeb.";
+
+"Your postal code is incomplete." = "Il-kodiċi postali tiegħek mhux komplut.";
+
+"ZIP" = "Kodiċi Postali";

@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@-rekening die eindigt op %2$@";
+"%@ (optional)" = "%@ (optioneel)";
 
-"%1$@ ending in %2$@" = "%1$@ eindigend op %2$@";
+"Account number" = "Rekeningnummer";
 
-"Address line 2 (optional)" = "Adresregel 2 (optioneel)";
+"Address" = "Adres";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Adresregel 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Adresregel 2";
 
-"Bank Account" = "Bankrekening";
+"Area" = "Regio";
 
-"Billing Address" = "Factuuradres";
+"BSB number" = "BSB-nummer";
 
-"Billing address" = "Factuuradres";
+"Billing address is same as shipping" = "Factuuradres is hetzelfde als het verzendadres";
 
-"CVC" = "Cvc";
+"Cancel" = "Annuleren";
 
-"CVV" = "Cvv";
+"City" = "Plaats";
 
-"Card information" = "Kaartgegevens";
+"Code field" = "Codeveld";
 
-"Card number" = "Kaartnummer";
+"Company" = "Bedrijf";
 
-"Invalid data." = "Ongeldige gegevens.";
+"Continue" = "Doorgaan";
 
-"MM / YY" = "MM / JJ";
+"Country" = "Land";
 
-"MM/YY" = "MM/JJ";
+"Country or region" = "Land of regio";
 
-"Postal Code" = "Postcode";
+"County" = "Graafschap";
 
-"Shipping Address" = "Verzendadres";
+"Department" = "Departement";
 
-"State / Province / Region" = "Staat/provincie/regio";
+"District" = "District";
 
-"The BSB you entered is invalid." = "Het ingevoerde BSB-nummer is ongeldig.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Sta toegang tot je camera toe in Instellingen om je kaart te scannen.";
+"Done" = "Gereed";
 
-"Your ZIP is invalid." = "Je ZIP is ongeldig.";
+"Double tap to edit" = "Dubbeltikken om te bewerken";
 
-"Your card number is incomplete." = "Je kaartnummer is onvolledig.";
+"Edit" = "Bewerken";
 
-"Your card number is invalid." = "Je kaartnummer is ongeldig.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "De vervaldatum van je kaart is onvolledig.";
+"Email" = "E-mailadres";
 
-"Your card's expiration date is invalid." = "De vervaldatum van je kaart is ongeldig.";
+"Emirate" = "Emiraat";
 
-"Your card's expiration month is invalid." = "De vervalmaand van de kaart is ongeldig.";
+"Error" = "Fout";
 
-"Your card's expiration year is invalid." = "Het vervaljaar van de kaart is ongeldig.";
+"First" = "Voornaam";
 
-"Your card's security code is incomplete." = "De beveiligingscode van je kaart is onvolledig.";
+"Full name" = "Volledige naam";
 
-"Your card's security code is invalid." = "De beveiligingscode van je kaart is ongeldig.";
+"Incomplete phone number" = "Onvolledig telefoonnummer";
 
-"Your postal code is invalid." = "Je postcode is ongeldig.";
+"Invalid UPI ID" = "Ongeldige UPI-ID";
 
-"card number" = "kaartnummer";
+"Island" = "Eiland";
 
-"example@example.com" = "voorbeeld@voorbeeld.com";
+"Last" = "Achternaam";
 
-"expiration date" = "vervaldatum";
+"Name" = "Naam";
+
+"Name on account" = "Naam op account";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Overige";
+
+"Parish" = "Parochie";
+
+"Phone" = "Telefoon";
+
+"Postal code" = "Postcode";
+
+"Prefecture" = "Prefectuur";
+
+"Province" = "Provincie";
+
+"Remove" = "Verwijderen";
+
+"Remove bank account" = "Bankrekening verwijderen";
+
+"Remove bank account ending in %@" = "Bankrekening verwijderen die eindigt op %@";
+
+"Search" = "Zoeken";
+
+"State" = "Staat";
+
+"Suburb" = "Voorstad";
+
+"Suburb or city" = "Stad of voorstad";
+
+"The BSB you entered is incomplete." = "Het ingevoerde BSB-nummer is onvolledig.";
+
+"The ID number you entered is incomplete." = "Het opgegeven identificatienummer is onvolledig.";
+
+"The account number you entered is incomplete." = "Het opgegeven rekeningnummer is onvolledig.";
+
+"Town or city" = "Stad of plaats";
+
+"UPI ID" = "UPI-ID";
+
+"Unable to parse phone number" = "Kan telefoonnummer niet parseren";
+
+"Use rotor to access links" = "Gebruik de rotor om een link te openen";
+
+"Your ZIP is incomplete." = "Je ZIP is onvolledig.";
+
+"Your email is invalid." = "Je e-mailadres is ongeldig.";
+
+"Your postal code is incomplete." = "Je postcode is onvolledig.";
+
+"ZIP" = "Postcode";

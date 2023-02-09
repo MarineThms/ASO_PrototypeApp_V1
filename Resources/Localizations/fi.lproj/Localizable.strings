@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ -tili päättyy numeroihin %2$@";
+"%@ (optional)" = "%@ (valinnainen)";
 
-"%1$@ ending in %2$@" = "%1$@ päättyy numeroihin %2$@";
+"Account number" = "Tilinumero";
 
-"Address line 2 (optional)" = "Osoiterivi 2 (valinnainen)";
+"Address" = "Osoite";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Osoiterivi 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Osoiterivi 2";
 
-"Bank Account" = "Pankkitili";
+"Area" = "Alue";
 
-"Billing Address" = "Laskutusosoite";
+"BSB number" = "BSB-numero";
 
-"Billing address" = "Laskutusosoite";
+"Billing address is same as shipping" = "Laskutusosoite on sama kuin toimitusosoite";
 
-"CVC" = "CVC-tunnus";
+"Cancel" = "Peruuta";
 
-"CVV" = "CVV-koodi";
+"City" = "Paikkakunta";
 
-"Card information" = "Kortin tiedot";
+"Code field" = "Koodikenttä";
 
-"Card number" = "Kortin numero";
+"Company" = "Yritys";
 
-"Invalid data." = "Virheelliset tiedot.";
+"Continue" = "Jatka";
 
-"MM / YY" = "KK/VV";
+"Country" = "Maa";
 
-"MM/YY" = "KK/VV";
+"Country or region" = "Maa tai alue";
 
-"Postal Code" = "Postinumero";
+"County" = "Lääni";
 
-"Shipping Address" = "Lähetysosoite";
+"Department" = "Osasto";
 
-"State / Province / Region" = "Osavaltio/maakunta/alue";
+"District" = "Piirikunta";
 
-"The BSB you entered is invalid." = "Antamasi BSB-numero on virheellinen.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Anna kameralle käyttöoikeus, jotta voit skannata kortin.";
+"Done" = "Valmis";
 
-"Your ZIP is invalid." = "Postinumero on virheellinen.";
+"Double tap to edit" = "Napauta kahdesti ja muokkaa";
 
-"Your card number is incomplete." = "Kortin numero on puutteellinen.";
+"Edit" = "Muokkaa";
 
-"Your card number is invalid." = "Kortin numero on virheellinen.";
+"Eircode" = "EIR-koodi";
 
-"Your card's expiration date is incomplete." = "Kortin voimassaoloaika on puutteellinen.";
+"Email" = "Sähköposti";
 
-"Your card's expiration date is invalid." = "Kortin voimassaoloaika on virheellinen.";
+"Emirate" = "Emiraatti";
 
-"Your card's expiration month is invalid." = "Kortin erääntymiskuukausi ei kelpaa.";
+"Error" = "Virhe";
 
-"Your card's expiration year is invalid." = "Kortin voimassaolovuosi ei kelpaa.";
+"First" = "Etunimi";
 
-"Your card's security code is incomplete." = "Kortin turvakoodi on puutteellinen.";
+"Full name" = "Koko nimi";
 
-"Your card's security code is invalid." = "Kortin turvakoodi on virheellinen.";
+"Incomplete phone number" = "Puutteellinen puhelinnumero";
 
-"Your postal code is invalid." = "Postinumeroon virheellinen.";
+"Invalid UPI ID" = "Virheellinen UPI-tunnus";
 
-"card number" = "kortin numero";
+"Island" = "Saari";
 
-"example@example.com" = "esimerkki@esimerkki.com";
+"Last" = "Sukunimi";
 
-"expiration date" = "erääntymispäivä";
+"Name" = "Nimi";
+
+"Name on account" = "Tilin nimi";
+
+"OK" = "OK";
+
+"Oblast" = "Oblasti";
+
+"Other" = "Muu";
+
+"Parish" = "Kunta";
+
+"Phone" = "Puhelin";
+
+"Postal code" = "Postinumero";
+
+"Prefecture" = "Prefektuuri";
+
+"Province" = "Provinssi";
+
+"Remove" = "Poista";
+
+"Remove bank account" = "Poista pankkitili";
+
+"Remove bank account ending in %@" = "Poista pankkitili, joka päättyy numeroihin %@";
+
+"Search" = "Etsi";
+
+"State" = "Osavaltio";
+
+"Suburb" = "Esikaupunki";
+
+"Suburb or city" = "Esikaupunki tai kaupunki";
+
+"The BSB you entered is incomplete." = "Antamasi BSB-numero on puutteellinen.";
+
+"The ID number you entered is incomplete." = "Antamasi tunnusnumero on puutteellinen.";
+
+"The account number you entered is incomplete." = "Antamasi tilinumero on puutteellinen.";
+
+"Town or city" = "Kaupunki tai kunta";
+
+"UPI ID" = "UPI-tunnus";
+
+"Unable to parse phone number" = "Puhelinnumeron jäsennys epäonnistui";
+
+"Use rotor to access links" = "Käytä roottoria linkeille";
+
+"Your ZIP is incomplete." = "Postinumero on puutteellinen.";
+
+"Your email is invalid." = "Sähköposti on virheellinen.";
+
+"Your postal code is incomplete." = "Postinumero on puutteellinen.";
+
+"ZIP" = "Postinumero";

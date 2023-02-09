@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ sąskaita, kurios paskutiniai skaičiai %2$@";
+"%@ (optional)" = "%@ (pasirenkamas)";
 
-"%1$@ ending in %2$@" = "%1$@, kuri baigiasi %2$@";
+"Account number" = "Sąskaitos numeris";
 
-"Address line 2 (optional)" = "2 adreso eilutė (pasirenkama)";
+"Address" = "Adresas";
 
-"Apple Pay" = "„Apple Pay“";
+"Address line 1" = "1 adreso eilutė";
 
-"BSB" = "BSB";
+"Address line 2" = "2 adreso eilutė";
 
-"Bank Account" = "Banko sąskaita";
+"Area" = "Sritis";
 
-"Billing Address" = "Sąskaitų siuntimo adresas";
+"BSB number" = "BSB numeris";
 
-"Billing address" = "Atsiskaitymo adresas";
+"Billing address is same as shipping" = "Atsiskaitymo ir siuntimo adresai vienodi";
 
-"CVC" = "CVC";
+"Cancel" = "Atšaukti";
 
-"CVV" = "CVV";
+"City" = "Miestas";
 
-"Card information" = "Kortelės duomenys";
+"Code field" = "Kodo laukas";
 
-"Card number" = "Kortelės numeris";
+"Company" = "Bendrovė";
 
-"Invalid data." = "Netinkami duomenys.";
+"Continue" = "Tęsti";
 
-"MM / YY" = "mm / MM";
+"Country" = "Šalis";
 
-"MM/YY" = "mm / MM";
+"Country or region" = "Šalis arba regionas";
 
-"Postal Code" = "Pašto kodas";
+"County" = "Apygarda";
 
-"Shipping Address" = "Siuntimo adresas";
+"Department" = "Skyrius";
 
-"State / Province / Region" = "Valstija / provincija / regionas";
+"District" = "Rajonas";
 
-"The BSB you entered is invalid." = "Įvestas netinkamas BSB numeris.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Kad nuskaitytumėte kortelę, nustatymuose suteikite prieigą fotoaparatui.";
+"Done" = "Atlikta";
 
-"Your ZIP is invalid." = "Jūsų pašto kodas yra netinkamas.";
+"Double tap to edit" = "Norėdami redaguoti, dukart bakstelėkite";
 
-"Your card number is incomplete." = "Neišsamus kortelės numeris.";
+"Edit" = "Redaguoti";
 
-"Your card number is invalid." = "Netinkamas kortelės numeris.";
+"Eircode" = "Pašto kodas (EIR)";
 
-"Your card's expiration date is incomplete." = "Neišsami kortelės galiojimo pabaigos data.";
+"Email" = "El. paštas";
 
-"Your card's expiration date is invalid." = "Netinkama kortelės galiojimo pabaigos data.";
+"Emirate" = "Emyratas";
 
-"Your card's expiration month is invalid." = "Negaliojantis kortelės galiojimo pabaigos mėnuo.";
+"Error" = "Klaida";
 
-"Your card's expiration year is invalid." = "Kortelės galiojimo pabaigos metai neteisingi.";
+"First" = "Vardas";
 
-"Your card's security code is incomplete." = "Neišsamus kortelės saugos kodas.";
+"Full name" = "Vardas, pavardė";
 
-"Your card's security code is invalid." = "Kortelės saugos kodas negalioja.";
+"Incomplete phone number" = "Ne visas telefono numeris";
 
-"Your postal code is invalid." = "Jūsų pašto kodas yra netinkamas.";
+"Invalid UPI ID" = "Netinkamas UPI ID";
 
-"card number" = "kortelės numeris";
+"Island" = "Sala";
 
-"example@example.com" = "example@example.com";
+"Last" = "Pavardė";
 
-"expiration date" = "galiojimo pabaigos data";
+"Name" = "Vardas, pavardė";
+
+"Name on account" = "Sąskaitos turėtojo vardas ir pavardė";
+
+"OK" = "GERAI";
+
+"Oblast" = "Sritis";
+
+"Other" = "Kita";
+
+"Parish" = "Parapija";
+
+"Phone" = "Telefonas";
+
+"Postal code" = "Pašto kodas";
+
+"Prefecture" = "Prefektūra";
+
+"Province" = "Provincija";
+
+"Remove" = "Pašalinti";
+
+"Remove bank account" = "Pašalinti banko sąskaitą";
+
+"Remove bank account ending in %@" = "Pašalinti banko sąskaitą, kurios paskutiniai skaičiai %@";
+
+"Search" = "Paieška";
+
+"State" = "Valstija";
+
+"Suburb" = "Priemiestis";
+
+"Suburb or city" = "Priemiestis arba miestas";
+
+"The BSB you entered is incomplete." = "Įvestas neišsamus BSB numeris.";
+
+"The ID number you entered is incomplete." = "Įvedėte ne visą identifikacinį numerį.";
+
+"The account number you entered is incomplete." = "Įvedėte ne visą sąskaitos numerį.";
+
+"Town or city" = "Miestelis arba miestas";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Nepavyko išanalizuoti telefono numerio";
+
+"Use rotor to access links" = "Naudoti pasukimo ratuką prieigai prie saitų";
+
+"Your ZIP is incomplete." = "Neišsamus jūsų pašto kodas.";
+
+"Your email is invalid." = "Jūsų el. paštas yra neteisingas.";
+
+"Your postal code is incomplete." = "Pašto kodas neišsamus.";
+
+"ZIP" = "Pašto kodas";

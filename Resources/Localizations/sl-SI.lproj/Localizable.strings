@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "Račun za %1$@, ki se konča s števkami %2$@";
+"%@ (optional)" = "%@ (izbirno)";
 
-"%1$@ ending in %2$@" = "%1$@, ki se konča s/z %2$@";
+"Account number" = "Številka računa";
 
-"Address line 2 (optional)" = "Naslov 2 (izbirno)";
+"Address" = "Naslov";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Naslov 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Vrstica naslova 2";
 
-"Bank Account" = "Bančni račun";
+"Area" = "Območje";
 
-"Billing Address" = "Naslov plačnika računa";
+"BSB number" = "Številka BSB";
 
-"Billing address" = "Naslov plačnika računa";
+"Billing address is same as shipping" = "Naslov za obračunavanje je isti kot dostavni naslov";
 
-"CVC" = "CVC";
+"Cancel" = "Prekliči";
 
-"CVV" = "CVV";
+"City" = "Mesto";
 
-"Card information" = "Podatki o kartici";
+"Code field" = "Polje za kodo";
 
-"Card number" = "Številka kartice";
+"Company" = "Podjetje";
 
-"Invalid data." = "Neveljavni podatki.";
+"Continue" = "Nadaljuj";
 
-"MM / YY" = "MM/LL";
+"Country" = "Država";
 
-"MM/YY" = "MM/LL";
+"Country or region" = "Država ali regija";
 
-"Postal Code" = "Poštna številka";
+"County" = "Okraj";
 
-"Shipping Address" = "Dostavni naslov";
+"Department" = "Oddelek";
 
-"State / Province / Region" = "Zvezna država/provinca/regija";
+"District" = "Okrožje";
 
-"The BSB you entered is invalid." = "Vneseni BSB ni veljaven.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Če želite optično prebrati kartico, dovolite dostop kameri v nastavitvah.";
+"Done" = "Dokončano";
 
-"Your ZIP is invalid." = "Vaša poštna številka ni veljavna.";
+"Double tap to edit" = "Dvotapnite, da uredite";
 
-"Your card number is incomplete." = "Številka vaše kartice ni popolna.";
+"Edit" = "Uredi";
 
-"Your card number is invalid." = "Številka vaše kartice ni veljavna.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Datum poteka vaše kartice ni popoln.";
+"Email" = "E-poštni naslov";
 
-"Your card's expiration date is invalid." = "Datum poteka vaše kartice ni veljaven.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "Mesec poteka vaše kartice ni veljaven.";
+"Error" = "Napaka";
 
-"Your card's expiration year is invalid." = "Leto poteka vaše kartice ni veljavno.";
+"First" = "Ime";
 
-"Your card's security code is incomplete." = "Varnostna koda vaše kartice ni popolna.";
+"Full name" = "Polno ime";
 
-"Your card's security code is invalid." = "Varnostna koda vaše kartice ni veljavna.";
+"Incomplete phone number" = "Nepopolna telefonska številka mobilnega telefona.";
 
-"Your postal code is invalid." = "Vaša poštna številka ni veljavna.";
+"Invalid UPI ID" = "Neveljaven UPI ID";
 
-"card number" = "številka kartice";
+"Island" = "Otok";
 
-"example@example.com" = "primer@primer.com";
+"Last" = "Priimek";
 
-"expiration date" = "datum poteka";
+"Name" = "Ime";
+
+"Name on account" = "Ime na računu";
+
+"OK" = "V redu";
+
+"Oblast" = "Oblast";
+
+"Other" = "Drugo";
+
+"Parish" = "Župnija";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Poštna številka";
+
+"Prefecture" = "Prefektura";
+
+"Province" = "Provinca";
+
+"Remove" = "Odstrani";
+
+"Remove bank account" = "Odstranjevanje bančnega računa";
+
+"Remove bank account ending in %@" = "Odstranite bančni račun, ki se konča s števkami %@";
+
+"Search" = "Iskanje";
+
+"State" = "Zvezna država";
+
+"Suburb" = "Predmestje";
+
+"Suburb or city" = "Predmestje ali mesto";
+
+"The BSB you entered is incomplete." = "Vneseni BSB ni popoln.";
+
+"The ID number you entered is incomplete." = "Vnesena številka osebnega dokumenta ni popolna.";
+
+"The account number you entered is incomplete." = "Vnesena številka računa ni popolna.";
+
+"Town or city" = "Kraj ali mesto";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Telefonske številke ni mogoče razčleniti";
+
+"Use rotor to access links" = "Uporabite rotor za dostop do povezav";
+
+"Your ZIP is incomplete." = "Vaša poštna številka ni popolna.";
+
+"Your email is invalid." = "Vaš e-poštni naslov ni veljaven.";
+
+"Your postal code is incomplete." = "Vaša poštna številka ni popolna.";
+
+"ZIP" = "Poštna številka";

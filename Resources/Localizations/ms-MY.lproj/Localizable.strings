@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "akaun %1$@ yang berakhir dengan %2$@";
+"%@ (optional)" = "%@ (opsyenal)";
 
-"%1$@ ending in %2$@" = "%1$@ – berakhiran %2$@";
+"Account number" = "Nombor akaun";
 
-"Address line 2 (optional)" = "Alamat baris 2 (opsyenal)";
+"Address" = "Alamat";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Alamat baris 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Alamat baris 2";
 
-"Bank Account" = "Akaun Bank";
+"Area" = "Kawasan";
 
-"Billing Address" = "Alamat Pengebilan";
+"BSB number" = "Nombor BSB";
 
-"Billing address" = "Alamat pengebilan";
+"Billing address is same as shipping" = "Alamat pengebilan sama dengan alamat penghantaran";
 
-"CVC" = "CVC";
+"Cancel" = "Batalkan";
 
-"CVV" = "CVV";
+"City" = "Bandar";
 
-"Card information" = "Maklumat kad";
+"Code field" = "Medan kod";
 
-"Card number" = "Nombor kad";
+"Company" = "Syarikat";
 
-"Invalid data." = "Data tidak sah.";
+"Continue" = "Teruskan";
 
-"MM / YY" = "BB / TT";
+"Country" = "Negara";
 
-"MM/YY" = "BB/TT";
+"Country or region" = "Negara atau rantau";
 
-"Postal Code" = "Poskod";
+"County" = "Kaunti";
 
-"Shipping Address" = "Alamat Pengiriman";
+"Department" = "Jabatan";
 
-"State / Province / Region" = "Negeri/Wilayah/Rantau";
+"District" = "Daerah";
 
-"The BSB you entered is invalid." = "BSB yang anda masukkan tidak sah.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Untuk mengimbas kad anda, benarkan akses kamera dalam Tetapan.";
+"Done" = "Selesai";
 
-"Your ZIP is invalid." = "Kod ZIP anda tidak sah.";
+"Double tap to edit" = "Ketik dua kali untuk edit";
 
-"Your card number is incomplete." = "Nombor kad anda tidak lengkap.";
+"Edit" = "Edit";
 
-"Your card number is invalid." = "Nombor kad anda tidak sah.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Tarikh tamat tempoh kad anda tidak lengkap.";
+"Email" = "E-mel";
 
-"Your card's expiration date is invalid." = "Tarikh tamat tempoh kad anda tidak sah.";
+"Emirate" = "Amiriah";
 
-"Your card's expiration month is invalid." = "Bulan tamat tempoh kad anda tidak sah.";
+"Error" = "Ralat";
 
-"Your card's expiration year is invalid." = "Tahun tamat tempoh kad anda tidak sah.";
+"First" = "Pertama";
 
-"Your card's security code is incomplete." = "Kod keselamatan kad anda tidak lengkap.";
+"Full name" = "Nama penuh";
 
-"Your card's security code is invalid." = "Kod keselamatan kad anda tidak sah.";
+"Incomplete phone number" = "Nombor telefon tidak lengkap";
 
-"Your postal code is invalid." = "Poskod anda tidak sah.";
+"Invalid UPI ID" = "ID UPI tidak sah";
 
-"card number" = "nombor kad";
+"Island" = "Pulau";
 
-"example@example.com" = "contoh@contoh.com";
+"Last" = "Akhir";
 
-"expiration date" = "Tarikh tamat tempoh";
+"Name" = "Nama";
+
+"Name on account" = "Nama pada akaun";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Lain-lain";
+
+"Parish" = "Kariah";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Poskod";
+
+"Prefecture" = "Wilayah";
+
+"Province" = "Wilayah";
+
+"Remove" = "Alih Keluar";
+
+"Remove bank account" = "Alih keluar akaun bank";
+
+"Remove bank account ending in %@" = "Alih keluar akaun bank yang berakhir dengan %@";
+
+"Search" = "Cari";
+
+"State" = "Negeri";
+
+"Suburb" = "Pinggir Bandar";
+
+"Suburb or city" = "Pinggir bandar atau bandar";
+
+"The BSB you entered is incomplete." = "BSB yang anda masukkan tidak lengkap.";
+
+"The ID number you entered is incomplete." = "Nombor ID yang anda masukkan tidak lengkap.";
+
+"The account number you entered is incomplete." = "Nombor akaun yang anda masukkan tidak lengkap.";
+
+"Town or city" = "Pekan atau bandar";
+
+"UPI ID" = "ID UPI";
+
+"Unable to parse phone number" = "Nombor telefon tidak dapat dihuraikan";
+
+"Use rotor to access links" = "Gunakan rotor untuk mengakses pautan";
+
+"Your ZIP is incomplete." = "Kod ZIP anda tidak lengkap.";
+
+"Your email is invalid." = "E-mel anda tidak sah.";
+
+"Your postal code is incomplete." = "Poskod anda tidak lengkap.";
+
+"ZIP" = "ZIP";

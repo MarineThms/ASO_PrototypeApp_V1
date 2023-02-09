@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%2$@ ile biten %1$@ hesabınız";
+"%@ (optional)" = "%@ (isteğe bağlı)";
 
-"%1$@ ending in %2$@" = "%2$@ İle Biten %1$@";
+"Account number" = "Hesap numarası";
 
-"Address line 2 (optional)" = "Adres satırı 2 (isteğe bağlı)";
+"Address" = "Adres";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Adres satırı 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Adres satırı 2";
 
-"Bank Account" = "Banka Hesabı";
+"Area" = "Bölge";
 
-"Billing Address" = "Fatura Adresi";
+"BSB number" = "BSB numarası";
 
-"Billing address" = "Fatura adresi";
+"Billing address is same as shipping" = "Faturalama adresi, gönderim adresiyle aynı";
 
-"CVC" = "CVC";
+"Cancel" = "İptal";
 
-"CVV" = "CVV";
+"City" = "Şehir";
 
-"Card information" = "Kart bilgileri";
+"Code field" = "Kod alanı";
 
-"Card number" = "Kart numarası";
+"Company" = "Şirket";
 
-"Invalid data." = "Geçersiz veri.";
+"Continue" = "Devam et";
 
-"MM / YY" = "AA / YY";
+"Country" = "Ülke";
 
-"MM/YY" = "AA/YY";
+"Country or region" = "Ülke veya bölge";
 
-"Postal Code" = "Posta Kodu";
+"County" = "Ülke";
 
-"Shipping Address" = "Gönderi Adresi";
+"Department" = "İdari Bölüm";
 
-"State / Province / Region" = "İl/İlçe/Bölge";
+"District" = "İlçe";
 
-"The BSB you entered is invalid." = "Girdiğiniz BSB geçersiz.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Kartınızı taramak için Ayarlar'da kamera erişimine izin verin.";
+"Done" = "Tamam";
 
-"Your ZIP is invalid." = "Posta kodunuz geçersiz.";
+"Double tap to edit" = "Düzenlemek için iki kez dokunun";
 
-"Your card number is incomplete." = "Kart numaranız eksik.";
+"Edit" = "Düzenle";
 
-"Your card number is invalid." = "Kart numaranız geçersiz.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Kartınızın son kullanma tarihi eksik.";
+"Email" = "E-posta";
 
-"Your card's expiration date is invalid." = "Kartınızın son kullanma tarihi geçersiz.";
+"Emirate" = "Emirlik";
 
-"Your card's expiration month is invalid." = "Kartınızın son kullanma ayı geçersiz.";
+"Error" = "Hata";
 
-"Your card's expiration year is invalid." = "Kartınızın son kullanma yılı geçersiz.";
+"First" = "Ad";
 
-"Your card's security code is incomplete." = "Kartınızın güvenlik kodu eksik.";
+"Full name" = "Ad ve soyadınız";
 
-"Your card's security code is invalid." = "Kartınızın güvenlik kodu geçersiz.";
+"Incomplete phone number" = "Eksik telefon numarası";
 
-"Your postal code is invalid." = "Posta kodunuz geçersiz.";
+"Invalid UPI ID" = "Geçersiz UPI Numarası";
 
-"card number" = "kart numarası";
+"Island" = "Ada";
 
-"example@example.com" = "ornek@ornek.com";
+"Last" = "Soyadı";
 
-"expiration date" = "son kullanma tarihi";
+"Name" = "Ad";
+
+"Name on account" = "Hesaptaki ad";
+
+"OK" = "TAMAM";
+
+"Oblast" = "Oblast";
+
+"Other" = "Diğer";
+
+"Parish" = "Dini bölge";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Posta kodu";
+
+"Prefecture" = "İdari bölge";
+
+"Province" = "İlçe";
+
+"Remove" = "Kaldır";
+
+"Remove bank account" = "Banka hesabını kaldır";
+
+"Remove bank account ending in %@" = "%@ ile biten banka hesabını kaldır";
+
+"Search" = "Ara";
+
+"State" = "Eyalet";
+
+"Suburb" = "Banliyö";
+
+"Suburb or city" = "Banliyö veya şehir";
+
+"The BSB you entered is incomplete." = "Girdiğiniz BSB eksik.";
+
+"The ID number you entered is incomplete." = "Girdiğiniz kimlik numarası eksik.";
+
+"The account number you entered is incomplete." = "Girdiğiniz hesap numarası eksik.";
+
+"Town or city" = "Kasaba veya şehir";
+
+"UPI ID" = "UPI Numarası";
+
+"Unable to parse phone number" = "Telefon numaranızı ayrıştırılamadı";
+
+"Use rotor to access links" = "Linklere erişmek için rotoru kullanın.";
+
+"Your ZIP is incomplete." = "Posta kodunuz eksik.";
+
+"Your email is invalid." = "E-postanız geçersiz.";
+
+"Your postal code is incomplete." = "Posta kodunuz eksik.";
+
+"ZIP" = "Posta Kodu";

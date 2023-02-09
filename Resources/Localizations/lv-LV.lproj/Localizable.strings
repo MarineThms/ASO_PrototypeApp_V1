@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@konts, kas beidzas ar%2$@";
+"%@ (optional)" = "%@ (nav obligāti)";
 
-"%1$@ ending in %2$@" = "%1$@, kuras numura pēdējie cipari ir %2$@";
+"Account number" = "Konta numurs";
 
-"Address line 2 (optional)" = "2. adreses rindiņa (nav obligāti)";
+"Address" = "Adrese";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "1. adreses rindiņa";
 
-"BSB" = "BSB";
+"Address line 2" = "2. adreses rindiņa";
 
-"Bank Account" = "Bankas konts";
+"Area" = "Apgabals";
 
-"Billing Address" = "Norēķinu adrese";
+"BSB number" = "BSB numurs";
 
-"Billing address" = "Norēķinu adrese";
+"Billing address is same as shipping" = "Norēķinu adrese un piegādes adrese sakrīt";
 
-"CVC" = "CVC";
+"Cancel" = "Atcelt";
 
-"CVV" = "CVV";
+"City" = "Pilsēta";
 
-"Card information" = "Kartes informācija";
+"Code field" = "Koda lauks";
 
-"Card number" = "Kartes numurs";
+"Company" = "Uzņēmums";
 
-"Invalid data." = "Nederīgi dati.";
+"Continue" = "Turpināt";
 
-"MM / YY" = "MM/GG";
+"Country" = "Valsts";
 
-"MM/YY" = "MM/GG";
+"Country or region" = "Valsts vai reģions";
 
-"Postal Code" = "Pasta indekss";
+"County" = "Apriņķis";
 
-"Shipping Address" = "Piegādes adrese";
+"Department" = "Departaments";
 
-"State / Province / Region" = "Novads/štats/province/reģions";
+"District" = "Rajons";
 
-"The BSB you entered is invalid." = "Ievadītais BSB nav derīgs.";
+"Do Si" = "Province un pilsēta (Do Si)";
 
-"To scan your card, allow camera access in Settings." = "Lai noskenētu karti, Iestatījumos atļaujiet piekļuvi kamerai.";
+"Done" = "Gatavs";
 
-"Your ZIP is invalid." = "Pasta indekss nav derīgs.";
+"Double tap to edit" = "Pieskarieties divreiz, lai rediģētu";
 
-"Your card number is incomplete." = "Kartes numurs nav pilnīgs.";
+"Edit" = "Rediģēt";
 
-"Your card number is invalid." = "Kartes numurs nav derīgs.";
+"Eircode" = "Pasta indekss (Eirkods)";
 
-"Your card's expiration date is incomplete." = "Kartes derīguma termiņa datums nav pilnīgs.";
+"Email" = "E-pasts";
 
-"Your card's expiration date is invalid." = "Kartes derīguma termiņa beigu datums nav derīgs.";
+"Emirate" = "Emirāts";
 
-"Your card's expiration month is invalid." = "Kartes derīguma termiņa mēnesis nav derīgs.";
+"Error" = "Kļūda";
 
-"Your card's expiration year is invalid." = "Kartes derīguma termiņa gads nav derīgs.";
+"First" = "Vārds";
 
-"Your card's security code is incomplete." = "Kartes drošības kods nav pilnīgs.";
+"Full name" = "Vārds, uzvārds";
 
-"Your card's security code is invalid." = "Kartes drošības kods nav derīgs.";
+"Incomplete phone number" = "Nepilnīgs tālruņa numurs";
 
-"Your postal code is invalid." = "Pasta indekss nav derīgs.";
+"Invalid UPI ID" = "Nederīgs UPI ID";
 
-"card number" = "kartes numurs";
+"Island" = "Sala";
 
-"example@example.com" = "example@example.com";
+"Last" = "Uzvārds";
 
-"expiration date" = "derīguma termiņš";
+"Name" = "Vārds, uzvārds";
+
+"Name on account" = "Konta īpašnieks";
+
+"OK" = "Labi";
+
+"Oblast" = "Apgabals";
+
+"Other" = "Cits";
+
+"Parish" = "Pagasts";
+
+"Phone" = "Tālrunis";
+
+"Postal code" = "Pasta indekss";
+
+"Prefecture" = "Prefektūra";
+
+"Province" = "Province";
+
+"Remove" = "Noņemt";
+
+"Remove bank account" = "Noņemt bankas kontu";
+
+"Remove bank account ending in %@" = "Noņemt bankas kontu, kas beidzas ar %@";
+
+"Search" = "Meklēšana";
+
+"State" = "Novads/štats";
+
+"Suburb" = "Priekšpilsēta";
+
+"Suburb or city" = "Priekšpilsēta vai pilsēta";
+
+"The BSB you entered is incomplete." = "Ievadītais BSB ir nepilnīgs.";
+
+"The ID number you entered is incomplete." = "Ievadītais ID numurs nav pilnīgs.";
+
+"The account number you entered is incomplete." = "Jūsu ievadītais konta numurs nav pilnīgs.";
+
+"Town or city" = "Ciems vai pilsēta";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Neizdevās parsēt tālruņa numuru";
+
+"Use rotor to access links" = "Izmantot rotoru, lai piekļūtu saitēm";
+
+"Your ZIP is incomplete." = "Pasta indekss nav pilnīgs.";
+
+"Your email is invalid." = "E-pasta adrese nav derīga.";
+
+"Your postal code is incomplete." = "Pasta indekss nav pilnīgs.";
+
+"ZIP" = "Pasta ind.";

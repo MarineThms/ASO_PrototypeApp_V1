@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ rekening berakhiran dengan %2$@";
+"%@ (optional)" = "%@ (opsional)";
 
-"%1$@ ending in %2$@" = "%1$@ berakhiran %2$@";
+"Account number" = "Nomor rekening";
 
-"Address line 2 (optional)" = "Baris alamat ke-2 (opsional)";
+"Address" = "Alamat";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Baris alamat ke-1";
 
-"BSB" = "BSB";
+"Address line 2" = "Baris alamat ke-2";
 
-"Bank Account" = "Rekening bank";
+"Area" = "Area";
 
-"Billing Address" = "Alamat Tagihan";
+"BSB number" = "Nomor BSB";
 
-"Billing address" = "Alamat tagihan";
+"Billing address is same as shipping" = "Alamat tagihan sama dengan pengiriman";
 
-"CVC" = "CVC";
+"Cancel" = "Batalkan";
 
-"CVV" = "CVV";
+"City" = "Kota";
 
-"Card information" = "Informasi kartu";
+"Code field" = "Bidang kode";
 
-"Card number" = "Nomor kartu";
+"Company" = "Perusahaan";
 
-"Invalid data." = "Data tidak valid.";
+"Continue" = "Lanjutkan";
 
-"MM / YY" = "BB / TT";
+"Country" = "Negara";
 
-"MM/YY" = "BB/TT";
+"Country or region" = "Negara atau wilayah";
 
-"Postal Code" = "Kode Pos";
+"County" = "County";
 
-"Shipping Address" = "Alamat Pengiriman";
+"Department" = "Departemen";
 
-"State / Province / Region" = "Negara Bagian / Provinsi / Wilayah";
+"District" = "Distrik";
 
-"The BSB you entered is invalid." = "BSB yang Anda masukkan tidak valid.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Untuk memindai kartu Anda, izinkan akses kamera di Pengaturan.";
+"Done" = "Selesai";
 
-"Your ZIP is invalid." = "ZIP Anda tidak valid.";
+"Double tap to edit" = "Sentuh dua kali untuk mengedit";
 
-"Your card number is incomplete." = "Nomor kartu Anda tidak lengkap.";
+"Edit" = "Edit";
 
-"Your card number is invalid." = "Nomor kartu Anda tidak valid.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Tanggal kedaluwarsa kartu Anda tidak lengkap.";
+"Email" = "Email";
 
-"Your card's expiration date is invalid." = "Tanggal kedaluwarsa kartu Anda tidak valid.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "Bulan kedaluwarsa kartu Anda tidak valid.";
+"Error" = "Kesalahan";
 
-"Your card's expiration year is invalid." = "Tahun kedaluwarsa kartu Anda tidak valid.";
+"First" = "Depan";
 
-"Your card's security code is incomplete." = "Kode keamanan kartu Anda tidak lengkap.";
+"Full name" = "Nama lengkap";
 
-"Your card's security code is invalid." = "Kode keamanan kartu Anda tidak valid.";
+"Incomplete phone number" = "Nomor telepon tidak lengkap";
 
-"Your postal code is invalid." = "Kode pos Anda tidak valid.";
+"Invalid UPI ID" = "Identifikasi UPI tidak valid";
 
-"card number" = "nomor kartu";
+"Island" = "Pulau";
 
-"example@example.com" = "example@example.com";
+"Last" = "Belakang";
 
-"expiration date" = "Tanggal kedaluwarsa";
+"Name" = "Nama";
+
+"Name on account" = "Nama pada rekening";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Lainnya";
+
+"Parish" = "Parish";
+
+"Phone" = "Telepon";
+
+"Postal code" = "Kode pos";
+
+"Prefecture" = "Prefektur";
+
+"Province" = "Provinsi";
+
+"Remove" = "Hapus";
+
+"Remove bank account" = "Hapus rekening bank";
+
+"Remove bank account ending in %@" = "Hapus rekening bank yang berakhiran dengan %@";
+
+"Search" = "Cari";
+
+"State" = "Negara Bagian";
+
+"Suburb" = "Suburb";
+
+"Suburb or city" = "Suburb atau kota";
+
+"The BSB you entered is incomplete." = "BSB yang Anda masukkan tidak lengkap.";
+
+"The ID number you entered is incomplete." = "Nomor identifikasi yang Anda masukkan tidak lengkap.";
+
+"The account number you entered is incomplete." = "Nomor rekening yang Anda masukkan tidak lengkap.";
+
+"Town or city" = "Kabupaten atau kota";
+
+"UPI ID" = "Identifikasi UPI";
+
+"Unable to parse phone number" = "Tidak dapat menguraikan nomor telepon";
+
+"Use rotor to access links" = "Gunakan rotor untuk mengakses tautan";
+
+"Your ZIP is incomplete." = "ZIP Anda tidak lengkap.";
+
+"Your email is invalid." = "Email Anda tidak valid.";
+
+"Your postal code is incomplete." = "Kode pos Anda tidak lengkap.";
+
+"ZIP" = "ZIP";

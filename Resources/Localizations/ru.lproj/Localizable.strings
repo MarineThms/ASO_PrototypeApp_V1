@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ счет, номер которого оканчивается на %2$@";
+"%@ (optional)" = "%@ (необязательно)";
 
-"%1$@ ending in %2$@" = "%1$@, оканч. на %2$@";
+"Account number" = "Номер счета";
 
-"Address line 2 (optional)" = "Адрес (строка 2) (необязательно)";
+"Address" = "Адрес";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Адрес (строка 1)";
 
-"BSB" = "BSB";
+"Address line 2" = "Адрес (строка 2)";
 
-"Bank Account" = "Банковский счет";
+"Area" = "Область";
 
-"Billing Address" = "Адрес выставления счета";
+"BSB number" = "Номер BSB";
 
-"Billing address" = "Адрес для выставления счета";
+"Billing address is same as shipping" = "Адрес выставления счетов такой же, как адрес доставки";
 
-"CVC" = "Код CVV/CVC";
+"Cancel" = "Отмена";
 
-"CVV" = "Код CVV/CVC";
+"City" = "Город";
 
-"Card information" = "Данные платежной карты";
+"Code field" = "Поле кода";
 
-"Card number" = "Номер карты";
+"Company" = "Компания";
 
-"Invalid data." = "Недопустимые данные.";
+"Continue" = "Продолжить";
 
-"MM / YY" = "ММ / ГГ";
+"Country" = "Страна";
 
-"MM/YY" = "ММ/ГГ";
+"Country or region" = "Страна или регион";
 
-"Postal Code" = "Почтовый индекс";
+"County" = "Графство";
 
-"Shipping Address" = "Адрес доставки";
+"Department" = "Департамент";
 
-"State / Province / Region" = "Штат / провинция / регион";
+"District" = "Район";
 
-"The BSB you entered is invalid." = "Введенный код BSB неверен.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Чтобы сканировать карту, войдите в \"Настройки\" и разрешите доступ к камере.";
+"Done" = "Готово";
 
-"Your ZIP is invalid." = "Введенный почтовый индекс неверен.";
+"Double tap to edit" = "Коснитесь дважды, чтобы отредактировать";
 
-"Your card number is incomplete." = "Номер карты введен не полностью.";
+"Edit" = "Редактировать";
 
-"Your card number is invalid." = "Номер карты недействителен.";
+"Eircode" = "Почтовый индекс (Eircode)";
 
-"Your card's expiration date is incomplete." = "Дата истечения срока действия карты введена не полностью.";
+"Email" = "Эл. почта";
 
-"Your card's expiration date is invalid." = "Дата истечения срока действия карты недействительна.";
+"Emirate" = "Эмират";
 
-"Your card's expiration month is invalid." = "Недопустимый месяц окончания действия карты.";
+"Error" = "Ошибка";
 
-"Your card's expiration year is invalid." = "Недопустимый год окончания действия карты.";
+"First" = "Имя";
 
-"Your card's security code is incomplete." = "Код CVV/CVC карты введен не полностью.";
+"Full name" = "Имя, фамилия";
 
-"Your card's security code is invalid." = "Код CVV/CVC карты недействителен.";
+"Incomplete phone number" = "Номер телефона введен не полностью";
 
-"Your postal code is invalid." = "Введенный почтовый индекс недействителен.";
+"Invalid UPI ID" = "Недействительный идентификатор UPI";
 
-"card number" = "номер карты";
+"Island" = "Остров";
 
-"example@example.com" = "example@example.com";
+"Last" = "Фамилия";
 
-"expiration date" = "срок окончания действия";
+"Name" = "Имя";
+
+"Name on account" = "Владелец счета";
+
+"OK" = "ОК";
+
+"Oblast" = "Область";
+
+"Other" = "другой";
+
+"Parish" = "Приход";
+
+"Phone" = "Телефон";
+
+"Postal code" = "Почтовый индекс";
+
+"Prefecture" = "Префектура";
+
+"Province" = "Провинция";
+
+"Remove" = "Удалить";
+
+"Remove bank account" = "Удалить банковский счет";
+
+"Remove bank account ending in %@" = "Удалить банковский счет, оканчивающийся на %@";
+
+"Search" = "Поиск";
+
+"State" = "Штат";
+
+"Suburb" = "Пригород";
+
+"Suburb or city" = "Населенный пункт";
+
+"The BSB you entered is incomplete." = "Введенный код BSB неполон.";
+
+"The ID number you entered is incomplete." = "Номер документа, удостоверяющего личность, введен не полностью.";
+
+"The account number you entered is incomplete." = "Номер счета введен не полностью.";
+
+"Town or city" = "Город";
+
+"UPI ID" = "Идентификатор UPI";
+
+"Unable to parse phone number" = "Не удается разобрать номер телефона";
+
+"Use rotor to access links" = "Используйте ротор для доступа к ссылкам";
+
+"Your ZIP is incomplete." = "Почтовый индекс введен не полностью.";
+
+"Your email is invalid." = "Недействительный адрес эл. почты.";
+
+"Your postal code is incomplete." = "Введенный почтовый индекс неполон.";
+
+"ZIP" = "Почтовый индекс";

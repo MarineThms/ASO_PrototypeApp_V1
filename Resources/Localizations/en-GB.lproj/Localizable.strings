@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ account ending in %2$@";
+"%@ (optional)" = "%@ (optional)";
 
-"%1$@ ending in %2$@" = "%1$@ ending in %2$@";
+"Account number" = "Account number";
 
-"Address line 2 (optional)" = "Address line 2 (optional)";
+"Address" = "Address";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Address line 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Address line 2";
 
-"Bank Account" = "Bank Account";
+"Area" = "Area";
 
-"Billing Address" = "Billing Address";
+"BSB number" = "BSB number";
 
-"Billing address" = "Billing address";
+"Billing address is same as shipping" = "Billing address is same as shipping";
 
-"CVC" = "CVC";
+"Cancel" = "Cancel";
 
-"CVV" = "CVV";
+"City" = "City";
 
-"Card information" = "Card information";
+"Code field" = "Code field";
 
-"Card number" = "Card number";
+"Company" = "Company";
 
-"Invalid data." = "Invalid data.";
+"Continue" = "Continue";
 
-"MM / YY" = "MM / YY";
+"Country" = "Country";
 
-"MM/YY" = "MM/YY";
+"Country or region" = "Country or region";
 
-"Postal Code" = "Postcode";
+"County" = "County";
 
-"Shipping Address" = "Shipping Address";
+"Department" = "Department";
 
-"State / Province / Region" = "County / Region";
+"District" = "District";
 
-"The BSB you entered is invalid." = "The BSB you entered is invalid.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "To scan your card, allow camera access in Settings.";
+"Done" = "Done";
 
-"Your ZIP is invalid." = "Your ZIP is invalid.";
+"Double tap to edit" = "Double tap to edit";
 
-"Your card number is incomplete." = "Your card number is incomplete.";
+"Edit" = "Edit";
 
-"Your card number is invalid." = "Your card number is invalid.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Your card's expiration date is incomplete.";
+"Email" = "Email";
 
-"Your card's expiration date is invalid." = "Your card's expiration date is invalid.";
+"Emirate" = "Emirate";
 
-"Your card's expiration month is invalid." = "Your card expiry month is invalid.";
+"Error" = "Error";
 
-"Your card's expiration year is invalid." = "Your card's expiry year is invalid.";
+"First" = "First";
 
-"Your card's security code is incomplete." = "Your card's security code is incomplete.";
+"Full name" = "Full name";
 
-"Your card's security code is invalid." = "Your card's security code is invalid.";
+"Incomplete phone number" = "Incomplete phone number";
 
-"Your postal code is invalid." = "Your postcode is invalid.";
+"Invalid UPI ID" = "Invalid UPI ID";
 
-"card number" = "card number";
+"Island" = "Island";
 
-"example@example.com" = "example@example.com";
+"Last" = "Last";
 
-"expiration date" = "expiry date";
+"Name" = "Name";
+
+"Name on account" = "Name on account";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Other";
+
+"Parish" = "Parish";
+
+"Phone" = "Phone";
+
+"Postal code" = "Postcode";
+
+"Prefecture" = "Prefecture";
+
+"Province" = "Province";
+
+"Remove" = "Remove";
+
+"Remove bank account" = "Remove bank account";
+
+"Remove bank account ending in %@" = "Remove bank account ending in %@";
+
+"Search" = "Search";
+
+"State" = "State";
+
+"Suburb" = "Suburb";
+
+"Suburb or city" = "Suburb or city";
+
+"The BSB you entered is incomplete." = "The BSB you entered is incomplete.";
+
+"The ID number you entered is incomplete." = "The ID number you entered is incomplete.";
+
+"The account number you entered is incomplete." = "The account number you entered is incomplete.";
+
+"Town or city" = "Town or city";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Unable to parse phone number";
+
+"Use rotor to access links" = "Use rotor to access links";
+
+"Your ZIP is incomplete." = "Your ZIP is incomplete.";
+
+"Your email is invalid." = "Your email is invalid.";
+
+"Your postal code is incomplete." = "Your postcode is incomplete.";
+
+"ZIP" = "ZIP";

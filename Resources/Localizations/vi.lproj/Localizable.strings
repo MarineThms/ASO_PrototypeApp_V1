@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ tài khoản kết thúc bằng %2$@";
+"%@ (optional)" = "%@ (tùy chọn)";
 
-"%1$@ ending in %2$@" = "%1$@ kết thúc bằng %2$@";
+"Account number" = "Số tài khoản";
 
-"Address line 2 (optional)" = "Dòng địa chỉ 2 (tùy chọn)";
+"Address" = "Địa chỉ";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Dòng địa chỉ 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Dòng địa chỉ 2";
 
-"Bank Account" = "Tài khoản ngân hàng";
+"Area" = "Khu vực";
 
-"Billing Address" = "Địa chỉ thanh toán";
+"BSB number" = "Số BSB";
 
-"Billing address" = "Địa chỉ thanh toán";
+"Billing address is same as shipping" = "Địa chỉ xuất hóa đơn giống địa chỉ chuyển hàng";
 
-"CVC" = "CVC";
+"Cancel" = "Hủy";
 
-"CVV" = "CVV";
+"City" = "Thành phố";
 
-"Card information" = "Thông tin thẻ";
+"Code field" = "Trường mã";
 
-"Card number" = "Số thẻ";
+"Company" = "Công ty";
 
-"Invalid data." = "Dữ liệu không hợp lệ.";
+"Continue" = "Tiếp tục";
 
-"MM / YY" = "Tháng /Năm";
+"Country" = "Quốc gia";
 
-"MM/YY" = "Tháng/Năm";
+"Country or region" = "Quốc gia hoặc khu vực";
 
-"Postal Code" = "Mã bưu điện";
+"County" = "Quận";
 
-"Shipping Address" = "Địa chỉ vận chuyển";
+"Department" = "Sở ngành";
 
-"State / Province / Region" = "Tiểu bang/Tỉnh/Khu vực";
+"District" = "Quận/Huyện";
 
-"The BSB you entered is invalid." = "BSB mà bạn nhập không hợp lệ.";
+"Do Si" = "Tỉnh/Thành phố";
 
-"To scan your card, allow camera access in Settings." = "Để quét thẻ của bạn, hãy cho phép truy cập camera trong mục Cài đặt.";
+"Done" = "Xong";
 
-"Your ZIP is invalid." = "Mã ZIP không hợp lệ";
+"Double tap to edit" = "Nhấp chạm đúp để hiệu đính";
 
-"Your card number is incomplete." = "Số thẻ chưa đầy đủ.";
+"Edit" = "Sửa";
 
-"Your card number is invalid." = "Số thẻ không hợp lệ.";
+"Eircode" = "Mã Eircode";
 
-"Your card's expiration date is incomplete." = "Ngày hết hạn trên thẻ không hợp lệ.";
+"Email" = "Email";
 
-"Your card's expiration date is invalid." = "Ngày hết hạn trên thẻ không hợp lệ.";
+"Emirate" = "Tiểu vương quốc";
 
-"Your card's expiration month is invalid." = "Tháng hết hạn trên thẻ của bạn không hợp lệ.";
+"Error" = "Lỗi";
 
-"Your card's expiration year is invalid." = "Năm hết hạn trên thẻ của bạn không hợp lệ.";
+"First" = "Tên";
 
-"Your card's security code is incomplete." = "Mã bảo mật trên thẻ chưa đầy đủ.";
+"Full name" = "Họ tên";
 
-"Your card's security code is invalid." = "Mã bảo mật trên thẻ không hợp lệ.";
+"Incomplete phone number" = "Số điện thoại chưa đầy đủ";
 
-"Your postal code is invalid." = "Mã bưu điện không hợp lệ.";
+"Invalid UPI ID" = "Số ID UPI không hợp lệ";
 
-"card number" = "số thẻ";
+"Island" = "Đảo";
 
-"example@example.com" = "example@example.com";
+"Last" = "Họ";
 
-"expiration date" = "Ngày hết hạn";
+"Name" = "Tên";
+
+"Name on account" = "Tên trên tài khoản";
+
+"OK" = "OK";
+
+"Oblast" = "Vùng";
+
+"Other" = "Khác";
+
+"Parish" = "Giáo xứ";
+
+"Phone" = "Điện thoại";
+
+"Postal code" = "Mã bưu điện";
+
+"Prefecture" = "Tỉnh";
+
+"Province" = "Tỉnh";
+
+"Remove" = "Xóa";
+
+"Remove bank account" = "Bỏ tài khoản ngân hàng";
+
+"Remove bank account ending in %@" = "Bỏ tài khoản ngân hàng có các số cuối là %@";
+
+"Search" = "Tìm kiếm";
+
+"State" = "Tiểu bang";
+
+"Suburb" = "Ngoại ô";
+
+"Suburb or city" = "Ngoại ô hoặc thành phố";
+
+"The BSB you entered is incomplete." = "BSB mà bạn nhập chưa đầy đủ.";
+
+"The ID number you entered is incomplete." = "Số ID bạn đã nhập chưa đầy đủ.";
+
+"The account number you entered is incomplete." = "Số tài khoản quý vị đã nhập không đầy đủ.";
+
+"Town or city" = "Thị trấn hoặc thành phố";
+
+"UPI ID" = "Số ID UPI";
+
+"Unable to parse phone number" = "Không thể phân tích cú pháp số điện thoại";
+
+"Use rotor to access links" = "Sử dụng rô-to để truy cập liên kết";
+
+"Your ZIP is incomplete." = "Mã ZIP chưa đầy đủ.";
+
+"Your email is invalid." = "Email của quý vị không hợp lệ.";
+
+"Your postal code is incomplete." = "Mã bưu điện chưa đầy đủ.";
+
+"ZIP" = "ZIP";

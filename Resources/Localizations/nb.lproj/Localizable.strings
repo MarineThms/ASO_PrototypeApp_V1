@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@-konto som slutter på %2$@";
+"%@ (optional)" = "%@ (valgfritt)";
 
-"%1$@ ending in %2$@" = "%1$@ som slutter på %2$@";
+"Account number" = "Kontonummer";
 
-"Address line 2 (optional)" = "Adresselinje 2 (valgfritt)";
+"Address" = "Adresse";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Adresselinje 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Adresselinje 2";
 
-"Bank Account" = "Bankkonto";
+"Area" = "Område";
 
-"Billing Address" = "Fakturaadresse";
+"BSB number" = "BSB-nummer";
 
-"Billing address" = "Fakturaadresse";
+"Billing address is same as shipping" = "Fakturaaddresse er samme som levering";
 
-"CVC" = "CVC";
+"Cancel" = "Avbryt";
 
-"CVV" = "CVV";
+"City" = "By";
 
-"Card information" = "Kortinformasjon";
+"Code field" = "Kodefelt";
 
-"Card number" = "Kortnummer";
+"Company" = "Selskap";
 
-"Invalid data." = "Ugyldige data.";
+"Continue" = "Fortsett";
 
-"MM / YY" = "MM / ÅÅ";
+"Country" = "Land";
 
-"MM/YY" = "MM/ÅÅ";
+"Country or region" = "Land eller region";
 
-"Postal Code" = "Postnummer";
+"County" = "Fylke";
 
-"Shipping Address" = "Forsendelsesadresse";
+"Department" = "Avdeling";
 
-"State / Province / Region" = "Stat / Provins / Region";
+"District" = "Distrikt";
 
-"The BSB you entered is invalid." = "Du skrev inn ugyldig BSB.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Gi tilgang til kamera i Innstillinger for å skanne kortet.";
+"Done" = "Ferdig";
 
-"Your ZIP is invalid." = "ZIP er ugyldig.";
+"Double tap to edit" = "Dobbelttrykk for å redigere";
 
-"Your card number is incomplete." = "Kortnummeret er ufullstendig.";
+"Edit" = "Rediger";
 
-"Your card number is invalid." = "Kortnummeret er ugyldig.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Kortets utløpsdato er ufullstendig.";
+"Email" = "E-post";
 
-"Your card's expiration date is invalid." = "Kortets utløpsdato er ugyldig.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "Kortets utløpsmåned er ugyldig.";
+"Error" = "Feil";
 
-"Your card's expiration year is invalid." = "Kortets utløpsår er ugyldig.";
+"First" = "Fornavn";
 
-"Your card's security code is incomplete." = "Kortets sikkerhetskode er ufullstendig.";
+"Full name" = "Fullt navn";
 
-"Your card's security code is invalid." = "Kortets sikkerhetskode er ugyldig.";
+"Incomplete phone number" = "Ufullstendig telefonnummer";
 
-"Your postal code is invalid." = "Postnummeret er ugyldig.";
+"Invalid UPI ID" = "Ugyldig UPI-ID";
 
-"card number" = "kortnummer";
+"Island" = "Øy";
 
-"example@example.com" = "eksempel@example.com";
+"Last" = "Etternavn";
 
-"expiration date" = "utløpsdato";
+"Name" = "Navn";
+
+"Name on account" = "Navn på kontoen";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Andre";
+
+"Parish" = "Sogn";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Postnummer";
+
+"Prefecture" = "Prefektur";
+
+"Province" = "Provins";
+
+"Remove" = "Fjern";
+
+"Remove bank account" = "Fjern bankkonto";
+
+"Remove bank account ending in %@" = "Fjern bankkontoen som slutter på %@";
+
+"Search" = "Søk";
+
+"State" = "Stat";
+
+"Suburb" = "Forstad";
+
+"Suburb or city" = "Forstad eller by";
+
+"The BSB you entered is incomplete." = "Du skrev inn ufullstendig BSB.";
+
+"The ID number you entered is incomplete." = "ID-nummeret du la inn, er ufullstendig.";
+
+"The account number you entered is incomplete." = "Kontonummeret du la inn, er ufullstendig.";
+
+"Town or city" = "Stad eller by";
+
+"UPI ID" = "UPI-ID";
+
+"Unable to parse phone number" = "Kan ikke analyse mobilnummeret";
+
+"Use rotor to access links" = "Bruk rotor for tilgang til lenker";
+
+"Your ZIP is incomplete." = "ZIP er ufullstendig.";
+
+"Your email is invalid." = "E-posten din er ugyldig.";
+
+"Your postal code is incomplete." = "Postnummeret er ufullstendig.";
+
+"ZIP" = "ZIP";

@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "Conta %1$@ de final %2$@";
+"%@ (optional)" = "%@ (opcional)";
 
-"%1$@ ending in %2$@" = "%1$@ com final %2$@";
+"Account number" = "Número da conta";
 
-"Address line 2 (optional)" = "Endereço – Linha 2 (opcional)";
+"Address" = "Endereço";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Endereço – Linha 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Endereço – Linha 2";
 
-"Bank Account" = "Conta bancária";
+"Area" = "Área";
 
-"Billing Address" = "Endereço de cobrança";
+"BSB number" = "Número BSB";
 
-"Billing address" = "Endereço de cobrança";
+"Billing address is same as shipping" = "O endereço de faturamento é igual ao de envio";
 
-"CVC" = "CVC";
+"Cancel" = "Cancelar";
 
-"CVV" = "CVV";
+"City" = "Cidade";
 
-"Card information" = "Dados do cartão";
+"Code field" = "Campo do código";
 
-"Card number" = "Número do cartão";
+"Company" = "Empresa";
 
-"Invalid data." = "Dados inválidos.";
+"Continue" = "Continuar";
 
-"MM / YY" = "MM / AA";
+"Country" = "País";
 
-"MM/YY" = "MM/AA";
+"Country or region" = "País ou região";
 
-"Postal Code" = "Código postal";
+"County" = "Condado";
 
-"Shipping Address" = "Endereço de envio";
+"Department" = "Departamento";
 
-"State / Province / Region" = "Estado/Província/Região";
+"District" = "Distrito";
 
-"The BSB you entered is invalid." = "O BSB inserido é inválido.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Para escanear seu cartão, autorize o acesso à câmera nos Ajustes.";
+"Done" = "Concluído";
 
-"Your ZIP is invalid." = "Código postal inválido.";
+"Double tap to edit" = "Toque duas vezes para editar";
 
-"Your card number is incomplete." = "Número do cartão incompleto.";
+"Edit" = "Editar";
 
-"Your card number is invalid." = "Número do cartão inválido.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Data de validade incompleta.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "Data de validade inválida.";
+"Emirate" = "Emirado";
 
-"Your card's expiration month is invalid." = "O mês de validade do cartão é inválido.";
+"Error" = "Erro";
 
-"Your card's expiration year is invalid." = "Ano de validade inválido.";
+"First" = "Nome";
 
-"Your card's security code is incomplete." = "Código de segurança incompleto.";
+"Full name" = "Nome completo";
 
-"Your card's security code is invalid." = "Código de segurança inválido.";
+"Incomplete phone number" = "Número de telefone incompleto";
 
-"Your postal code is invalid." = "Código postal inválido.";
+"Invalid UPI ID" = "ID UPI inválido";
 
-"card number" = "número do cartão";
+"Island" = "Ilha";
 
-"example@example.com" = "exemplo@exemplo.com";
+"Last" = "Sobrenome";
 
-"expiration date" = "data de expiração";
+"Name" = "Nome";
+
+"Name on account" = "Nome na conta";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Outro";
+
+"Parish" = "Paróquia";
+
+"Phone" = "Telefone";
+
+"Postal code" = "Código postal";
+
+"Prefecture" = "Prefeitura";
+
+"Province" = "Província";
+
+"Remove" = "Remover";
+
+"Remove bank account" = "Remover conta bancária";
+
+"Remove bank account ending in %@" = "Remover conta bancária com final %@";
+
+"Search" = "Pesquisar";
+
+"State" = "Estado";
+
+"Suburb" = "Subúrbio";
+
+"Suburb or city" = "Subúrbio ou cidade";
+
+"The BSB you entered is incomplete." = "O BSB inserido está incompleto.";
+
+"The ID number you entered is incomplete." = "O número da identificação inserido está incompleto.";
+
+"The account number you entered is incomplete." = "O número de conta inserido está incompleto.";
+
+"Town or city" = "Cidade ou município";
+
+"UPI ID" = "ID UPI";
+
+"Unable to parse phone number" = "Não foi possível analisar o número de telefone";
+
+"Use rotor to access links" = "Use o rotor para acessar os links";
+
+"Your ZIP is incomplete." = "Código postal incompleto.";
+
+"Your email is invalid." = "Seu e-mail é inválido.";
+
+"Your postal code is incomplete." = "Código postal incompleto.";
+
+"ZIP" = "CEP";

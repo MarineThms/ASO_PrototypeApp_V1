@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "Cuenta de %1$@ terminada en %2$@";
+"%@ (optional)" = "%@ (opcional)";
 
-"%1$@ ending in %2$@" = "%1$@ terminada en %2$@";
+"Account number" = "Número de cuenta";
 
-"Address line 2 (optional)" = "Segunda línea de la dirección (opcional)";
+"Address" = "Dirección";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Primera línea de la dirección";
 
-"BSB" = "BSB";
+"Address line 2" = "Segunda línea de la dirección";
 
-"Bank Account" = "Cuenta bancaria";
+"Area" = "Área";
 
-"Billing Address" = "Dirección de facturación";
+"BSB number" = "Número de BSB";
 
-"Billing address" = "Dirección de facturación";
+"Billing address is same as shipping" = "La dirección de facturación es la misma que la de envío.";
 
-"CVC" = "CVC";
+"Cancel" = "Cancelar";
 
-"CVV" = "CVV";
+"City" = "Ciudad";
 
-"Card information" = "Información de la tarjeta";
+"Code field" = "Campo del código";
 
-"Card number" = "Número de tarjeta";
+"Company" = "Empresa";
 
-"Invalid data." = "Datos no válidos.";
+"Continue" = "Continuar";
 
-"MM / YY" = "MM/AA";
+"Country" = "País";
 
-"MM/YY" = "MM/AA";
+"Country or region" = "País o región";
 
-"Postal Code" = "Código postal";
+"County" = "Condado";
 
-"Shipping Address" = "Dirección de envío";
+"Department" = "Departamento";
 
-"State / Province / Region" = "Estado/Provincia/Región";
+"District" = "Distrito";
 
-"The BSB you entered is invalid." = "El BSB que ingresaste no es válido.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Para escanear la tarjeta, permite el acceso a la cámara en Configuración.";
+"Done" = "¡Listo!";
 
-"Your ZIP is invalid." = "El código postal no es válido.";
+"Double tap to edit" = "Pulsa dos veces para editar";
 
-"Your card number is incomplete." = "El número de tarjeta está incompleto.";
+"Edit" = "Editar";
 
-"Your card number is invalid." = "El número de tarjeta no es válido.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "La fecha de vencimiento de la tarjeta está incompleta.";
+"Email" = "Correo electrónico";
 
-"Your card's expiration date is invalid." = "La fecha de vencimiento de la tarjeta no es válida.";
+"Emirate" = "Emirato";
 
-"Your card's expiration month is invalid." = "El mes de vencimiento de la tarjeta no es válido.";
+"Error" = "Error";
 
-"Your card's expiration year is invalid." = "El año de vencimiento de la tarjeta no es válido.";
+"First" = "Nombre";
 
-"Your card's security code is incomplete." = "El código de seguridad de la tarjeta está incompleto.";
+"Full name" = "Nombre completo";
 
-"Your card's security code is invalid." = "El código de seguridad de la tarjeta no es válido.";
+"Incomplete phone number" = "Número de teléfono incompleto";
 
-"Your postal code is invalid." = "El código postal no es válido.";
+"Invalid UPI ID" = "ID de UPI no válida";
 
-"card number" = "número de tarjeta";
+"Island" = "Isla";
 
-"example@example.com" = "ejemplo@ejemplo.com";
+"Last" = "Apellido";
 
-"expiration date" = "fecha de vencimiento";
+"Name" = "Nombre";
+
+"Name on account" = "Nombre en la cuenta";
+
+"OK" = "Aceptar";
+
+"Oblast" = "Óblast";
+
+"Other" = "Otro";
+
+"Parish" = "Municipio";
+
+"Phone" = "Teléfono";
+
+"Postal code" = "Código postal";
+
+"Prefecture" = "Prefectura";
+
+"Province" = "Provincia";
+
+"Remove" = "Eliminar";
+
+"Remove bank account" = "Eliminar cuenta bancaria";
+
+"Remove bank account ending in %@" = "Eliminar la cuenta bancaria que termina en %@";
+
+"Search" = "Buscar";
+
+"State" = "Estado";
+
+"Suburb" = "Suburbio";
+
+"Suburb or city" = "Suburbio o ciudad";
+
+"The BSB you entered is incomplete." = "El BSB que ingresaste está incompleto.";
+
+"The ID number you entered is incomplete." = "El número de documento que ingresaste está incompleto.";
+
+"The account number you entered is incomplete." = "El número de cuenta que ingresaste está incompleto.";
+
+"Town or city" = "Pueblo o ciudad";
+
+"UPI ID" = "ID de UPI";
+
+"Unable to parse phone number" = "No se pudo analizar el número de teléfono.";
+
+"Use rotor to access links" = "Usa el rotor para acceder a los enlaces";
+
+"Your ZIP is incomplete." = "El código postal está incompleto.";
+
+"Your email is invalid." = "El correo electrónico no es válido.";
+
+"Your postal code is incomplete." = "El código postal está incompleto.";
+
+"ZIP" = "ZIP";

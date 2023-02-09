@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "尾号为 %2$@ 的 %1$@ 账户";
+"%@ (optional)" = "%@（可选）";
 
-"%1$@ ending in %2$@" = "%1$@ - 尾号：%2$@";
+"Account number" = "账号";
 
-"Address line 2 (optional)" = "地址第 2 行（可选）";
+"Address" = "地址";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "地址第 1 行";
 
-"BSB" = "BSB";
+"Address line 2" = "地址第 2 行";
 
-"Bank Account" = "银行账户";
+"Area" = "地区";
 
-"Billing Address" = "账单地址";
+"BSB number" = "BSB 号码";
 
-"Billing address" = "账单地址";
+"Billing address is same as shipping" = "账单地址与配送地址相同";
 
-"CVC" = "CVC";
+"Cancel" = "取消";
 
-"CVV" = "CVV";
+"City" = "城市";
 
-"Card information" = "银行卡信息";
+"Code field" = "代码字段";
 
-"Card number" = "卡号";
+"Company" = "公司";
 
-"Invalid data." = "数据无效。";
+"Continue" = "继续";
 
-"MM / YY" = "月份/年份";
+"Country" = "国家";
 
-"MM/YY" = "月份/年份";
+"Country or region" = "国家或地区";
 
-"Postal Code" = "邮编";
+"County" = "县";
 
-"Shipping Address" = "送货地址";
+"Department" = "部门";
 
-"State / Province / Region" = "州/省/地区";
+"District" = "区";
 
-"The BSB you entered is invalid." = "您输入的 BSB 无效。";
+"Do Si" = "道/县";
 
-"To scan your card, allow camera access in Settings." = "要扫描您的银行卡，在“设置”中启用照相机。";
+"Done" = "完成";
 
-"Your ZIP is invalid." = "您的邮编无效。";
+"Double tap to edit" = "双击可编辑";
 
-"Your card number is incomplete." = "您的银行卡号不完整。";
+"Edit" = "编辑";
 
-"Your card number is invalid." = "您的卡号无效。";
+"Eircode" = "爱尔兰邮编";
 
-"Your card's expiration date is incomplete." = "您的银行卡的不完整。";
+"Email" = "电子邮件";
 
-"Your card's expiration date is invalid." = "您银行卡的有效期无效。";
+"Emirate" = "酋长国";
 
-"Your card's expiration month is invalid." = "您的银行卡的到期月份无效。";
+"Error" = "错误";
 
-"Your card's expiration year is invalid." = "您的银行卡的到期年份无效。";
+"First" = "名字";
 
-"Your card's security code is incomplete." = "您的银行卡的安全码不完整。";
+"Full name" = "全名";
 
-"Your card's security code is invalid." = "您的银行卡安全码无效。";
+"Incomplete phone number" = "电话号码不完整";
 
-"Your postal code is invalid." = "您的邮编无效。";
+"Invalid UPI ID" = "UPI ID 无效";
 
-"card number" = "卡号";
+"Island" = "岛";
 
-"example@example.com" = "example@example.com";
+"Last" = "姓氏";
 
-"expiration date" = "有效期";
+"Name" = "姓名";
+
+"Name on account" = "账户名";
+
+"OK" = "确定";
+
+"Oblast" = "州";
+
+"Other" = "其他";
+
+"Parish" = "堂区";
+
+"Phone" = "电话";
+
+"Postal code" = "邮政编码";
+
+"Prefecture" = "辖区";
+
+"Province" = "省";
+
+"Remove" = "移除";
+
+"Remove bank account" = "移除银行账户";
+
+"Remove bank account ending in %@" = "移除尾号为 %@ 的银行账户";
+
+"Search" = "搜索";
+
+"State" = "州";
+
+"Suburb" = "市郊";
+
+"Suburb or city" = "市郊或城市";
+
+"The BSB you entered is incomplete." = "您输入的 BSB 不完整。";
+
+"The ID number you entered is incomplete." = "您输入的证件号码不完整。";
+
+"The account number you entered is incomplete." = "您输入的账号不完整。";
+
+"Town or city" = "城镇或城市";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "无法粘贴手机号码";
+
+"Use rotor to access links" = "用转子访问链接";
+
+"Your ZIP is incomplete." = "您的邮编不完整。";
+
+"Your email is invalid." = "您的邮件地址无效。";
+
+"Your postal code is incomplete." = "您的邮编不完整。";
+
+"ZIP" = "邮编";

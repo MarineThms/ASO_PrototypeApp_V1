@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "Účet %1$@ končící na %2$@";
+"%@ (optional)" = "%@ (volitelné)";
 
-"%1$@ ending in %2$@" = "%1$@ končící za %2$@";
+"Account number" = "Číslo účtu";
 
-"Address line 2 (optional)" = "2. řádek adresy (volitelně)";
+"Address" = "Adresa";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "1. řádek adresy";
 
-"BSB" = "BSB";
+"Address line 2" = "2. řádek adresy";
 
-"Bank Account" = "Bankovní účet";
+"Area" = "Oblast";
 
-"Billing Address" = "Fakturační adresa";
+"BSB number" = "Číslo BSB";
 
-"Billing address" = "Fakturační adresa";
+"Billing address is same as shipping" = "Fakturační adresa je stejná jako dodací";
 
-"CVC" = "CVC";
+"Cancel" = "Zrušit";
 
-"CVV" = "CVV";
+"City" = "Město";
 
-"Card information" = "Informace o kartě";
+"Code field" = "Pole pro kód";
 
-"Card number" = "Číslo karty";
+"Company" = "Společnost";
 
-"Invalid data." = "Neplatná data.";
+"Continue" = "Pokračovat";
 
-"MM / YY" = "MM / RR";
+"Country" = "Země";
 
-"MM/YY" = "MM/RR";
+"Country or region" = "Země nebo region";
 
-"Postal Code" = "Poštovní směrovací číslo";
+"County" = "Okres";
 
-"Shipping Address" = "Dodací adresa";
+"Department" = "Oddělení";
 
-"State / Province / Region" = "Stát / provincie / region";
+"District" = "Okrsek";
 
-"The BSB you entered is invalid." = "Zadaný BSB je neplatný.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Chcete-li kartu naskenovat, povolte v Nastavení přístup k fotoaparátu.";
+"Done" = "Hotovo";
 
-"Your ZIP is invalid." = "PSČ je neplatné.";
+"Double tap to edit" = "Dvakrát klepněte pro úpravu";
 
-"Your card number is incomplete." = "Číslo karty je neúplné.";
+"Edit" = "Upravit";
 
-"Your card number is invalid." = "Číslo karty je neplatné.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Datum konce platnosti vaší karty je neúplné.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "Datum konce platnosti karty je neplatné.";
+"Emirate" = "Emirát";
 
-"Your card's expiration month is invalid." = "Rok konce platnosti vaší karty je neplatný.";
+"Error" = "Chyba";
 
-"Your card's expiration year is invalid." = "Rok konce platnosti vaší karty je neplatný.";
+"First" = "Jméno";
 
-"Your card's security code is incomplete." = "Bezpečnostní kód karty je neúplný.";
+"Full name" = "Celé jméno";
 
-"Your card's security code is invalid." = "Bezpečnostní kód vaší karty je neplatný.";
+"Incomplete phone number" = "Neúplné telefonní číslo";
 
-"Your postal code is invalid." = "Poštovní směrovací číslo je neplatné";
+"Invalid UPI ID" = "Neplatné UPI ID";
 
-"card number" = "číslo karty";
+"Island" = "Ostrov";
 
-"example@example.com" = "příklad@příklad.com";
+"Last" = "Příjmení";
 
-"expiration date" = "datum konce platnosti";
+"Name" = "Jméno";
+
+"Name on account" = "Jméno na účtu";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Jiné";
+
+"Parish" = "Obec";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Poštovní směrovací číslo";
+
+"Prefecture" = "Prefektura";
+
+"Province" = "Provincie";
+
+"Remove" = "Odebrat";
+
+"Remove bank account" = "Odebrat bankovní účet";
+
+"Remove bank account ending in %@" = "Odebrat bankovní účet končící na %@";
+
+"Search" = "Hledat";
+
+"State" = "Stát";
+
+"Suburb" = "Předměstí";
+
+"Suburb or city" = "Předměstí nebo město";
+
+"The BSB you entered is incomplete." = "Zadaný BSB je neúplný.";
+
+"The ID number you entered is incomplete." = "Identifikační číslo, které jste zadali, je neúplné.";
+
+"The account number you entered is incomplete." = "Zadané číslo účtu je neúplné.";
+
+"Town or city" = "Město nebo velkoměsto";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Nelze analyzovat telefonní číslo";
+
+"Use rotor to access links" = "Přístup k odkazům pomocí rotoru";
+
+"Your ZIP is incomplete." = "PSČ je neúplné.";
+
+"Your email is invalid." = "Váš e-mail je neplatný.";
+
+"Your postal code is incomplete." = "Vaše poštovní směrovací číslo je neúplné.";
+
+"ZIP" = "PSČ";

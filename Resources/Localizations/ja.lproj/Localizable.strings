@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "末尾が %2$@ の %1$@ 口座";
+"%@ (optional)" = "%@ (オプション)";
 
-"%1$@ ending in %2$@" = "末尾が %2$@ の %1$@";
+"Account number" = "アカウント番号";
 
-"Address line 2 (optional)" = "住所 (2 行目、省略可)";
+"Address" = "住所";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "住所 (1 行目)";
 
-"BSB" = "BSB";
+"Address line 2" = "住所 (2 行目)";
 
-"Bank Account" = "銀行口座";
+"Area" = "地域";
 
-"Billing Address" = "請求先住所";
+"BSB number" = "BSB 番号";
 
-"Billing address" = "請求先住所";
+"Billing address is same as shipping" = "請求先住所は配送先住所と同じ";
 
-"CVC" = "セキュリティコード";
+"Cancel" = "キャンセル";
 
-"CVV" = "CVV";
+"City" = "市";
 
-"Card information" = "カード情報";
+"Code field" = "コードフィールド";
 
-"Card number" = "カード番号";
+"Company" = "会社";
 
-"Invalid data." = "データが無効です。";
+"Continue" = "続ける";
 
-"MM / YY" = "月 / 年";
+"Country" = "国";
 
-"MM/YY" = "MM/YY";
+"Country or region" = "国または地域";
 
-"Postal Code" = "郵便番号";
+"County" = "群";
 
-"Shipping Address" = "配送先住所";
+"Department" = "県";
 
-"State / Province / Region" = "都道府県";
+"District" = "地区";
 
-"The BSB you entered is invalid." = "入力した BSB コードが無効です。";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "カードをスキャンするには、設定でカメラへのアクセスを許可してください。";
+"Done" = "完了";
 
-"Your ZIP is invalid." = "郵便番号が無効です。";
+"Double tap to edit" = "ダブルタップして編集します";
 
-"Your card number is incomplete." = "カード番号に不備があります。";
+"Edit" = "編集";
 
-"Your card number is invalid." = "カード番号が無効です。";
+"Eircode" = "郵便番号 (アイルランド)";
 
-"Your card's expiration date is incomplete." = "カードの有効期限の日付に不備があります。";
+"Email" = "メールアドレス";
 
-"Your card's expiration date is invalid." = "カードの有効期限の日付が無効です。";
+"Emirate" = "首長国";
 
-"Your card's expiration month is invalid." = "カードの有効期限の月が無効です。";
+"Error" = "エラー";
 
-"Your card's expiration year is invalid." = "カードの有効期限の年が無効です。";
+"First" = "名";
 
-"Your card's security code is incomplete." = "カードのセキュリティコードに不備があります。";
+"Full name" = "名前";
 
-"Your card's security code is invalid." = "カードのセキュリティコードが無効です。";
+"Incomplete phone number" = "電話番号の不備";
 
-"Your postal code is invalid." = "郵便番号が無効です";
+"Invalid UPI ID" = "UPI ID が無効です";
 
-"card number" = "カード番号";
+"Island" = "島しょ";
 
-"example@example.com" = "example@example.com";
+"Last" = "姓";
 
-"expiration date" = "有効期限";
+"Name" = "名前";
+
+"Name on account" = "口座名義人";
+
+"OK" = "OK";
+
+"Oblast" = "州 (ロシア)";
+
+"Other" = "その他";
+
+"Parish" = "郡";
+
+"Phone" = "電話番号";
+
+"Postal code" = "郵便番号";
+
+"Prefecture" = "都道府県";
+
+"Province" = "都道府県";
+
+"Remove" = "削除";
+
+"Remove bank account" = "銀行口座を削除";
+
+"Remove bank account ending in %@" = "末尾が %@ の銀行口座を削除する";
+
+"Search" = "検索";
+
+"State" = "都道府県";
+
+"Suburb" = "近郊";
+
+"Suburb or city" = "市外または市内";
+
+"The BSB you entered is incomplete." = "入力した BSB コードに不備があります。";
+
+"The ID number you entered is incomplete." = "入力した ID 番号に不備があります。";
+
+"The account number you entered is incomplete." = "入力した口座番号に不備があります。";
+
+"Town or city" = "市区町村";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "電話番号を解析できません";
+
+"Use rotor to access links" = "ローターを使用してリンクにアクセスします";
+
+"Your ZIP is incomplete." = "郵便番号の入力に不備があります。";
+
+"Your email is invalid." = "メールアドレスが無効です。";
+
+"Your postal code is incomplete." = "郵便番号の入力に不備があります。";
+
+"ZIP" = "郵便番号";

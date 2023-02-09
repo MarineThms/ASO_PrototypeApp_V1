@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ konto kończące się %2$@";
+"%@ (optional)" = "%@ (opcjonalnie)";
 
-"%1$@ ending in %2$@" = "%1$@ kończy się %2$@";
+"Account number" = "Numer konta";
 
-"Address line 2 (optional)" = "Linia adresu 2 (opcja)";
+"Address" = "Adres";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Linia adresu 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Linia adresu 2";
 
-"Bank Account" = "Konto bankowe";
+"Area" = "Obszar";
 
-"Billing Address" = "Adres płatności";
+"BSB number" = "Numer BSB";
 
-"Billing address" = "Adres rozliczeniowy";
+"Billing address is same as shipping" = "Adres rozliczenia ten sam, co adres wysyłki";
 
-"CVC" = "CVC";
+"Cancel" = "Anuluj";
 
-"CVV" = "CVV";
+"City" = "Miejscowość";
 
-"Card information" = "Dane karty";
+"Code field" = "Pole kodu";
 
-"Card number" = "Nr karty";
+"Company" = "Firma";
 
-"Invalid data." = "Nieprawidłowe dane.";
+"Continue" = "Kontynuuj";
 
-"MM / YY" = "MM / RR";
+"Country" = "Kraj";
 
-"MM/YY" = "MM/RR";
+"Country or region" = "Kraj lub region";
 
-"Postal Code" = "Kod pocztowy";
+"County" = "Hrabstwo";
 
-"Shipping Address" = "Adres dostawy";
+"Department" = "Departament";
 
-"State / Province / Region" = "Województwo/prowincja/region";
+"District" = "Dystrykt";
 
-"The BSB you entered is invalid." = "Wprowadzony numer BSB jest nieprawidłowy.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Aby zeskanować kartę, zezwól na dostęp do aparatu w Ustawieniach.";
+"Done" = "Gotowe";
 
-"Your ZIP is invalid." = "Nieprawidłowy kod pocztowy (ZIP).";
+"Double tap to edit" = "Dotknij dwa razy, aby edytować";
 
-"Your card number is incomplete." = "Numer karty jest niekompletny.";
+"Edit" = "Edytuj";
 
-"Your card number is invalid." = "Numer karty jest nieprawidłowy.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Data ważności karty jest niepełna.";
+"Email" = "Adres e-mail";
 
-"Your card's expiration date is invalid." = "Data ważności karty jest nieprawidłowa.";
+"Emirate" = "Emiraty";
 
-"Your card's expiration month is invalid." = "Miesiąc daty ważności karty jest nieprawidłowy.";
+"Error" = "Błąd";
 
-"Your card's expiration year is invalid." = "Rok daty ważności karty jest nieprawidłowy";
+"First" = "Imię";
 
-"Your card's security code is incomplete." = "Kod zabezpieczający karty jest niekompletny.";
+"Full name" = "Imię i nazwisko";
 
-"Your card's security code is invalid." = "Kod bezpieczeństwa karty jest nieprawidłowy.";
+"Incomplete phone number" = "Niekompletny numer telefonu";
 
-"Your postal code is invalid." = "Nieprawidłowy kod pocztowy.";
+"Invalid UPI ID" = "Nieprawidłowy UPI ID";
 
-"card number" = "nr karty";
+"Island" = "Wyspa";
 
-"example@example.com" = "example@example.com";
+"Last" = "Nazwisko";
 
-"expiration date" = "data ważności";
+"Name" = "Imię i nazwisko";
+
+"Name on account" = "Imię i nazwisko na rachunku";
+
+"OK" = "OK";
+
+"Oblast" = "Obwód";
+
+"Other" = "Inne";
+
+"Parish" = "Parafia";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Kod pocztowy";
+
+"Prefecture" = "Prefektura";
+
+"Province" = "Prowincja";
+
+"Remove" = "Usuń";
+
+"Remove bank account" = "Usuń konto bankowe";
+
+"Remove bank account ending in %@" = "Usuń konto bankowe kończące się na %@";
+
+"Search" = "Wyszukiwanie";
+
+"State" = "Stan";
+
+"Suburb" = "Przedmieścia";
+
+"Suburb or city" = "Przedmieścia lub miasto";
+
+"The BSB you entered is incomplete." = "Wprowadzony numer BSB jest niepełny.";
+
+"The ID number you entered is incomplete." = "Podany identyfikator jest niekompletny.";
+
+"The account number you entered is incomplete." = "Podany numer konta jest niekompletny.";
+
+"Town or city" = "Miejscowość";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Nie można dokonać parsowania numeru telefonu";
+
+"Use rotor to access links" = "Użyj pokrętła, aby uzyskać dostęp do łączy";
+
+"Your ZIP is incomplete." = "Kod pocztowy (ZIP) jest niekompletny.";
+
+"Your email is invalid." = "Adres e-mail jest nieprawidłowy.";
+
+"Your postal code is incomplete." = "Kod pocztowy jest niekompletny.";
+
+"ZIP" = "Kod p";

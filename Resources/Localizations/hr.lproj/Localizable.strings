@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ račun koji završava s %2$@";
+"%@ (optional)" = "%@ (neobavezno)";
 
-"%1$@ ending in %2$@" = "%1$@ završava na %2$@";
+"Account number" = "Broj računa";
 
-"Address line 2 (optional)" = "Ulica i kućni broj 2 (neobavezno)";
+"Address" = "Adresa";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Ulica i kućni broj 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Broj stana, kat ili poštanski pretinac";
 
-"Bank Account" = "Bankovni račun";
+"Area" = "Područje";
 
-"Billing Address" = "Adresa za naplatu";
+"BSB number" = "BSB broj";
 
-"Billing address" = "Adresa za naplatu";
+"Billing address is same as shipping" = "Adresa računa jednaka je adresi dostave";
 
-"CVC" = "CVC";
+"Cancel" = "Otkaži";
 
-"CVV" = "CVV";
+"City" = "Grad";
 
-"Card information" = "Informacije o kartici";
+"Code field" = "Polje za kod";
 
-"Card number" = "Broj kartice";
+"Company" = "Poduzeće";
 
-"Invalid data." = "Nevaljani podaci.";
+"Continue" = "Nastavi";
 
-"MM / YY" = "MM / GG";
+"Country" = "Zemlja";
 
-"MM/YY" = "MM/GG";
+"Country or region" = "Zemlja ili regija";
 
-"Postal Code" = "Poštanski broj";
+"County" = "Grofovija";
 
-"Shipping Address" = "Adresa za otpremu";
+"Department" = "Administrativna jedinica";
 
-"State / Province / Region" = "Država / pokrajina / regija";
+"District" = "Okrug";
 
-"The BSB you entered is invalid." = "Uneseni BSB nije valjan.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Da biste skenirali karticu, dopustite pristup kameri u Postavkama.";
+"Done" = "Gotovo";
 
-"Your ZIP is invalid." = "Vaš ZIP broj nije valjan.";
+"Double tap to edit" = "Dodirnite dva puta za uređivanje";
 
-"Your card number is incomplete." = "Broj vaše kartice nije kompletan.";
+"Edit" = "Uredi";
 
-"Your card number is invalid." = "Broj vaše kartice nije valjan.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Datum isteka vaše kartice nije kompletan.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "Datum isteka vaše kartice nije valjan.";
+"Emirate" = "Emirat";
 
-"Your card's expiration month is invalid." = "Mjesec isteka kartice nije valjan.";
+"Error" = "Greška";
 
-"Your card's expiration year is invalid." = "Godina isteka kartice nije valjana.";
+"First" = "Ime";
 
-"Your card's security code is incomplete." = "Sigurnosni kod vaše kartice nije kompletan.";
+"Full name" = "Puno ime";
 
-"Your card's security code is invalid." = "Sigurnosni kod vaše kartice nije valjan.";
+"Incomplete phone number" = "Nepotpuni telefonski broj";
 
-"Your postal code is invalid." = "Vaš poštanski broj nije valjan.";
+"Invalid UPI ID" = "Nevažeći UPI ID";
 
-"card number" = "broj kartice";
+"Island" = "Otok";
 
-"example@example.com" = "example@example.com";
+"Last" = "Prezime";
 
-"expiration date" = "Datum isteka";
+"Name" = "Ime";
+
+"Name on account" = "Ime na računu";
+
+"OK" = "U redu";
+
+"Oblast" = "Oblast";
+
+"Other" = "Ostalo";
+
+"Parish" = "Župa";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Poštanski broj";
+
+"Prefecture" = "Prefektura";
+
+"Province" = "Provincija";
+
+"Remove" = "Ukloni";
+
+"Remove bank account" = "Ukloni bankovni račun";
+
+"Remove bank account ending in %@" = "Ukloni bankovni račun koji završava na %@";
+
+"Search" = "Pretraži";
+
+"State" = "Država";
+
+"Suburb" = "Predgrađe";
+
+"Suburb or city" = "Predgrađe ili grad";
+
+"The BSB you entered is incomplete." = "Uneseni BSB nije kompletan.";
+
+"The ID number you entered is incomplete." = "Uneseni identifikacijski broj nije potpun.";
+
+"The account number you entered is incomplete." = "Uneseni broj računa je nepotpun.";
+
+"Town or city" = "Gradić ili grad";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Broj telefona nije moguće pročitati";
+
+"Use rotor to access links" = "Upotrijebite rotor za pristup poveznicama";
+
+"Your ZIP is incomplete." = "Vaš ZIP broj nije kompletan.";
+
+"Your email is invalid." = "Vaš e-mail je neispravan.";
+
+"Your postal code is incomplete." = "Vaš poštanski broj nije kompletan.";
+
+"ZIP" = "ZIP";

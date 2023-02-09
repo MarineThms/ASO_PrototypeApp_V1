@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ τραπεζικός λογαριασμός που λήγει σε %2$@";
+"%@ (optional)" = "%@ (προαιρετικό)";
 
-"%1$@ ending in %2$@" = "%1$@ λήγει σε %2$@";
+"Account number" = "Αριθμός λογαριασμού";
 
-"Address line 2 (optional)" = "Γραμμή διεύθυνσης 2 (προαιρετικό)";
+"Address" = "Διεύθυνση";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Γραμμή διεύθυνσης 1";
 
-"BSB" = "Κωδικός BSB";
+"Address line 2" = "Γραμμή διεύθυνσης 2";
 
-"Bank Account" = "Τραπεζικός λογαριασμός";
+"Area" = "Περιοχή";
 
-"Billing Address" = "Διεύθυνση χρέωσης";
+"BSB number" = "Αριθμός BSB";
 
-"Billing address" = "Διεύθυνση χρέωσης";
+"Billing address is same as shipping" = "Η διεύθυνση τιμολόγησης είναι ίδια με τη διεύθυνση αποστολής";
 
-"CVC" = "CVC";
+"Cancel" = "Ακύρωση";
 
-"CVV" = "CVV";
+"City" = "Πόλη";
 
-"Card information" = "Στοιχεία κάρτας";
+"Code field" = "Πεδίο κωδικού";
 
-"Card number" = "Αριθμός κάρτας";
+"Company" = "Εταιρεία";
 
-"Invalid data." = "Μη έγκυρα δεδομένα.";
+"Continue" = "Συνέχεια";
 
-"MM / YY" = "ΜΜ / ΕΕ";
+"Country" = "Χώρα";
 
-"MM/YY" = "ΜΜ/ΕΕ";
+"Country or region" = "Χώρα ή περιοχή";
 
-"Postal Code" = "Ταχυδρομικός κώδικας";
+"County" = "Κομητεία";
 
-"Shipping Address" = "Διεύθυνση αποστολής";
+"Department" = "Τμήμα";
 
-"State / Province / Region" = "Πολιτεία / Επαρχία / Περιοχή";
+"District" = "Περιφέρεια";
 
-"The BSB you entered is invalid." = "Ο κωδικός BSB που εισάγατε δεν είναι έγκυρος.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Για να σαρώσετε την κάρτα σας, επιτρέψτε την πρόσβαση της κάμερας από τις Ρυθμίσεις.";
+"Done" = "Τέλος";
 
-"Your ZIP is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
+"Double tap to edit" = "Πατήστε δύο φορές για επεξεργασία";
 
-"Your card number is incomplete." = "Ο αριθμός της κάρτας σας είναι ελλιπής.";
+"Edit" = "Επεξεργασία";
 
-"Your card number is invalid." = "Ο αριθμός της κάρτας σας δεν είναι έγκυρος.";
+"Eircode" = "Ταχυδρομικός κώδικας";
 
-"Your card's expiration date is incomplete." = "Η ημερομηνία λήξης της κάρτας σας είναι ελλιπής.";
+"Email" = "Διεύθυνση ηλεκτρονικού ταχυδρομείου";
 
-"Your card's expiration date is invalid." = "Η ημερομηνία λήξης της κάρτας σας δεν είναι έγκυρη.";
+"Emirate" = "Εμιράτο";
 
-"Your card's expiration month is invalid." = "Ο μήνας λήξης της κάρτας σας δεν είναι έγκυρος.";
+"Error" = "Σφάλμα";
 
-"Your card's expiration year is invalid." = "Το έτος λήξης της κάρτας σας δεν είναι έγκυρο.";
+"First" = "Όνομα";
 
-"Your card's security code is incomplete." = "Ο κωδικός ασφαλείας της κάρτας σας είναι ελλιπής.";
+"Full name" = "Πλήρες όνομα";
 
-"Your card's security code is invalid." = "Ο κωδικός ασφαλείας της κάρτας σας δεν είναι έγκυρος.";
+"Incomplete phone number" = "Ελλιπής αριθμός τηλεφώνου";
 
-"Your postal code is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
+"Invalid UPI ID" = "Μη έγκυρο αναγνωριστικό UPI";
 
-"card number" = "αριθμός κάρτας";
+"Island" = "Νησί";
 
-"example@example.com" = "example@example.com";
+"Last" = "Επώνυμο";
 
-"expiration date" = "ημερομηνία λήξης";
+"Name" = "Όνομα";
+
+"Name on account" = "Όνομα στον λογαριασμό";
+
+"OK" = "OK";
+
+"Oblast" = "Περιφέρεια";
+
+"Other" = "Άλλο";
+
+"Parish" = "Δήμος";
+
+"Phone" = "Τηλέφωνο";
+
+"Postal code" = "Ταχυδρομικός κώδικας";
+
+"Prefecture" = "Νομός";
+
+"Province" = "Επαρχία";
+
+"Remove" = "Αφαίρεση";
+
+"Remove bank account" = "Αφαίρεση τραπεζικού λογαριασμού";
+
+"Remove bank account ending in %@" = "Αφαίρεση του τραπεζικού λογαριασμού που λήγει σε %@";
+
+"Search" = "Αναζήτηση";
+
+"State" = "Πολιτεία";
+
+"Suburb" = "Προάστιο";
+
+"Suburb or city" = "Προάστιο ή πόλη";
+
+"The BSB you entered is incomplete." = "Ο κωδικός BSB που εισάγατε είναι ατελής.";
+
+"The ID number you entered is incomplete." = "Ο αριθμός ταυτότητας που εισαγάγατε είναι ελλιπής.";
+
+"The account number you entered is incomplete." = "Ο αριθμός λογαριασμού που εισαγάγατε είναι ελλιπής.";
+
+"Town or city" = "Κωμόπολη ή πόλη";
+
+"UPI ID" = "Αναγνωριστικό UPI";
+
+"Unable to parse phone number" = "Δεν ήταν δυνατή η ανάλυση του αριθμού τηλεφώνου";
+
+"Use rotor to access links" = "Χρησιμοποιήστε τον ρότορα για να προσπελάσετε τους συνδέσμους";
+
+"Your ZIP is incomplete." = "Ο ταχυδρομικός σας κώδικας είναι ελλιπής.";
+
+"Your email is invalid." = "Η διεύθυνση email σας δεν είναι έγκυρη.";
+
+"Your postal code is incomplete." = "Ο ταχυδρομικός κώδικάς σας είναι ελλιπής.";
+
+"ZIP" = "Τ.Κ.";

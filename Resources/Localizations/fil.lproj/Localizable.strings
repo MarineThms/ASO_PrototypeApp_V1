@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ account na nagtatapos sa %2$@";
+"%@ (optional)" = "%@(opsyonal)";
 
-"%1$@ ending in %2$@" = "%1$@ nagtatapos sa %2$@";
+"Account number" = "Numero ng account";
 
-"Address line 2 (optional)" = "Pangalawang linya ng adres";
+"Address" = "Adres";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Unang linya ng adres";
 
-"BSB" = "BSB";
+"Address line 2" = "Linya 2 ng address";
 
-"Bank Account" = "Account sa Bangko";
+"Area" = "Lugar";
 
-"Billing Address" = "Adres para sa Billing";
+"BSB number" = "Numero ng BSB";
 
-"Billing address" = "Adres para sa billing";
+"Billing address is same as shipping" = "Ang address sa billing ay kapareho ng sa pagpapadala";
 
-"CVC" = "CVC";
+"Cancel" = "Kanselahin";
 
-"CVV" = "CVV";
+"City" = "Siyudad";
 
-"Card information" = "Impormasyon ng kard";
+"Code field" = "Patlang ng code";
 
-"Card number" = "Numero ng kard";
+"Company" = "Kompanya";
 
-"Invalid data." = "Data na di balido.";
+"Continue" = "Magpatuloy";
 
-"MM / YY" = "BB / TT";
+"Country" = "Bansa";
 
-"MM/YY" = "BB / TT";
+"Country or region" = "Bansa o rehiyon";
 
-"Postal Code" = "Postal Code";
+"County" = "County";
 
-"Shipping Address" = "Adres ng Nagpadala";
+"Department" = "Departamento";
 
-"State / Province / Region" = "State / Probinsiya / Rehiyon";
+"District" = "Distrito";
 
-"The BSB you entered is invalid." = "Ang BSB na ipinasok mo ay di balido.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "Upang ma-scan ang iyong kard, pahintulutan ang access ng kamera sa Settings.";
+"Done" = "Tapos Na";
 
-"Your ZIP is invalid." = "Ang iyong ZIP ay di balido.";
+"Double tap to edit" = "I-double tap para baguhin";
 
-"Your card number is incomplete." = "Ang numero ng iyong kard ay di kumpleto.";
+"Edit" = "I-edit";
 
-"Your card number is invalid." = "Ang numero ng iyong kard ay di balido.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Ang petsa ng pagkapaso ng iyong kard ay di kumpleto.";
+"Email" = "Email";
 
-"Your card's expiration date is invalid." = "Ang petsa ng pagkapaso ng iyong kard ay di balido.";
+"Emirate" = "Emirate";
 
-"Your card's expiration month is invalid." = "Ang buwan ng pagkapaso ng iyong kard ay di balido.";
+"Error" = "Error";
 
-"Your card's expiration year is invalid." = "Ang taon ng pagkapaso ng iyong kard ay di balido.";
+"First" = "Pangalan";
 
-"Your card's security code is incomplete." = "Ang security code ng iyong kard ay di kumpleto.";
+"Full name" = "Buong pangalan";
 
-"Your card's security code is invalid." = "Ang security code ng iyong kard ay di balido.";
+"Incomplete phone number" = "Kulang na numero ng telepono";
 
-"Your postal code is invalid." = "Ang iyong postal code ay di balido.";
+"Invalid UPI ID" = "Di valid na UPI ID";
 
-"card number" = "numero ng kard";
+"Island" = "Isla";
 
-"example@example.com" = "example@example.com";
+"Last" = "Apelyido";
 
-"expiration date" = "Petsa ng pagkapaso";
+"Name" = "Pangalan";
+
+"Name on account" = "Pangalan sa account";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Iba Pa";
+
+"Parish" = "Parokya";
+
+"Phone" = "Telepono";
+
+"Postal code" = "Postal code";
+
+"Prefecture" = "Prefecture";
+
+"Province" = "Probinsiya";
+
+"Remove" = "Alisin";
+
+"Remove bank account" = "Alisin ang account sa bangko";
+
+"Remove bank account ending in %@" = "Alisin ang account sa bangko na nagtatapos sa %@";
+
+"Search" = "Maghanap";
+
+"State" = "State";
+
+"Suburb" = "Suburb";
+
+"Suburb or city" = "Suburb o lungsod";
+
+"The BSB you entered is incomplete." = "Ang BSB na ipinasok mo ay di kumpleto.";
+
+"The ID number you entered is incomplete." = "Ang numero ng ID na inilagay mo ay kulang.";
+
+"The account number you entered is incomplete." = "Ang numero ng account na inilagay mo ay kulang.";
+
+"Town or city" = "Bayan o siyudad";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Hindi ma=parse ang numero ng telepono";
+
+"Use rotor to access links" = "Gumamit ng rotor para i-access ang mga link";
+
+"Your ZIP is incomplete." = "Ang iyong ZIP ay di kumpleto.";
+
+"Your email is invalid." = "Ang iyong email ay imbalido.";
+
+"Your postal code is incomplete." = "Ang iyong postal code ay di kumpleto.";
+
+"ZIP" = "ZIP";

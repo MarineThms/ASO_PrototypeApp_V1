@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%1$@ сметка, завършваща на %2$@";
+"%@ (optional)" = "%@ (по желание)";
 
-"%1$@ ending in %2$@" = "%1$@ завършващо на %2$@";
+"Account number" = "Номер на сметката";
 
-"Address line 2 (optional)" = "Ред 2 на адреса (по желание)";
+"Address" = "Адрес";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Ред 1 на адреса";
 
-"BSB" = "BSB";
+"Address line 2" = "Ред 2 на адреса";
 
-"Bank Account" = "Банкова сметка";
+"Area" = "Район";
 
-"Billing Address" = "Адрес за фактуриране";
+"BSB number" = "BSB номер";
 
-"Billing address" = "Адрес за фактуриране";
+"Billing address is same as shipping" = "Адресът за фактуриране е същият като за доставка";
 
-"CVC" = "CVC";
+"Cancel" = "Отмяна";
 
-"CVV" = "CVV";
+"City" = "Град";
 
-"Card information" = "Информация за картата";
+"Code field" = "Поле за код";
 
-"Card number" = "Номер на картата";
+"Company" = "Компания";
 
-"Invalid data." = "Невалидни данни.";
+"Continue" = "Продължаване";
 
-"MM / YY" = "ММ / ГГ";
+"Country" = "Държава";
 
-"MM/YY" = "ММ/ГГ";
+"Country or region" = "Държава или регион";
 
-"Postal Code" = "Пощенски код";
+"County" = "Окръг";
 
-"Shipping Address" = "Адрес за доставка";
+"Department" = "Отдел";
 
-"State / Province / Region" = "Щат/Област/Регион";
+"District" = "Окръг";
 
-"The BSB you entered is invalid." = "BSB, който сте въвели, е невалиден.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "За да сканирате картата си, разрешете достъп до камерата в Настройки.";
+"Done" = "Готово";
 
-"Your ZIP is invalid." = "Вашият ZIP код е невалиден.";
+"Double tap to edit" = "Докоснете два пъти, за да редактирате";
 
-"Your card number is incomplete." = "Номерът на Вашата карта е непълен.";
+"Edit" = "Редактиране";
 
-"Your card number is invalid." = "Номерът на Вашата карта е невалиден.";
+"Eircode" = "Eircode";
 
-"Your card's expiration date is incomplete." = "Срокът на валидност на Вашата карта е непълен.";
+"Email" = "Имейл";
 
-"Your card's expiration date is invalid." = "Датата на валидност на Вашата карта е невалидна.";
+"Emirate" = "Емирство";
 
-"Your card's expiration month is invalid." = "Месецът на валидност на Вашата карта е невалиден.";
+"Error" = "Грешка";
 
-"Your card's expiration year is invalid." = "Годината на валидност на Вашата карта е невалидна.";
+"First" = "Собствено";
 
-"Your card's security code is incomplete." = "Кодът за сигурност на Вашата карта е непълен.";
+"Full name" = "Трите имена";
 
-"Your card's security code is invalid." = "Кодът за сигурност на Вашата карта е невалиден.";
+"Incomplete phone number" = "Непълен телефонен номер";
 
-"Your postal code is invalid." = "Вашият пощенски код е невалиден.";
+"Invalid UPI ID" = "Невалиден идентификационен номер на UPI";
 
-"card number" = "номер на картата";
+"Island" = "Остров";
 
-"example@example.com" = "example@example.com";
+"Last" = "Фамилия";
 
-"expiration date" = "дата на валидност";
+"Name" = "Име";
+
+"Name on account" = "Име на сметката";
+
+"OK" = "OK";
+
+"Oblast" = "Област";
+
+"Other" = "Друга";
+
+"Parish" = "Енория";
+
+"Phone" = "Телефон";
+
+"Postal code" = "Пощенски код";
+
+"Prefecture" = "Префектура";
+
+"Province" = "Област";
+
+"Remove" = "Премахване";
+
+"Remove bank account" = "Премахване на банкова сметка";
+
+"Remove bank account ending in %@" = "Премахване на банкова сметка, завършваща на %@";
+
+"Search" = "Търсене";
+
+"State" = "Щат";
+
+"Suburb" = "Предградие";
+
+"Suburb or city" = "Предградие или град";
+
+"The BSB you entered is incomplete." = "BSB, който сте въвели, е непълен.";
+
+"The ID number you entered is incomplete." = "Идентификационният номер, който сте въвели, е непълен.";
+
+"The account number you entered is incomplete." = "Въведеният от Вас номер на сметката е невалиден.";
+
+"Town or city" = "Град";
+
+"UPI ID" = "UPI ID";
+
+"Unable to parse phone number" = "Неуспешно анализиране на телефонния номер";
+
+"Use rotor to access links" = "Използване на ротор за достъп до връзки";
+
+"Your ZIP is incomplete." = "Вашият ZIP код е непълен.";
+
+"Your email is invalid." = "Вашият имейл е невалиден.";
+
+"Your postal code is incomplete." = "Вашият пощенски код е непълен.";
+
+"ZIP" = "п.к.";

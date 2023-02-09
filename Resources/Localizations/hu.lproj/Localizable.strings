@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "%2$@ végződésű számla %1$@";
+"%@ (optional)" = "%@ (nem kötelező)";
 
-"%1$@ ending in %2$@" = "%1$@ végződése %2$@";
+"Account number" = "Számlaszám";
 
-"Address line 2 (optional)" = "Cím 2. sora (nem kötelező)";
+"Address" = "Cím";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Cím 1. sora";
 
-"BSB" = "BSB";
+"Address line 2" = "2. címsor";
 
-"Bank Account" = "Bankszámla";
+"Area" = "Terület";
 
-"Billing Address" = "Számlázási cím";
+"BSB number" = "BSB-szám";
 
-"Billing address" = "Számlázási cím";
+"Billing address is same as shipping" = "A számlázási cím megegyezik a szállítási címmel";
 
-"CVC" = "CVC";
+"Cancel" = "Mégse";
 
-"CVV" = "CVV";
+"City" = "Város";
 
-"Card information" = "Kártyaadatok";
+"Code field" = "Kódmező";
 
-"Card number" = "Kártyaszám";
+"Company" = "Vállalat";
 
-"Invalid data." = "Érvénytelen adat.";
+"Continue" = "Folytatás";
 
-"MM / YY" = "HH / ÉÉ";
+"Country" = "Ország";
 
-"MM/YY" = "HH/ÉÉ";
+"Country or region" = "Ország vagy régió";
 
-"Postal Code" = "Postai irányítószám";
+"County" = "Ország";
 
-"Shipping Address" = "Szállítási cím";
+"Department" = "Megye";
 
-"State / Province / Region" = "Állam/tartomány/régió";
+"District" = "Kerület";
 
-"The BSB you entered is invalid." = "A beírt BSB-szám érvénytelen.";
+"Do Si" = "Do Si";
 
-"To scan your card, allow camera access in Settings." = "A kártya beolvasásához engedélyezze a kamerához való hozzáférést a Beállításokban.";
+"Done" = "Kész";
 
-"Your ZIP is invalid." = "A ZIP érvénytelen.";
+"Double tap to edit" = "A szerkesztéshez koppintson kétszer";
 
-"Your card number is incomplete." = "A kártyaszám hiányos.";
+"Edit" = "Szerkesztés";
 
-"Your card number is invalid." = "A kártyaszám érvénytelen.";
+"Eircode" = "Irányítószám";
 
-"Your card's expiration date is incomplete." = "A kártya lejárati dátuma hiányos.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "A kártya lejárati dátuma érvénytelen.";
+"Emirate" = "Emirátus";
 
-"Your card's expiration month is invalid." = "Kártyájának lejárati hónapja érvénytelen.";
+"Error" = "Hiba";
 
-"Your card's expiration year is invalid." = "Kártyájának lejárati éve érvénytelen.";
+"First" = "Utónév";
 
-"Your card's security code is incomplete." = "A kártya biztonsági kódja hiányos.";
+"Full name" = "Teljes név";
 
-"Your card's security code is invalid." = "A kártya biztonsági kódja érvénytelen.";
+"Incomplete phone number" = "Hiányos telefonszám";
 
-"Your postal code is invalid." = "Az irányítószám érvénytelen.";
+"Invalid UPI ID" = "Érvénytelen UPI-azonosító";
 
-"card number" = "kártyaszám";
+"Island" = "Sziget";
 
-"example@example.com" = "valaki@example.com";
+"Last" = "Vezetéknév";
 
-"expiration date" = "lejárati dátum";
+"Name" = "Név";
+
+"Name on account" = "A számlán szereplő név";
+
+"OK" = "OK";
+
+"Oblast" = "Terület";
+
+"Other" = "Egyéb";
+
+"Parish" = "Egyházközség";
+
+"Phone" = "Telefon";
+
+"Postal code" = "Irányítószám";
+
+"Prefecture" = "Prefektúra";
+
+"Province" = "Tartomány";
+
+"Remove" = "Eltávolítás";
+
+"Remove bank account" = "Bankszámla eltávolítása";
+
+"Remove bank account ending in %@" = "%@ számra végződő bankszámla eltávolítása";
+
+"Search" = "Keresés";
+
+"State" = "Állam";
+
+"Suburb" = "Külváros";
+
+"Suburb or city" = "Külváros vagy város";
+
+"The BSB you entered is incomplete." = "A beírt BSB-szám hiányos.";
+
+"The ID number you entered is incomplete." = "A beírt azonosítószám hiányos.";
+
+"The account number you entered is incomplete." = "A számlaszám hiányos.";
+
+"Town or city" = "Kisváros vagy város";
+
+"UPI ID" = "UPI-azonosító";
+
+"Unable to parse phone number" = "A telefonszám nem értelmezhető";
+
+"Use rotor to access links" = "Rotor használata a hivatkozások kezeléséhez";
+
+"Your ZIP is incomplete." = "A ZIP hiányos.";
+
+"Your email is invalid." = "Érvénytelen e-mail-cím.";
+
+"Your postal code is incomplete." = "Az irányítószám hiányos.";
+
+"ZIP" = "Irányítószám";

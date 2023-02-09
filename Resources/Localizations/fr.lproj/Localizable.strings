@@ -1,65 +1,119 @@
-"%1$@ account ending in %2$@" = "compte %1$@ se terminant par %2$@";
+"%@ (optional)" = "%@ (facultatif)";
 
-"%1$@ ending in %2$@" = "%1$@ se terminant par %2$@";
+"Account number" = "Numéro de compte";
 
-"Address line 2 (optional)" = "Adresse - Ligne 2 (facultatif)";
+"Address" = "Adresse";
 
-"Apple Pay" = "Apple Pay";
+"Address line 1" = "Adresse - Ligne 1";
 
-"BSB" = "BSB";
+"Address line 2" = "Adresse - Ligne 2";
 
-"Bank Account" = "Compte bancaire";
+"Area" = "Zone";
 
-"Billing Address" = "Adresse de facturation";
+"BSB number" = "Numéro BSB";
 
-"Billing address" = "Adresse de facturation";
+"Billing address is same as shipping" = "L'adresse de facturation et l'adresse de livraison sont identiques";
 
-"CVC" = "Code CVC";
+"Cancel" = "Annuler";
 
-"CVV" = "Code CVV";
+"City" = "Ville";
 
-"Card information" = "Informations concernant la carte bancaire";
+"Code field" = "Champ de code";
 
-"Card number" = "Numéro de carte bancaire";
+"Company" = "Entreprise";
 
-"Invalid data." = "Donnée non valide.";
+"Continue" = "Continuer";
 
-"MM / YY" = "MM / AA";
+"Country" = "Pays";
 
-"MM/YY" = "MM/AA";
+"Country or region" = "Pays ou région";
 
-"Postal Code" = "Code postal";
+"County" = "Département";
 
-"Shipping Address" = "Adresse de livraison";
+"Department" = "Département";
 
-"State / Province / Region" = "État/Province/Région";
+"District" = "Arrondissement";
 
-"The BSB you entered is invalid." = "Le numéro BSB que vous avez saisi n'est pas valide.";
+"Do Si" = "Province et ville";
 
-"To scan your card, allow camera access in Settings." = "Pour numériser votre carte bancaire, autorisez l'accès à l'appareil photo dans vos paramètres.";
+"Done" = "Terminé";
 
-"Your ZIP is invalid." = "Votre code postal n'est pas valide.";
+"Double tap to edit" = "Appuyez deux fois pour saisir votre texte";
 
-"Your card number is incomplete." = "Votre numéro de carte bancaire est incomplet.";
+"Edit" = "Modifier";
 
-"Your card number is invalid." = "Votre numéro de carte bancaire n'est pas valide.";
+"Eircode" = "Code postal";
 
-"Your card's expiration date is incomplete." = "La date d'expiration de votre carte bancaire est incomplète.";
+"Email" = "E-mail";
 
-"Your card's expiration date is invalid." = "La date d'expiration de votre carte bancaire n'est pas valide.";
+"Emirate" = "Émirat";
 
-"Your card's expiration month is invalid." = "Le mois d'expiration de votre carte n'est pas valide.";
+"Error" = "Erreur";
 
-"Your card's expiration year is invalid." = "L'année d'expiration de votre carte n'est pas valide.";
+"First" = "Prénom";
 
-"Your card's security code is incomplete." = "Le code de sécurité de votre carte bancaire est incomplet.";
+"Full name" = "Nom complet";
 
-"Your card's security code is invalid." = "Le code de sécurité de votre carte bancaire n'est pas valide.";
+"Incomplete phone number" = "Numéro de téléphone incomplet";
 
-"Your postal code is invalid." = "Votre code postal n'est pas valide.";
+"Invalid UPI ID" = "ID d'UPI non valide";
 
-"card number" = "numéro de carte";
+"Island" = "Île";
 
-"example@example.com" = "exemple@exemple.fr";
+"Last" = "Nom";
 
-"expiration date" = "date d'expiration";
+"Name" = "Nom";
+
+"Name on account" = "Nom du titulaire du compte";
+
+"OK" = "OK";
+
+"Oblast" = "Oblast";
+
+"Other" = "Autre";
+
+"Parish" = "Paroisse";
+
+"Phone" = "Téléphone";
+
+"Postal code" = "Code postal";
+
+"Prefecture" = "Préfecture";
+
+"Province" = "Province";
+
+"Remove" = "Supprimer";
+
+"Remove bank account" = "Supprimer le compte bancaire";
+
+"Remove bank account ending in %@" = "Supprimer le compte bancaire se terminant par %@";
+
+"Search" = "Rechercher";
+
+"State" = "État";
+
+"Suburb" = "Banlieue";
+
+"Suburb or city" = "Banlieue ou ville";
+
+"The BSB you entered is incomplete." = "Le numéro BSB que vous avez saisi est incomplet.";
+
+"The ID number you entered is incomplete." = "Le numéro d'identification que vous avez saisi est incomplet.";
+
+"The account number you entered is incomplete." = "Le numéro de compte saisi est incomplet.";
+
+"Town or city" = "Ville";
+
+"UPI ID" = "ID d'UPI";
+
+"Unable to parse phone number" = "Impossible d'analyser le numéro de téléphone";
+
+"Use rotor to access links" = "Utilisez le rotor pour accéder aux liens";
+
+"Your ZIP is incomplete." = "Votre code postal est incomplet.";
+
+"Your email is invalid." = "Votre adresse e-mail n'est pas valide.";
+
+"Your postal code is incomplete." = "Votre code postal est incomplet.";
+
+"ZIP" = "ZIP";
